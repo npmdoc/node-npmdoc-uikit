@@ -1,849 +1,849 @@
 <svg height="13534" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="13534" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-16 14:03:48 +0000 10404906 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-16 14:03:48 +0000    35464 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-16 14:03:48 +0000      472 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-16 14:03:48 +0000     1051 bytes  LICENSE.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-16 14:03:48 +0000     3393 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-16 14:03:48 +0000      535 bytes  bower.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-16 14:03:48 +0000      432 bytes  composer.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-16 14:03:48 +0000      554 bytes  dist/bower.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-16 14:03:48 +0000     1059 bytes  dist/css/components/accordion.almost-flat.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-16 14:03:48 +0000      473 bytes  dist/css/components/accordion.almost-flat.min.cs\</tspan>
+<tspan x="10" y="26">  0.  2017-04-16 14:04:54 +0000 10404906 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-16 14:04:54 +0000    35464 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-16 14:04:54 +0000      472 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-16 14:04:54 +0000     1051 bytes  LICENSE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-16 14:04:54 +0000     3393 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-16 14:04:54 +0000      535 bytes  bower.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-16 14:04:54 +0000      432 bytes  composer.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-16 14:04:54 +0000      554 bytes  dist/bower.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-16 14:04:54 +0000     1059 bytes  dist/css/components/accordion.almost-flat.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-16 14:04:54 +0000      473 bytes  dist/css/components/accordion.almost-flat.min.cs\</tspan>
 <tspan x="10" y="186">s</tspan>
-<tspan x="10" y="202"> 10.  2017-04-16 14:03:48 +0000     1008 bytes  dist/css/components/accordion.css</tspan>
-<tspan x="10" y="218"> 11.  2017-04-16 14:03:48 +0000     1059 bytes  dist/css/components/accordion.gradient.css</tspan>
-<tspan x="10" y="234"> 12.  2017-04-16 14:03:48 +0000      473 bytes  dist/css/components/accordion.gradient.min.css</tspan>
-<tspan x="10" y="250"> 13.  2017-04-16 14:03:48 +0000      430 bytes  dist/css/components/accordion.min.css</tspan>
-<tspan x="10" y="266"> 14.  2017-04-16 14:03:48 +0000     1314 bytes  dist/css/components/autocomplete.almost-flat.css</tspan>
-<tspan x="10" y="282"> 15.  2017-04-16 14:03:48 +0000      509 bytes  dist/css/components/autocomplete.almost-flat.min\</tspan>
+<tspan x="10" y="202"> 10.  2017-04-16 14:04:54 +0000     1008 bytes  dist/css/components/accordion.css</tspan>
+<tspan x="10" y="218"> 11.  2017-04-16 14:04:54 +0000     1059 bytes  dist/css/components/accordion.gradient.css</tspan>
+<tspan x="10" y="234"> 12.  2017-04-16 14:04:54 +0000      473 bytes  dist/css/components/accordion.gradient.min.css</tspan>
+<tspan x="10" y="250"> 13.  2017-04-16 14:04:54 +0000      430 bytes  dist/css/components/accordion.min.css</tspan>
+<tspan x="10" y="266"> 14.  2017-04-16 14:04:54 +0000     1314 bytes  dist/css/components/autocomplete.almost-flat.css</tspan>
+<tspan x="10" y="282"> 15.  2017-04-16 14:04:54 +0000      509 bytes  dist/css/components/autocomplete.almost-flat.min\</tspan>
 <tspan x="10" y="298">.css</tspan>
-<tspan x="10" y="314"> 16.  2017-04-16 14:03:48 +0000     1221 bytes  dist/css/components/autocomplete.css</tspan>
-<tspan x="10" y="330"> 17.  2017-04-16 14:03:48 +0000     1315 bytes  dist/css/components/autocomplete.gradient.css</tspan>
-<tspan x="10" y="346"> 18.  2017-04-16 14:03:48 +0000      510 bytes  dist/css/components/autocomplete.gradient.min.cs\</tspan>
+<tspan x="10" y="314"> 16.  2017-04-16 14:04:54 +0000     1221 bytes  dist/css/components/autocomplete.css</tspan>
+<tspan x="10" y="330"> 17.  2017-04-16 14:04:54 +0000     1315 bytes  dist/css/components/autocomplete.gradient.css</tspan>
+<tspan x="10" y="346"> 18.  2017-04-16 14:04:54 +0000      510 bytes  dist/css/components/autocomplete.gradient.min.cs\</tspan>
 <tspan x="10" y="362">s</tspan>
-<tspan x="10" y="378"> 19.  2017-04-16 14:03:48 +0000      432 bytes  dist/css/components/autocomplete.min.css</tspan>
-<tspan x="10" y="394"> 20.  2017-04-16 14:03:48 +0000     2699 bytes  dist/css/components/datepicker.almost-flat.css</tspan>
-<tspan x="10" y="410"> 21.  2017-04-16 14:03:48 +0000     1460 bytes  dist/css/components/datepicker.almost-flat.min.c\</tspan>
+<tspan x="10" y="378"> 19.  2017-04-16 14:04:54 +0000      432 bytes  dist/css/components/autocomplete.min.css</tspan>
+<tspan x="10" y="394"> 20.  2017-04-16 14:04:54 +0000     2699 bytes  dist/css/components/datepicker.almost-flat.css</tspan>
+<tspan x="10" y="410"> 21.  2017-04-16 14:04:54 +0000     1460 bytes  dist/css/components/datepicker.almost-flat.min.c\</tspan>
 <tspan x="10" y="426">ss</tspan>
-<tspan x="10" y="442"> 22.  2017-04-16 14:03:48 +0000     2482 bytes  dist/css/components/datepicker.css</tspan>
-<tspan x="10" y="458"> 23.  2017-04-16 14:03:48 +0000     3130 bytes  dist/css/components/datepicker.gradient.css</tspan>
-<tspan x="10" y="474"> 24.  2017-04-16 14:03:48 +0000     1827 bytes  dist/css/components/datepicker.gradient.min.css</tspan>
-<tspan x="10" y="490"> 25.  2017-04-16 14:03:48 +0000     1279 bytes  dist/css/components/datepicker.min.css</tspan>
-<tspan x="10" y="506"> 26.  2017-04-16 14:03:48 +0000     2774 bytes  dist/css/components/dotnav.almost-flat.css</tspan>
-<tspan x="10" y="522"> 27.  2017-04-16 14:03:48 +0000     1360 bytes  dist/css/components/dotnav.almost-flat.min.css</tspan>
-<tspan x="10" y="538"> 28.  2017-04-16 14:03:48 +0000     2636 bytes  dist/css/components/dotnav.css</tspan>
-<tspan x="10" y="554"> 29.  2017-04-16 14:03:48 +0000     2774 bytes  dist/css/components/dotnav.gradient.css</tspan>
-<tspan x="10" y="570"> 30.  2017-04-16 14:03:48 +0000     1360 bytes  dist/css/components/dotnav.gradient.min.css</tspan>
-<tspan x="10" y="586"> 31.  2017-04-16 14:03:48 +0000     1240 bytes  dist/css/components/dotnav.min.css</tspan>
-<tspan x="10" y="602"> 32.  2017-04-16 14:03:48 +0000     1845 bytes  dist/css/components/form-advanced.almost-flat.cs\</tspan>
+<tspan x="10" y="442"> 22.  2017-04-16 14:04:54 +0000     2482 bytes  dist/css/components/datepicker.css</tspan>
+<tspan x="10" y="458"> 23.  2017-04-16 14:04:54 +0000     3130 bytes  dist/css/components/datepicker.gradient.css</tspan>
+<tspan x="10" y="474"> 24.  2017-04-16 14:04:54 +0000     1827 bytes  dist/css/components/datepicker.gradient.min.css</tspan>
+<tspan x="10" y="490"> 25.  2017-04-16 14:04:54 +0000     1279 bytes  dist/css/components/datepicker.min.css</tspan>
+<tspan x="10" y="506"> 26.  2017-04-16 14:04:54 +0000     2774 bytes  dist/css/components/dotnav.almost-flat.css</tspan>
+<tspan x="10" y="522"> 27.  2017-04-16 14:04:54 +0000     1360 bytes  dist/css/components/dotnav.almost-flat.min.css</tspan>
+<tspan x="10" y="538"> 28.  2017-04-16 14:04:54 +0000     2636 bytes  dist/css/components/dotnav.css</tspan>
+<tspan x="10" y="554"> 29.  2017-04-16 14:04:54 +0000     2774 bytes  dist/css/components/dotnav.gradient.css</tspan>
+<tspan x="10" y="570"> 30.  2017-04-16 14:04:54 +0000     1360 bytes  dist/css/components/dotnav.gradient.min.css</tspan>
+<tspan x="10" y="586"> 31.  2017-04-16 14:04:54 +0000     1240 bytes  dist/css/components/dotnav.min.css</tspan>
+<tspan x="10" y="602"> 32.  2017-04-16 14:04:54 +0000     1845 bytes  dist/css/components/form-advanced.almost-flat.cs\</tspan>
 <tspan x="10" y="618">s</tspan>
-<tspan x="10" y="634"> 33.  2017-04-16 14:03:48 +0000     1158 bytes  dist/css/components/form-advanced.almost-flat.mi\</tspan>
+<tspan x="10" y="634"> 33.  2017-04-16 14:04:54 +0000     1158 bytes  dist/css/components/form-advanced.almost-flat.mi\</tspan>
 <tspan x="10" y="650">n.css</tspan>
-<tspan x="10" y="666"> 34.  2017-04-16 14:03:48 +0000     1845 bytes  dist/css/components/form-advanced.css</tspan>
-<tspan x="10" y="682"> 35.  2017-04-16 14:03:48 +0000     1845 bytes  dist/css/components/form-advanced.gradient.css</tspan>
-<tspan x="10" y="698"> 36.  2017-04-16 14:03:48 +0000     1158 bytes  dist/css/components/form-advanced.gradient.min.c\</tspan>
+<tspan x="10" y="666"> 34.  2017-04-16 14:04:54 +0000     1845 bytes  dist/css/components/form-advanced.css</tspan>
+<tspan x="10" y="682"> 35.  2017-04-16 14:04:54 +0000     1845 bytes  dist/css/components/form-advanced.gradient.css</tspan>
+<tspan x="10" y="698"> 36.  2017-04-16 14:04:54 +0000     1158 bytes  dist/css/components/form-advanced.gradient.min.c\</tspan>
 <tspan x="10" y="714">ss</tspan>
-<tspan x="10" y="730"> 37.  2017-04-16 14:03:48 +0000     1158 bytes  dist/css/components/form-advanced.min.css</tspan>
-<tspan x="10" y="746"> 38.  2017-04-16 14:03:48 +0000      766 bytes  dist/css/components/form-file.almost-flat.css</tspan>
-<tspan x="10" y="762"> 39.  2017-04-16 14:03:48 +0000      295 bytes  dist/css/components/form-file.almost-flat.min.cs\</tspan>
+<tspan x="10" y="730"> 37.  2017-04-16 14:04:54 +0000     1158 bytes  dist/css/components/form-advanced.min.css</tspan>
+<tspan x="10" y="746"> 38.  2017-04-16 14:04:54 +0000      766 bytes  dist/css/components/form-file.almost-flat.css</tspan>
+<tspan x="10" y="762"> 39.  2017-04-16 14:04:54 +0000      295 bytes  dist/css/components/form-file.almost-flat.min.cs\</tspan>
 <tspan x="10" y="778">s</tspan>
-<tspan x="10" y="794"> 40.  2017-04-16 14:03:48 +0000      766 bytes  dist/css/components/form-file.css</tspan>
-<tspan x="10" y="810"> 41.  2017-04-16 14:03:48 +0000      766 bytes  dist/css/components/form-file.gradient.css</tspan>
-<tspan x="10" y="826"> 42.  2017-04-16 14:03:48 +0000      295 bytes  dist/css/components/form-file.gradient.min.css</tspan>
-<tspan x="10" y="842"> 43.  2017-04-16 14:03:48 +0000      295 bytes  dist/css/components/form-file.min.css</tspan>
-<tspan x="10" y="858"> 44.  2017-04-16 14:03:48 +0000      809 bytes  dist/css/components/form-password.almost-flat.cs\</tspan>
+<tspan x="10" y="794"> 40.  2017-04-16 14:04:54 +0000      766 bytes  dist/css/components/form-file.css</tspan>
+<tspan x="10" y="810"> 41.  2017-04-16 14:04:54 +0000      766 bytes  dist/css/components/form-file.gradient.css</tspan>
+<tspan x="10" y="826"> 42.  2017-04-16 14:04:54 +0000      295 bytes  dist/css/components/form-file.gradient.min.css</tspan>
+<tspan x="10" y="842"> 43.  2017-04-16 14:04:54 +0000      295 bytes  dist/css/components/form-file.min.css</tspan>
+<tspan x="10" y="858"> 44.  2017-04-16 14:04:54 +0000      809 bytes  dist/css/components/form-password.almost-flat.cs\</tspan>
 <tspan x="10" y="874">s</tspan>
-<tspan x="10" y="890"> 45.  2017-04-16 14:03:48 +0000      403 bytes  dist/css/components/form-password.almost-flat.mi\</tspan>
+<tspan x="10" y="890"> 45.  2017-04-16 14:04:54 +0000      403 bytes  dist/css/components/form-password.almost-flat.mi\</tspan>
 <tspan x="10" y="906">n.css</tspan>
-<tspan x="10" y="922"> 46.  2017-04-16 14:03:48 +0000      809 bytes  dist/css/components/form-password.css</tspan>
-<tspan x="10" y="938"> 47.  2017-04-16 14:03:48 +0000      809 bytes  dist/css/components/form-password.gradient.css</tspan>
-<tspan x="10" y="954"> 48.  2017-04-16 14:03:48 +0000      403 bytes  dist/css/components/form-password.gradient.min.c\</tspan>
+<tspan x="10" y="922"> 46.  2017-04-16 14:04:54 +0000      809 bytes  dist/css/components/form-password.css</tspan>
+<tspan x="10" y="938"> 47.  2017-04-16 14:04:54 +0000      809 bytes  dist/css/components/form-password.gradient.css</tspan>
+<tspan x="10" y="954"> 48.  2017-04-16 14:04:54 +0000      403 bytes  dist/css/components/form-password.gradient.min.c\</tspan>
 <tspan x="10" y="970">ss</tspan>
-<tspan x="10" y="986"> 49.  2017-04-16 14:03:48 +0000      403 bytes  dist/css/components/form-password.min.css</tspan>
-<tspan x="10" y="1002"> 50.  2017-04-16 14:03:48 +0000      784 bytes  dist/css/components/form-select.almost-flat.css</tspan>
-<tspan x="10" y="1018"> 51.  2017-04-16 14:03:48 +0000      309 bytes  dist/css/components/form-select.almost-flat.min.\</tspan>
+<tspan x="10" y="986"> 49.  2017-04-16 14:04:54 +0000      403 bytes  dist/css/components/form-password.min.css</tspan>
+<tspan x="10" y="1002"> 50.  2017-04-16 14:04:54 +0000      784 bytes  dist/css/components/form-select.almost-flat.css</tspan>
+<tspan x="10" y="1018"> 51.  2017-04-16 14:04:54 +0000      309 bytes  dist/css/components/form-select.almost-flat.min.\</tspan>
 <tspan x="10" y="1034">css</tspan>
-<tspan x="10" y="1050"> 52.  2017-04-16 14:03:48 +0000      784 bytes  dist/css/components/form-select.css</tspan>
-<tspan x="10" y="1066"> 53.  2017-04-16 14:03:48 +0000      784 bytes  dist/css/components/form-select.gradient.css</tspan>
-<tspan x="10" y="1082"> 54.  2017-04-16 14:03:48 +0000      309 bytes  dist/css/components/form-select.gradient.min.css</tspan>
-<tspan x="10" y="1098"> 55.  2017-04-16 14:03:48 +0000      309 bytes  dist/css/components/form-select.min.css</tspan>
-<tspan x="10" y="1114"> 56.  2017-04-16 14:03:48 +0000     5665 bytes  dist/css/components/htmleditor.almost-flat.css</tspan>
-<tspan x="10" y="1130"> 57.  2017-04-16 14:03:48 +0000     3256 bytes  dist/css/components/htmleditor.almost-flat.min.c\</tspan>
+<tspan x="10" y="1050"> 52.  2017-04-16 14:04:54 +0000      784 bytes  dist/css/components/form-select.css</tspan>
+<tspan x="10" y="1066"> 53.  2017-04-16 14:04:54 +0000      784 bytes  dist/css/components/form-select.gradient.css</tspan>
+<tspan x="10" y="1082"> 54.  2017-04-16 14:04:54 +0000      309 bytes  dist/css/components/form-select.gradient.min.css</tspan>
+<tspan x="10" y="1098"> 55.  2017-04-16 14:04:54 +0000      309 bytes  dist/css/components/form-select.min.css</tspan>
+<tspan x="10" y="1114"> 56.  2017-04-16 14:04:54 +0000     5665 bytes  dist/css/components/htmleditor.almost-flat.css</tspan>
+<tspan x="10" y="1130"> 57.  2017-04-16 14:04:54 +0000     3256 bytes  dist/css/components/htmleditor.almost-flat.min.c\</tspan>
 <tspan x="10" y="1146">ss</tspan>
-<tspan x="10" y="1162"> 58.  2017-04-16 14:03:48 +0000     3927 bytes  dist/css/components/htmleditor.css</tspan>
-<tspan x="10" y="1178"> 59.  2017-04-16 14:03:48 +0000     6019 bytes  dist/css/components/htmleditor.gradient.css</tspan>
-<tspan x="10" y="1194"> 60.  2017-04-16 14:03:48 +0000     3562 bytes  dist/css/components/htmleditor.gradient.min.css</tspan>
-<tspan x="10" y="1210"> 61.  2017-04-16 14:03:48 +0000     2008 bytes  dist/css/components/htmleditor.min.css</tspan>
-<tspan x="10" y="1226"> 62.  2017-04-16 14:03:48 +0000     3489 bytes  dist/css/components/nestable.almost-flat.css</tspan>
-<tspan x="10" y="1242"> 63.  2017-04-16 14:03:48 +0000     1475 bytes  dist/css/components/nestable.almost-flat.min.css</tspan>
-<tspan x="10" y="1258"> 64.  2017-04-16 14:03:48 +0000     3397 bytes  dist/css/components/nestable.css</tspan>
-<tspan x="10" y="1274"> 65.  2017-04-16 14:03:48 +0000     3686 bytes  dist/css/components/nestable.gradient.css</tspan>
-<tspan x="10" y="1290"> 66.  2017-04-16 14:03:48 +0000     1648 bytes  dist/css/components/nestable.gradient.min.css</tspan>
-<tspan x="10" y="1306"> 67.  2017-04-16 14:03:48 +0000     1399 bytes  dist/css/components/nestable.min.css</tspan>
-<tspan x="10" y="1322"> 68.  2017-04-16 14:03:48 +0000     2561 bytes  dist/css/components/notify.almost-flat.css</tspan>
-<tspan x="10" y="1338"> 69.  2017-04-16 14:03:48 +0000     1150 bytes  dist/css/components/notify.almost-flat.min.css</tspan>
-<tspan x="10" y="1354"> 70.  2017-04-16 14:03:48 +0000     2350 bytes  dist/css/components/notify.css</tspan>
-<tspan x="10" y="1370"> 71.  2017-04-16 14:03:48 +0000     2561 bytes  dist/css/components/notify.gradient.css</tspan>
-<tspan x="10" y="1386"> 72.  2017-04-16 14:03:48 +0000     1150 bytes  dist/css/components/notify.gradient.min.css</tspan>
-<tspan x="10" y="1402"> 73.  2017-04-16 14:03:48 +0000      979 bytes  dist/css/components/notify.min.css</tspan>
-<tspan x="10" y="1418"> 74.  2017-04-16 14:03:48 +0000      755 bytes  dist/css/components/placeholder.almost-flat.css</tspan>
-<tspan x="10" y="1434"> 75.  2017-04-16 14:03:48 +0000      318 bytes  dist/css/components/placeholder.almost-flat.min.\</tspan>
+<tspan x="10" y="1162"> 58.  2017-04-16 14:04:54 +0000     3927 bytes  dist/css/components/htmleditor.css</tspan>
+<tspan x="10" y="1178"> 59.  2017-04-16 14:04:54 +0000     6019 bytes  dist/css/components/htmleditor.gradient.css</tspan>
+<tspan x="10" y="1194"> 60.  2017-04-16 14:04:54 +0000     3562 bytes  dist/css/components/htmleditor.gradient.min.css</tspan>
+<tspan x="10" y="1210"> 61.  2017-04-16 14:04:54 +0000     2008 bytes  dist/css/components/htmleditor.min.css</tspan>
+<tspan x="10" y="1226"> 62.  2017-04-16 14:04:54 +0000     3489 bytes  dist/css/components/nestable.almost-flat.css</tspan>
+<tspan x="10" y="1242"> 63.  2017-04-16 14:04:54 +0000     1475 bytes  dist/css/components/nestable.almost-flat.min.css</tspan>
+<tspan x="10" y="1258"> 64.  2017-04-16 14:04:54 +0000     3397 bytes  dist/css/components/nestable.css</tspan>
+<tspan x="10" y="1274"> 65.  2017-04-16 14:04:54 +0000     3686 bytes  dist/css/components/nestable.gradient.css</tspan>
+<tspan x="10" y="1290"> 66.  2017-04-16 14:04:54 +0000     1648 bytes  dist/css/components/nestable.gradient.min.css</tspan>
+<tspan x="10" y="1306"> 67.  2017-04-16 14:04:54 +0000     1399 bytes  dist/css/components/nestable.min.css</tspan>
+<tspan x="10" y="1322"> 68.  2017-04-16 14:04:54 +0000     2561 bytes  dist/css/components/notify.almost-flat.css</tspan>
+<tspan x="10" y="1338"> 69.  2017-04-16 14:04:54 +0000     1150 bytes  dist/css/components/notify.almost-flat.min.css</tspan>
+<tspan x="10" y="1354"> 70.  2017-04-16 14:04:54 +0000     2350 bytes  dist/css/components/notify.css</tspan>
+<tspan x="10" y="1370"> 71.  2017-04-16 14:04:54 +0000     2561 bytes  dist/css/components/notify.gradient.css</tspan>
+<tspan x="10" y="1386"> 72.  2017-04-16 14:04:54 +0000     1150 bytes  dist/css/components/notify.gradient.min.css</tspan>
+<tspan x="10" y="1402"> 73.  2017-04-16 14:04:54 +0000      979 bytes  dist/css/components/notify.min.css</tspan>
+<tspan x="10" y="1418"> 74.  2017-04-16 14:04:54 +0000      755 bytes  dist/css/components/placeholder.almost-flat.css</tspan>
+<tspan x="10" y="1434"> 75.  2017-04-16 14:04:54 +0000      318 bytes  dist/css/components/placeholder.almost-flat.min.\</tspan>
 <tspan x="10" y="1450">css</tspan>
-<tspan x="10" y="1466"> 76.  2017-04-16 14:03:48 +0000      755 bytes  dist/css/components/placeholder.css</tspan>
-<tspan x="10" y="1482"> 77.  2017-04-16 14:03:48 +0000      755 bytes  dist/css/components/placeholder.gradient.css</tspan>
-<tspan x="10" y="1498"> 78.  2017-04-16 14:03:48 +0000      318 bytes  dist/css/components/placeholder.gradient.min.css</tspan>
-<tspan x="10" y="1514"> 79.  2017-04-16 14:03:48 +0000      318 bytes  dist/css/components/placeholder.min.css</tspan>
-<tspan x="10" y="1530"> 80.  2017-04-16 14:03:48 +0000     2851 bytes  dist/css/components/progress.almost-flat.css</tspan>
-<tspan x="10" y="1546"> 81.  2017-04-16 14:03:48 +0000     1633 bytes  dist/css/components/progress.almost-flat.min.css</tspan>
-<tspan x="10" y="1562"> 82.  2017-04-16 14:03:48 +0000     2515 bytes  dist/css/components/progress.css</tspan>
-<tspan x="10" y="1578"> 83.  2017-04-16 14:03:48 +0000     3460 bytes  dist/css/components/progress.gradient.css</tspan>
-<tspan x="10" y="1594"> 84.  2017-04-16 14:03:48 +0000     2184 bytes  dist/css/components/progress.gradient.min.css</tspan>
-<tspan x="10" y="1610"> 85.  2017-04-16 14:03:48 +0000     1435 bytes  dist/css/components/progress.min.css</tspan>
-<tspan x="10" y="1626"> 86.  2017-04-16 14:03:48 +0000     4130 bytes  dist/css/components/search.almost-flat.css</tspan>
-<tspan x="10" y="1642"> 87.  2017-04-16 14:03:48 +0000     2134 bytes  dist/css/components/search.almost-flat.min.css</tspan>
-<tspan x="10" y="1658"> 88.  2017-04-16 14:03:48 +0000     4039 bytes  dist/css/components/search.css</tspan>
-<tspan x="10" y="1674"> 89.  2017-04-16 14:03:48 +0000     4131 bytes  dist/css/components/search.gradient.css</tspan>
-<tspan x="10" y="1690"> 90.  2017-04-16 14:03:48 +0000     2135 bytes  dist/css/components/search.gradient.min.css</tspan>
-<tspan x="10" y="1706"> 91.  2017-04-16 14:03:48 +0000     2059 bytes  dist/css/components/search.min.css</tspan>
-<tspan x="10" y="1722"> 92.  2017-04-16 14:03:48 +0000     2043 bytes  dist/css/components/slidenav.almost-flat.css</tspan>
-<tspan x="10" y="1738"> 93.  2017-04-16 14:03:48 +0000     1008 bytes  dist/css/components/slidenav.almost-flat.min.css</tspan>
-<tspan x="10" y="1754"> 94.  2017-04-16 14:03:48 +0000     2043 bytes  dist/css/components/slidenav.css</tspan>
-<tspan x="10" y="1770"> 95.  2017-04-16 14:03:48 +0000     2043 bytes  dist/css/components/slidenav.gradient.css</tspan>
-<tspan x="10" y="1786"> 96.  2017-04-16 14:03:48 +0000     1008 bytes  dist/css/components/slidenav.gradient.min.css</tspan>
-<tspan x="10" y="1802"> 97.  2017-04-16 14:03:48 +0000     1008 bytes  dist/css/components/slidenav.min.css</tspan>
-<tspan x="10" y="1818"> 98.  2017-04-16 14:03:48 +0000     1963 bytes  dist/css/components/slider.almost-flat.css</tspan>
-<tspan x="10" y="1834"> 99.  2017-04-16 14:03:48 +0000      766 bytes  dist/css/components/slider.almost-flat.min.css</tspan>
-<tspan x="10" y="1850">100.  2017-04-16 14:03:48 +0000     1963 bytes  dist/css/components/slider.css</tspan>
-<tspan x="10" y="1866">101.  2017-04-16 14:03:48 +0000     1963 bytes  dist/css/components/slider.gradient.css</tspan>
-<tspan x="10" y="1882">102.  2017-04-16 14:03:48 +0000      766 bytes  dist/css/components/slider.gradient.min.css</tspan>
-<tspan x="10" y="1898">103.  2017-04-16 14:03:48 +0000      766 bytes  dist/css/components/slider.min.css</tspan>
-<tspan x="10" y="1914">104.  2017-04-16 14:03:48 +0000     3573 bytes  dist/css/components/slideshow.almost-flat.css</tspan>
-<tspan x="10" y="1930">105.  2017-04-16 14:03:48 +0000     2103 bytes  dist/css/components/slideshow.almost-flat.min.cs\</tspan>
+<tspan x="10" y="1466"> 76.  2017-04-16 14:04:54 +0000      755 bytes  dist/css/components/placeholder.css</tspan>
+<tspan x="10" y="1482"> 77.  2017-04-16 14:04:54 +0000      755 bytes  dist/css/components/placeholder.gradient.css</tspan>
+<tspan x="10" y="1498"> 78.  2017-04-16 14:04:54 +0000      318 bytes  dist/css/components/placeholder.gradient.min.css</tspan>
+<tspan x="10" y="1514"> 79.  2017-04-16 14:04:54 +0000      318 bytes  dist/css/components/placeholder.min.css</tspan>
+<tspan x="10" y="1530"> 80.  2017-04-16 14:04:54 +0000     2851 bytes  dist/css/components/progress.almost-flat.css</tspan>
+<tspan x="10" y="1546"> 81.  2017-04-16 14:04:54 +0000     1633 bytes  dist/css/components/progress.almost-flat.min.css</tspan>
+<tspan x="10" y="1562"> 82.  2017-04-16 14:04:54 +0000     2515 bytes  dist/css/components/progress.css</tspan>
+<tspan x="10" y="1578"> 83.  2017-04-16 14:04:54 +0000     3460 bytes  dist/css/components/progress.gradient.css</tspan>
+<tspan x="10" y="1594"> 84.  2017-04-16 14:04:54 +0000     2184 bytes  dist/css/components/progress.gradient.min.css</tspan>
+<tspan x="10" y="1610"> 85.  2017-04-16 14:04:54 +0000     1435 bytes  dist/css/components/progress.min.css</tspan>
+<tspan x="10" y="1626"> 86.  2017-04-16 14:04:54 +0000     4130 bytes  dist/css/components/search.almost-flat.css</tspan>
+<tspan x="10" y="1642"> 87.  2017-04-16 14:04:54 +0000     2134 bytes  dist/css/components/search.almost-flat.min.css</tspan>
+<tspan x="10" y="1658"> 88.  2017-04-16 14:04:54 +0000     4039 bytes  dist/css/components/search.css</tspan>
+<tspan x="10" y="1674"> 89.  2017-04-16 14:04:54 +0000     4131 bytes  dist/css/components/search.gradient.css</tspan>
+<tspan x="10" y="1690"> 90.  2017-04-16 14:04:54 +0000     2135 bytes  dist/css/components/search.gradient.min.css</tspan>
+<tspan x="10" y="1706"> 91.  2017-04-16 14:04:54 +0000     2059 bytes  dist/css/components/search.min.css</tspan>
+<tspan x="10" y="1722"> 92.  2017-04-16 14:04:54 +0000     2043 bytes  dist/css/components/slidenav.almost-flat.css</tspan>
+<tspan x="10" y="1738"> 93.  2017-04-16 14:04:54 +0000     1008 bytes  dist/css/components/slidenav.almost-flat.min.css</tspan>
+<tspan x="10" y="1754"> 94.  2017-04-16 14:04:54 +0000     2043 bytes  dist/css/components/slidenav.css</tspan>
+<tspan x="10" y="1770"> 95.  2017-04-16 14:04:54 +0000     2043 bytes  dist/css/components/slidenav.gradient.css</tspan>
+<tspan x="10" y="1786"> 96.  2017-04-16 14:04:54 +0000     1008 bytes  dist/css/components/slidenav.gradient.min.css</tspan>
+<tspan x="10" y="1802"> 97.  2017-04-16 14:04:54 +0000     1008 bytes  dist/css/components/slidenav.min.css</tspan>
+<tspan x="10" y="1818"> 98.  2017-04-16 14:04:54 +0000     1963 bytes  dist/css/components/slider.almost-flat.css</tspan>
+<tspan x="10" y="1834"> 99.  2017-04-16 14:04:54 +0000      766 bytes  dist/css/components/slider.almost-flat.min.css</tspan>
+<tspan x="10" y="1850">100.  2017-04-16 14:04:54 +0000     1963 bytes  dist/css/components/slider.css</tspan>
+<tspan x="10" y="1866">101.  2017-04-16 14:04:54 +0000     1963 bytes  dist/css/components/slider.gradient.css</tspan>
+<tspan x="10" y="1882">102.  2017-04-16 14:04:54 +0000      766 bytes  dist/css/components/slider.gradient.min.css</tspan>
+<tspan x="10" y="1898">103.  2017-04-16 14:04:54 +0000      766 bytes  dist/css/components/slider.min.css</tspan>
+<tspan x="10" y="1914">104.  2017-04-16 14:04:54 +0000     3573 bytes  dist/css/components/slideshow.almost-flat.css</tspan>
+<tspan x="10" y="1930">105.  2017-04-16 14:04:54 +0000     2103 bytes  dist/css/components/slideshow.almost-flat.min.cs\</tspan>
 <tspan x="10" y="1946">s</tspan>
-<tspan x="10" y="1962">106.  2017-04-16 14:03:48 +0000     3573 bytes  dist/css/components/slideshow.css</tspan>
-<tspan x="10" y="1978">107.  2017-04-16 14:03:48 +0000     3573 bytes  dist/css/components/slideshow.gradient.css</tspan>
-<tspan x="10" y="1994">108.  2017-04-16 14:03:48 +0000     2103 bytes  dist/css/components/slideshow.gradient.min.css</tspan>
-<tspan x="10" y="2010">109.  2017-04-16 14:03:48 +0000     2103 bytes  dist/css/components/slideshow.min.css</tspan>
-<tspan x="10" y="2026">110.  2017-04-16 14:03:48 +0000     1718 bytes  dist/css/components/sortable.almost-flat.css</tspan>
-<tspan x="10" y="2042">111.  2017-04-16 14:03:48 +0000      563 bytes  dist/css/components/sortable.almost-flat.min.css</tspan>
-<tspan x="10" y="2058">112.  2017-04-16 14:03:48 +0000     1718 bytes  dist/css/components/sortable.css</tspan>
-<tspan x="10" y="2074">113.  2017-04-16 14:03:48 +0000     1718 bytes  dist/css/components/sortable.gradient.css</tspan>
-<tspan x="10" y="2090">114.  2017-04-16 14:03:48 +0000      563 bytes  dist/css/components/sortable.gradient.min.css</tspan>
-<tspan x="10" y="2106">115.  2017-04-16 14:03:48 +0000      563 bytes  dist/css/components/sortable.min.css</tspan>
-<tspan x="10" y="2122">116.  2017-04-16 14:03:48 +0000      765 bytes  dist/css/components/sticky.almost-flat.css</tspan>
-<tspan x="10" y="2138">117.  2017-04-16 14:03:48 +0000      361 bytes  dist/css/components/sticky.almost-flat.min.css</tspan>
-<tspan x="10" y="2154">118.  2017-04-16 14:03:48 +0000      765 bytes  dist/css/components/sticky.css</tspan>
-<tspan x="10" y="2170">119.  2017-04-16 14:03:48 +0000      765 bytes  dist/css/components/sticky.gradient.css</tspan>
-<tspan x="10" y="2186">120.  2017-04-16 14:03:48 +0000      361 bytes  dist/css/components/sticky.gradient.min.css</tspan>
-<tspan x="10" y="2202">121.  2017-04-16 14:03:48 +0000      361 bytes  dist/css/components/sticky.min.css</tspan>
-<tspan x="10" y="2218">122.  2017-04-16 14:03:48 +0000     2415 bytes  dist/css/components/tooltip.almost-flat.css</tspan>
-<tspan x="10" y="2234">123.  2017-04-16 14:03:48 +0000     1456 bytes  dist/css/components/tooltip.almost-flat.min.css</tspan>
-<tspan x="10" y="2250">124.  2017-04-16 14:03:48 +0000     2350 bytes  dist/css/components/tooltip.css</tspan>
-<tspan x="10" y="2266">125.  2017-04-16 14:03:48 +0000     2415 bytes  dist/css/components/tooltip.gradient.css</tspan>
-<tspan x="10" y="2282">126.  2017-04-16 14:03:48 +0000     1456 bytes  dist/css/components/tooltip.gradient.min.css</tspan>
-<tspan x="10" y="2298">127.  2017-04-16 14:03:48 +0000     1403 bytes  dist/css/components/tooltip.min.css</tspan>
-<tspan x="10" y="2314">128.  2017-04-16 14:03:48 +0000      394 bytes  dist/css/components/upload.almost-flat.css</tspan>
-<tspan x="10" y="2330">129.  2017-04-16 14:03:48 +0000      134 bytes  dist/css/components/upload.almost-flat.min.css</tspan>
-<tspan x="10" y="2346">130.  2017-04-16 14:03:48 +0000      394 bytes  dist/css/components/upload.css</tspan>
-<tspan x="10" y="2362">131.  2017-04-16 14:03:48 +0000      394 bytes  dist/css/components/upload.gradient.css</tspan>
-<tspan x="10" y="2378">132.  2017-04-16 14:03:48 +0000      134 bytes  dist/css/components/upload.gradient.min.css</tspan>
-<tspan x="10" y="2394">133.  2017-04-16 14:03:48 +0000      134 bytes  dist/css/components/upload.min.css</tspan>
-<tspan x="10" y="2410">134.  2017-04-16 14:03:48 +0000   187324 bytes  dist/css/uikit.almost-flat.css</tspan>
-<tspan x="10" y="2426">135.  2017-04-16 14:03:48 +0000   109215 bytes  dist/css/uikit.almost-flat.min.css</tspan>
-<tspan x="10" y="2442">136.  2017-04-16 14:03:48 +0000   178620 bytes  dist/css/uikit.css</tspan>
-<tspan x="10" y="2458">137.  2017-04-16 14:03:48 +0000   190518 bytes  dist/css/uikit.gradient.css</tspan>
-<tspan x="10" y="2474">138.  2017-04-16 14:03:48 +0000   112061 bytes  dist/css/uikit.gradient.min.css</tspan>
-<tspan x="10" y="2490">139.  2017-04-16 14:03:48 +0000   103005 bytes  dist/css/uikit.min.css</tspan>
-<tspan x="10" y="2506">140.  2017-04-16 14:03:48 +0000   124988 bytes  dist/fonts/FontAwesome.otf</tspan>
-<tspan x="10" y="2522">141.  2017-04-16 14:03:48 +0000   152796 bytes  dist/fonts/fontawesome-webfont.ttf</tspan>
-<tspan x="10" y="2538">142.  2017-04-16 14:03:48 +0000    90412 bytes  dist/fonts/fontawesome-webfont.woff</tspan>
-<tspan x="10" y="2554">143.  2017-04-16 14:03:48 +0000    71896 bytes  dist/fonts/fontawesome-webfont.woff2</tspan>
-<tspan x="10" y="2570">144.  2017-04-16 14:03:48 +0000     5429 bytes  dist/js/components/accordion.js</tspan>
-<tspan x="10" y="2586">145.  2017-04-16 14:03:48 +0000     2852 bytes  dist/js/components/accordion.min.js</tspan>
-<tspan x="10" y="2602">146.  2017-04-16 14:03:48 +0000     9665 bytes  dist/js/components/autocomplete.js</tspan>
-<tspan x="10" y="2618">147.  2017-04-16 14:03:48 +0000     4262 bytes  dist/js/components/autocomplete.min.js</tspan>
-<tspan x="10" y="2634">148.  2017-04-16 14:03:48 +0000   113388 bytes  dist/js/components/datepicker.js</tspan>
-<tspan x="10" y="2650">149.  2017-04-16 14:03:48 +0000    37648 bytes  dist/js/components/datepicker.min.js</tspan>
-<tspan x="10" y="2666">150.  2017-04-16 14:03:48 +0000     1756 bytes  dist/js/components/form-password.js</tspan>
-<tspan x="10" y="2682">151.  2017-04-16 14:03:48 +0000     1055 bytes  dist/js/components/form-password.min.js</tspan>
-<tspan x="10" y="2698">152.  2017-04-16 14:03:48 +0000     2344 bytes  dist/js/components/form-select.js</tspan>
-<tspan x="10" y="2714">153.  2017-04-16 14:03:48 +0000     1201 bytes  dist/js/components/form-select.min.js</tspan>
-<tspan x="10" y="2730">154.  2017-04-16 14:03:48 +0000     4833 bytes  dist/js/components/grid-parallax.js</tspan>
-<tspan x="10" y="2746">155.  2017-04-16 14:03:48 +0000     2048 bytes  dist/js/components/grid-parallax.min.js</tspan>
-<tspan x="10" y="2762">156.  2017-04-16 14:03:48 +0000    17121 bytes  dist/js/components/grid.js</tspan>
-<tspan x="10" y="2778">157.  2017-04-16 14:03:48 +0000     6458 bytes  dist/js/components/grid.min.js</tspan>
-<tspan x="10" y="2794">158.  2017-04-16 14:03:48 +0000    25884 bytes  dist/js/components/htmleditor.js</tspan>
-<tspan x="10" y="2810">159.  2017-04-16 14:03:48 +0000    13457 bytes  dist/js/components/htmleditor.min.js</tspan>
-<tspan x="10" y="2826">160.  2017-04-16 14:03:48 +0000    19089 bytes  dist/js/components/lightbox.js</tspan>
-<tspan x="10" y="2842">161.  2017-04-16 14:03:48 +0000     8990 bytes  dist/js/components/lightbox.min.js</tspan>
-<tspan x="10" y="2858">162.  2017-04-16 14:03:48 +0000    22506 bytes  dist/js/components/nestable.js</tspan>
-<tspan x="10" y="2874">163.  2017-04-16 14:03:48 +0000     9501 bytes  dist/js/components/nestable.min.js</tspan>
-<tspan x="10" y="2890">164.  2017-04-16 14:03:48 +0000     5093 bytes  dist/js/components/notify.js</tspan>
-<tspan x="10" y="2906">165.  2017-04-16 14:03:48 +0000     2636 bytes  dist/js/components/notify.min.js</tspan>
-<tspan x="10" y="2922">166.  2017-04-16 14:03:48 +0000     4921 bytes  dist/js/components/pagination.js</tspan>
-<tspan x="10" y="2938">167.  2017-04-16 14:03:48 +0000     2565 bytes  dist/js/components/pagination.min.js</tspan>
-<tspan x="10" y="2954">168.  2017-04-16 14:03:48 +0000    15053 bytes  dist/js/components/parallax.js</tspan>
-<tspan x="10" y="2970">169.  2017-04-16 14:03:48 +0000     5974 bytes  dist/js/components/parallax.min.js</tspan>
-<tspan x="10" y="2986">170.  2017-04-16 14:03:48 +0000     3728 bytes  dist/js/components/search.js</tspan>
-<tspan x="10" y="3002">171.  2017-04-16 14:03:48 +0000     2794 bytes  dist/js/components/search.min.js</tspan>
-<tspan x="10" y="3018">172.  2017-04-16 14:03:48 +0000    16281 bytes  dist/js/components/slider.js</tspan>
-<tspan x="10" y="3034">173.  2017-04-16 14:03:48 +0000     7111 bytes  dist/js/components/slider.min.js</tspan>
-<tspan x="10" y="3050">174.  2017-04-16 14:03:48 +0000    14720 bytes  dist/js/components/slideset.js</tspan>
-<tspan x="10" y="3066">175.  2017-04-16 14:03:48 +0000     7120 bytes  dist/js/components/slideset.min.js</tspan>
-<tspan x="10" y="3082">176.  2017-04-16 14:03:48 +0000    13875 bytes  dist/js/components/slideshow-fx.js</tspan>
-<tspan x="10" y="3098">177.  2017-04-16 14:03:48 +0000     5861 bytes  dist/js/components/slideshow-fx.min.js</tspan>
-<tspan x="10" y="3114">178.  2017-04-16 14:03:48 +0000    20139 bytes  dist/js/components/slideshow.js</tspan>
-<tspan x="10" y="3130">179.  2017-04-16 14:03:48 +0000    10038 bytes  dist/js/components/slideshow.min.js</tspan>
-<tspan x="10" y="3146">180.  2017-04-16 14:03:48 +0000    24115 bytes  dist/js/components/sortable.js</tspan>
-<tspan x="10" y="3162">181.  2017-04-16 14:03:48 +0000     9204 bytes  dist/js/components/sortable.min.js</tspan>
-<tspan x="10" y="3178">182.  2017-04-16 14:03:48 +0000    13036 bytes  dist/js/components/sticky.js</tspan>
-<tspan x="10" y="3194">183.  2017-04-16 14:03:48 +0000     5056 bytes  dist/js/components/sticky.min.js</tspan>
-<tspan x="10" y="3210">184.  2017-04-16 14:03:48 +0000     5558 bytes  dist/js/components/timepicker.js</tspan>
-<tspan x="10" y="3226">185.  2017-04-16 14:03:48 +0000     2669 bytes  dist/js/components/timepicker.min.js</tspan>
-<tspan x="10" y="3242">186.  2017-04-16 14:03:48 +0000     8059 bytes  dist/js/components/tooltip.js</tspan>
-<tspan x="10" y="3258">187.  2017-04-16 14:03:48 +0000     3716 bytes  dist/js/components/tooltip.min.js</tspan>
-<tspan x="10" y="3274">188.  2017-04-16 14:03:48 +0000     7787 bytes  dist/js/components/upload.js</tspan>
-<tspan x="10" y="3290">189.  2017-04-16 14:03:48 +0000     3540 bytes  dist/js/components/upload.min.js</tspan>
-<tspan x="10" y="3306">190.  2017-04-16 14:03:48 +0000     1769 bytes  dist/js/core/alert.js</tspan>
-<tspan x="10" y="3322">191.  2017-04-16 14:03:48 +0000      856 bytes  dist/js/core/alert.min.js</tspan>
-<tspan x="10" y="3338">192.  2017-04-16 14:03:48 +0000     4314 bytes  dist/js/core/button.js</tspan>
-<tspan x="10" y="3354">193.  2017-04-16 14:03:48 +0000     2463 bytes  dist/js/core/button.min.js</tspan>
-<tspan x="10" y="3370">194.  2017-04-16 14:03:48 +0000    25163 bytes  dist/js/core/core.js</tspan>
-<tspan x="10" y="3386">195.  2017-04-16 14:03:48 +0000    11372 bytes  dist/js/core/core.min.js</tspan>
-<tspan x="10" y="3402">196.  2017-04-16 14:03:48 +0000     2583 bytes  dist/js/core/cover.js</tspan>
-<tspan x="10" y="3418">197.  2017-04-16 14:03:48 +0000     1466 bytes  dist/js/core/cover.min.js</tspan>
-<tspan x="10" y="3434">198.  2017-04-16 14:03:48 +0000    18480 bytes  dist/js/core/dropdown.js</tspan>
-<tspan x="10" y="3450">199.  2017-04-16 14:03:48 +0000     8903 bytes  dist/js/core/dropdown.min.js</tspan>
-<tspan x="10" y="3466">200.  2017-04-16 14:03:48 +0000     3112 bytes  dist/js/core/grid.js</tspan>
-<tspan x="10" y="3482">201.  2017-04-16 14:03:48 +0000     1620 bytes  dist/js/core/grid.min.js</tspan>
-<tspan x="10" y="3498">202.  2017-04-16 14:03:48 +0000    12078 bytes  dist/js/core/modal.js</tspan>
-<tspan x="10" y="3514">203.  2017-04-16 14:03:48 +0000     6741 bytes  dist/js/core/modal.min.js</tspan>
-<tspan x="10" y="3530">204.  2017-04-16 14:03:48 +0000     4429 bytes  dist/js/core/nav.js</tspan>
-<tspan x="10" y="3546">205.  2017-04-16 14:03:48 +0000     2112 bytes  dist/js/core/nav.min.js</tspan>
-<tspan x="10" y="3562">206.  2017-04-16 14:03:48 +0000     6127 bytes  dist/js/core/offcanvas.js</tspan>
-<tspan x="10" y="3578">207.  2017-04-16 14:03:48 +0000     2953 bytes  dist/js/core/offcanvas.min.js</tspan>
-<tspan x="10" y="3594">208.  2017-04-16 14:03:48 +0000     7065 bytes  dist/js/core/scrollspy.js</tspan>
-<tspan x="10" y="3610">209.  2017-04-16 14:03:48 +0000     2989 bytes  dist/js/core/scrollspy.min.js</tspan>
-<tspan x="10" y="3626">210.  2017-04-16 14:03:48 +0000     1823 bytes  dist/js/core/smooth-scroll.js</tspan>
-<tspan x="10" y="3642">211.  2017-04-16 14:03:48 +0000      944 bytes  dist/js/core/smooth-scroll.min.js</tspan>
-<tspan x="10" y="3658">212.  2017-04-16 14:03:48 +0000     8922 bytes  dist/js/core/switcher.js</tspan>
-<tspan x="10" y="3674">213.  2017-04-16 14:03:48 +0000     4145 bytes  dist/js/core/switcher.min.js</tspan>
-<tspan x="10" y="3690">214.  2017-04-16 14:03:48 +0000     5442 bytes  dist/js/core/tab.js</tspan>
-<tspan x="10" y="3706">215.  2017-04-16 14:03:48 +0000     2995 bytes  dist/js/core/tab.min.js</tspan>
-<tspan x="10" y="3722">216.  2017-04-16 14:03:48 +0000     3335 bytes  dist/js/core/toggle.js</tspan>
-<tspan x="10" y="3738">217.  2017-04-16 14:03:48 +0000     1648 bytes  dist/js/core/toggle.min.js</tspan>
-<tspan x="10" y="3754">218.  2017-04-16 14:03:48 +0000     6260 bytes  dist/js/core/touch.js</tspan>
-<tspan x="10" y="3770">219.  2017-04-16 14:03:48 +0000     2497 bytes  dist/js/core/touch.min.js</tspan>
-<tspan x="10" y="3786">220.  2017-04-16 14:03:48 +0000     8886 bytes  dist/js/core/utility.js</tspan>
-<tspan x="10" y="3802">221.  2017-04-16 14:03:48 +0000     3816 bytes  dist/js/core/utility.min.js</tspan>
-<tspan x="10" y="3818">222.  2017-04-16 14:03:48 +0000   118603 bytes  dist/js/uikit.js</tspan>
-<tspan x="10" y="3834">223.  2017-04-16 14:03:48 +0000    56306 bytes  dist/js/uikit.min.js</tspan>
-<tspan x="10" y="3850">224.  2017-04-16 14:03:48 +0000     2609 bytes  dist/less/components/accordion.less</tspan>
-<tspan x="10" y="3866">225.  2017-04-16 14:03:48 +0000     2509 bytes  dist/less/components/autocomplete.less</tspan>
-<tspan x="10" y="3882">226.  2017-04-16 14:03:48 +0000     5042 bytes  dist/less/components/datepicker.less</tspan>
-<tspan x="10" y="3898">227.  2017-04-16 14:03:48 +0000     4845 bytes  dist/less/components/dotnav.less</tspan>
-<tspan x="10" y="3914">228.  2017-04-16 14:03:48 +0000     3724 bytes  dist/less/components/form-advanced.less</tspan>
-<tspan x="10" y="3930">229.  2017-04-16 14:03:48 +0000     1237 bytes  dist/less/components/form-file.less</tspan>
-<tspan x="10" y="3946">230.  2017-04-16 14:03:48 +0000     1906 bytes  dist/less/components/form-password.less</tspan>
-<tspan x="10" y="3962">231.  2017-04-16 14:03:48 +0000     1311 bytes  dist/less/components/form-select.less</tspan>
-<tspan x="10" y="3978">232.  2017-04-16 14:03:48 +0000     7089 bytes  dist/less/components/htmleditor.less</tspan>
-<tspan x="10" y="3994">233.  2017-04-16 14:03:48 +0000     5500 bytes  dist/less/components/nestable.less</tspan>
-<tspan x="10" y="4010">234.  2017-04-16 14:03:48 +0000     5033 bytes  dist/less/components/notify.less</tspan>
-<tspan x="10" y="4026">235.  2017-04-16 14:03:48 +0000     1784 bytes  dist/less/components/placeholder.less</tspan>
-<tspan x="10" y="4042">236.  2017-04-16 14:03:48 +0000     4588 bytes  dist/less/components/progress.less</tspan>
-<tspan x="10" y="4058">237.  2017-04-16 14:03:48 +0000     8153 bytes  dist/less/components/search.less</tspan>
-<tspan x="10" y="4074">238.  2017-04-16 14:03:48 +0000     4512 bytes  dist/less/components/slidenav.less</tspan>
-<tspan x="10" y="4090">239.  2017-04-16 14:03:48 +0000     2635 bytes  dist/less/components/slider.less</tspan>
-<tspan x="10" y="4106">240.  2017-04-16 14:03:48 +0000     4763 bytes  dist/less/components/slideshow.less</tspan>
-<tspan x="10" y="4122">241.  2017-04-16 14:03:48 +0000     2888 bytes  dist/less/components/sortable.less</tspan>
-<tspan x="10" y="4138">242.  2017-04-16 14:03:48 +0000     1454 bytes  dist/less/components/sticky.less</tspan>
-<tspan x="10" y="4154">243.  2017-04-16 14:03:48 +0000     4114 bytes  dist/less/components/tooltip.less</tspan>
-<tspan x="10" y="4170">244.  2017-04-16 14:03:48 +0000      936 bytes  dist/less/components/upload.less</tspan>
-<tspan x="10" y="4186">245.  2017-04-16 14:03:48 +0000     3427 bytes  dist/less/core/alert.less</tspan>
-<tspan x="10" y="4202">246.  2017-04-16 14:03:48 +0000    12399 bytes  dist/less/core/animation.less</tspan>
-<tspan x="10" y="4218">247.  2017-04-16 14:03:48 +0000     3601 bytes  dist/less/core/article.less</tspan>
-<tspan x="10" y="4234">248.  2017-04-16 14:03:48 +0000     2818 bytes  dist/less/core/badge.less</tspan>
-<tspan x="10" y="4250">249.  2017-04-16 14:03:48 +0000    12507 bytes  dist/less/core/base.less</tspan>
-<tspan x="10" y="4266">250.  2017-04-16 14:03:48 +0000     3314 bytes  dist/less/core/block.less</tspan>
-<tspan x="10" y="4282">251.  2017-04-16 14:03:48 +0000     1954 bytes  dist/less/core/breadcrumb.less</tspan>
-<tspan x="10" y="4298">252.  2017-04-16 14:03:48 +0000    10899 bytes  dist/less/core/button.less</tspan>
-<tspan x="10" y="4314">253.  2017-04-16 14:03:48 +0000     2852 bytes  dist/less/core/close.less</tspan>
-<tspan x="10" y="4330">254.  2017-04-16 14:03:48 +0000     4270 bytes  dist/less/core/column.less</tspan>
-<tspan x="10" y="4346">255.  2017-04-16 14:03:48 +0000     4292 bytes  dist/less/core/comment.less</tspan>
-<tspan x="10" y="4362">256.  2017-04-16 14:03:48 +0000    14997 bytes  dist/less/core/contrast.less</tspan>
-<tspan x="10" y="4378">257.  2017-04-16 14:03:48 +0000     1553 bytes  dist/less/core/cover.less</tspan>
-<tspan x="10" y="4394">258.  2017-04-16 14:03:48 +0000     2242 bytes  dist/less/core/description-list.less</tspan>
-<tspan x="10" y="4410">259.  2017-04-16 14:03:48 +0000     7248 bytes  dist/less/core/dropdown.less</tspan>
-<tspan x="10" y="4426">260.  2017-04-16 14:03:48 +0000     5907 bytes  dist/less/core/flex.less</tspan>
-<tspan x="10" y="4442">261.  2017-04-16 14:03:48 +0000    16711 bytes  dist/less/core/form.less</tspan>
-<tspan x="10" y="4458">262.  2017-04-16 14:03:48 +0000    18078 bytes  dist/less/core/grid.less</tspan>
-<tspan x="10" y="4474">263.  2017-04-16 14:03:48 +0000    38128 bytes  dist/less/core/icon.less</tspan>
-<tspan x="10" y="4490">264.  2017-04-16 14:03:48 +0000     2455 bytes  dist/less/core/list.less</tspan>
-<tspan x="10" y="4506">265.  2017-04-16 14:03:48 +0000     7804 bytes  dist/less/core/modal.less</tspan>
-<tspan x="10" y="4522">266.  2017-04-16 14:03:48 +0000    11902 bytes  dist/less/core/nav.less</tspan>
-<tspan x="10" y="4538">267.  2017-04-16 14:03:48 +0000     8193 bytes  dist/less/core/navbar.less</tspan>
-<tspan x="10" y="4554">268.  2017-04-16 14:03:48 +0000     5445 bytes  dist/less/core/offcanvas.less</tspan>
-<tspan x="10" y="4570">269.  2017-04-16 14:03:48 +0000    13403 bytes  dist/less/core/overlay.less</tspan>
-<tspan x="10" y="4586">270.  2017-04-16 14:03:48 +0000     4914 bytes  dist/less/core/pagination.less</tspan>
-<tspan x="10" y="4602">271.  2017-04-16 14:03:48 +0000     9188 bytes  dist/less/core/panel.less</tspan>
-<tspan x="10" y="4618">272.  2017-04-16 14:03:48 +0000     1222 bytes  dist/less/core/print.less</tspan>
-<tspan x="10" y="4634">273.  2017-04-16 14:03:48 +0000     4926 bytes  dist/less/core/subnav.less</tspan>
-<tspan x="10" y="4650">274.  2017-04-16 14:03:48 +0000      817 bytes  dist/less/core/switcher.less</tspan>
-<tspan x="10" y="4666">275.  2017-04-16 14:03:48 +0000     9061 bytes  dist/less/core/tab.less</tspan>
-<tspan x="10" y="4682">276.  2017-04-16 14:03:48 +0000     3299 bytes  dist/less/core/table.less</tspan>
-<tspan x="10" y="4698">277.  2017-04-16 14:03:48 +0000     3934 bytes  dist/less/core/text.less</tspan>
-<tspan x="10" y="4714">278.  2017-04-16 14:03:48 +0000     3290 bytes  dist/less/core/thumbnail.less</tspan>
-<tspan x="10" y="4730">279.  2017-04-16 14:03:48 +0000     2654 bytes  dist/less/core/thumbnav.less</tspan>
-<tspan x="10" y="4746">280.  2017-04-16 14:03:48 +0000    13958 bytes  dist/less/core/utility.less</tspan>
-<tspan x="10" y="4762">281.  2017-04-16 14:03:48 +0000      899 bytes  dist/less/core/variables.less</tspan>
-<tspan x="10" y="4778">282.  2017-04-16 14:03:48 +0000    46881 bytes  dist/less/uikit-variables.less</tspan>
-<tspan x="10" y="4794">283.  2017-04-16 14:03:48 +0000     1164 bytes  dist/less/uikit.less</tspan>
-<tspan x="10" y="4810">284.  2017-04-16 14:03:48 +0000     2761 bytes  dist/scss/components/accordion.scss</tspan>
-<tspan x="10" y="4826">285.  2017-04-16 14:03:48 +0000     2659 bytes  dist/scss/components/autocomplete.scss</tspan>
-<tspan x="10" y="4842">286.  2017-04-16 14:03:48 +0000     5348 bytes  dist/scss/components/datepicker.scss</tspan>
-<tspan x="10" y="4858">287.  2017-04-16 14:03:48 +0000     5127 bytes  dist/scss/components/dotnav.scss</tspan>
-<tspan x="10" y="4874">288.  2017-04-16 14:03:48 +0000     3952 bytes  dist/scss/components/form-advanced.scss</tspan>
-<tspan x="10" y="4890">289.  2017-04-16 14:03:48 +0000     1255 bytes  dist/scss/components/form-file.scss</tspan>
-<tspan x="10" y="4906">290.  2017-04-16 14:03:48 +0000     1974 bytes  dist/scss/components/form-password.scss</tspan>
-<tspan x="10" y="4922">291.  2017-04-16 14:03:48 +0000     1329 bytes  dist/scss/components/form-select.scss</tspan>
-<tspan x="10" y="4938">292.  2017-04-16 14:03:48 +0000     7413 bytes  dist/scss/components/htmleditor.scss</tspan>
-<tspan x="10" y="4954">293.  2017-04-16 14:03:48 +0000     5742 bytes  dist/scss/components/nestable.scss</tspan>
-<tspan x="10" y="4970">294.  2017-04-16 14:03:48 +0000     5329 bytes  dist/scss/components/notify.scss</tspan>
-<tspan x="10" y="4986">295.  2017-04-16 14:03:48 +0000     1898 bytes  dist/scss/components/placeholder.scss</tspan>
-<tspan x="10" y="5002">296.  2017-04-16 14:03:48 +0000     4842 bytes  dist/scss/components/progress.scss</tspan>
-<tspan x="10" y="5018">297.  2017-04-16 14:03:48 +0000     8681 bytes  dist/scss/components/search.scss</tspan>
-<tspan x="10" y="5034">298.  2017-04-16 14:03:48 +0000     4778 bytes  dist/scss/components/slidenav.scss</tspan>
-<tspan x="10" y="5050">299.  2017-04-16 14:03:48 +0000     2653 bytes  dist/scss/components/slider.scss</tspan>
-<tspan x="10" y="5066">300.  2017-04-16 14:03:48 +0000     4781 bytes  dist/scss/components/slideshow.scss</tspan>
-<tspan x="10" y="5082">301.  2017-04-16 14:03:48 +0000     3008 bytes  dist/scss/components/sortable.scss</tspan>
-<tspan x="10" y="5098">302.  2017-04-16 14:03:48 +0000     1502 bytes  dist/scss/components/sticky.scss</tspan>
-<tspan x="10" y="5114">303.  2017-04-16 14:03:48 +0000     4250 bytes  dist/scss/components/tooltip.scss</tspan>
-<tspan x="10" y="5130">304.  2017-04-16 14:03:48 +0000      974 bytes  dist/scss/components/upload.scss</tspan>
-<tspan x="10" y="5146">305.  2017-04-16 14:03:48 +0000     3627 bytes  dist/scss/core/alert.scss</tspan>
-<tspan x="10" y="5162">306.  2017-04-16 14:03:48 +0000    12417 bytes  dist/scss/core/animation.scss</tspan>
-<tspan x="10" y="5178">307.  2017-04-16 14:03:48 +0000     3831 bytes  dist/scss/core/article.scss</tspan>
-<tspan x="10" y="5194">308.  2017-04-16 14:03:48 +0000     3038 bytes  dist/scss/core/badge.scss</tspan>
-<tspan x="10" y="5210">309.  2017-04-16 14:03:48 +0000    13339 bytes  dist/scss/core/base.scss</tspan>
-<tspan x="10" y="5226">310.  2017-04-16 14:03:48 +0000     3512 bytes  dist/scss/core/block.scss</tspan>
-<tspan x="10" y="5242">311.  2017-04-16 14:03:48 +0000     2048 bytes  dist/scss/core/breadcrumb.scss</tspan>
-<tspan x="10" y="5258">312.  2017-04-16 14:03:48 +0000    11647 bytes  dist/scss/core/button.scss</tspan>
-<tspan x="10" y="5274">313.  2017-04-16 14:03:48 +0000     2936 bytes  dist/scss/core/close.scss</tspan>
-<tspan x="10" y="5290">314.  2017-04-16 14:03:48 +0000     4316 bytes  dist/scss/core/column.scss</tspan>
-<tspan x="10" y="5306">315.  2017-04-16 14:03:48 +0000     4546 bytes  dist/scss/core/comment.scss</tspan>
-<tspan x="10" y="5322">316.  2017-04-16 14:03:48 +0000    16207 bytes  dist/scss/core/contrast.scss</tspan>
-<tspan x="10" y="5338">317.  2017-04-16 14:03:48 +0000     1571 bytes  dist/scss/core/cover.scss</tspan>
-<tspan x="10" y="5354">318.  2017-04-16 14:03:48 +0000     2330 bytes  dist/scss/core/description-list.scss</tspan>
-<tspan x="10" y="5370">319.  2017-04-16 14:03:48 +0000     7480 bytes  dist/scss/core/dropdown.scss</tspan>
-<tspan x="10" y="5386">320.  2017-04-16 14:03:48 +0000     5925 bytes  dist/scss/core/flex.scss</tspan>
-<tspan x="10" y="5402">321.  2017-04-16 14:03:48 +0000    17399 bytes  dist/scss/core/form.scss</tspan>
-<tspan x="10" y="5418">322.  2017-04-16 14:03:48 +0000    18196 bytes  dist/scss/core/grid.scss</tspan>
-<tspan x="10" y="5434">323.  2017-04-16 14:03:48 +0000    38429 bytes  dist/scss/core/icon.scss</tspan>
-<tspan x="10" y="5450">324.  2017-04-16 14:03:48 +0000     2589 bytes  dist/scss/core/list.scss</tspan>
-<tspan x="10" y="5466">325.  2017-04-16 14:03:48 +0000     8084 bytes  dist/scss/core/modal.scss</tspan>
-<tspan x="10" y="5482">326.  2017-04-16 14:03:48 +0000    12906 bytes  dist/scss/core/nav.scss</tspan>
-<tspan x="10" y="5498">327.  2017-04-16 14:03:48 +0000     8589 bytes  dist/scss/core/navbar.scss</tspan>
-<tspan x="10" y="5514">328.  2017-04-16 14:03:48 +0000     5607 bytes  dist/scss/core/offcanvas.scss</tspan>
-<tspan x="10" y="5530">329.  2017-04-16 14:03:48 +0000    13835 bytes  dist/scss/core/overlay.scss</tspan>
-<tspan x="10" y="5546">330.  2017-04-16 14:03:48 +0000     5190 bytes  dist/scss/core/pagination.scss</tspan>
-<tspan x="10" y="5562">331.  2017-04-16 14:03:48 +0000     9804 bytes  dist/scss/core/panel.scss</tspan>
-<tspan x="10" y="5578">332.  2017-04-16 14:03:48 +0000     1240 bytes  dist/scss/core/print.scss</tspan>
-<tspan x="10" y="5594">333.  2017-04-16 14:03:48 +0000     5248 bytes  dist/scss/core/subnav.scss</tspan>
-<tspan x="10" y="5610">334.  2017-04-16 14:03:48 +0000      835 bytes  dist/scss/core/switcher.scss</tspan>
-<tspan x="10" y="5626">335.  2017-04-16 14:03:48 +0000     9311 bytes  dist/scss/core/tab.scss</tspan>
-<tspan x="10" y="5642">336.  2017-04-16 14:03:48 +0000     3507 bytes  dist/scss/core/table.scss</tspan>
-<tspan x="10" y="5658">337.  2017-04-16 14:03:48 +0000     4062 bytes  dist/scss/core/text.scss</tspan>
-<tspan x="10" y="5674">338.  2017-04-16 14:03:48 +0000     3482 bytes  dist/scss/core/thumbnail.scss</tspan>
-<tspan x="10" y="5690">339.  2017-04-16 14:03:48 +0000     2750 bytes  dist/scss/core/thumbnav.scss</tspan>
-<tspan x="10" y="5706">340.  2017-04-16 14:03:48 +0000    14232 bytes  dist/scss/core/utility.scss</tspan>
-<tspan x="10" y="5722">341.  2017-04-16 14:03:48 +0000      979 bytes  dist/scss/core/variables.scss</tspan>
-<tspan x="10" y="5738">342.  2017-04-16 14:03:48 +0000    10368 bytes  dist/scss/uikit-mixins.scss</tspan>
-<tspan x="10" y="5754">343.  2017-04-16 14:03:48 +0000    55061 bytes  dist/scss/uikit-variables.scss</tspan>
-<tspan x="10" y="5770">344.  2017-04-16 14:03:48 +0000     1164 bytes  dist/scss/uikit.scss</tspan>
-<tspan x="10" y="5786">345.  2017-04-16 14:03:48 +0000    25852 bytes  docs/accordion.html</tspan>
-<tspan x="10" y="5802">346.  2017-04-16 14:03:48 +0000    20515 bytes  docs/alert.html</tspan>
-<tspan x="10" y="5818">347.  2017-04-16 14:03:48 +0000    33727 bytes  docs/animation.html</tspan>
-<tspan x="10" y="5834">348.  2017-04-16 14:03:48 +0000    19990 bytes  docs/article.html</tspan>
-<tspan x="10" y="5850">349.  2017-04-16 14:03:48 +0000    23152 bytes  docs/autocomplete.html</tspan>
-<tspan x="10" y="5866">350.  2017-04-16 14:03:48 +0000    19648 bytes  docs/badge.html</tspan>
-<tspan x="10" y="5882">351.  2017-04-16 14:03:48 +0000    30912 bytes  docs/base.html</tspan>
-<tspan x="10" y="5898">352.  2017-04-16 14:03:48 +0000    24590 bytes  docs/block.html</tspan>
-<tspan x="10" y="5914">353.  2017-04-16 14:03:48 +0000    18482 bytes  docs/breadcrumb.html</tspan>
-<tspan x="10" y="5930">354.  2017-04-16 14:03:48 +0000    43500 bytes  docs/button.html</tspan>
-<tspan x="10" y="5946">355.  2017-04-16 14:03:48 +0000    18863 bytes  docs/close.html</tspan>
-<tspan x="10" y="5962">356.  2017-04-16 14:03:48 +0000    21993 bytes  docs/column.html</tspan>
-<tspan x="10" y="5978">357.  2017-04-16 14:03:48 +0000    26067 bytes  docs/comment.html</tspan>
-<tspan x="10" y="5994">358.  2017-04-16 14:03:48 +0000    18304 bytes  docs/components.html</tspan>
-<tspan x="10" y="6010">359.  2017-04-16 14:03:48 +0000    20616 bytes  docs/contrast.html</tspan>
-<tspan x="10" y="6026">360.  2017-04-16 14:03:48 +0000    23833 bytes  docs/core.html</tspan>
-<tspan x="10" y="6042">361.  2017-04-16 14:03:48 +0000    23671 bytes  docs/cover.html</tspan>
-<tspan x="10" y="6058">362.  2017-04-16 14:03:48 +0000    16123 bytes  docs/css/docs.css</tspan>
-<tspan x="10" y="6074">363.  2017-04-16 14:03:48 +0000   134301 bytes  docs/css/uikit.docs.min.css</tspan>
-<tspan x="10" y="6090">364.  2017-04-16 14:03:48 +0000     6016 bytes  docs/customizer.html</tspan>
-<tspan x="10" y="6106">365.  2017-04-16 14:03:48 +0000    22624 bytes  docs/datepicker.html</tspan>
-<tspan x="10" y="6122">366.  2017-04-16 14:03:48 +0000    19035 bytes  docs/description-list.html</tspan>
-<tspan x="10" y="6138">367.  2017-04-16 14:03:48 +0000    15089 bytes  docs/documentation_create-a-style.html</tspan>
-<tspan x="10" y="6154">368.  2017-04-16 14:03:48 +0000    19619 bytes  docs/documentation_create-a-theme.html</tspan>
-<tspan x="10" y="6170">369.  2017-04-16 14:03:48 +0000    15755 bytes  docs/documentation_custom-prefix.html</tspan>
-<tspan x="10" y="6186">370.  2017-04-16 14:03:48 +0000    20905 bytes  docs/documentation_customizer-json.html</tspan>
-<tspan x="10" y="6202">371.  2017-04-16 14:03:48 +0000    19786 bytes  docs/documentation_get-started.html</tspan>
-<tspan x="10" y="6218">372.  2017-04-16 14:03:48 +0000    16446 bytes  docs/documentation_how-to-customize.html</tspan>
-<tspan x="10" y="6234">373.  2017-04-16 14:03:48 +0000    19186 bytes  docs/documentation_javascript.html</tspan>
-<tspan x="10" y="6250">374.  2017-04-16 14:03:48 +0000    17042 bytes  docs/documentation_layouts.html</tspan>
-<tspan x="10" y="6266">375.  2017-04-16 14:03:48 +0000    16464 bytes  docs/documentation_less-sass.html</tspan>
-<tspan x="10" y="6282">376.  2017-04-16 14:03:48 +0000    19810 bytes  docs/documentation_project-structure.html</tspan>
-<tspan x="10" y="6298">377.  2017-04-16 14:03:48 +0000    19575 bytes  docs/dotnav.html</tspan>
-<tspan x="10" y="6314">378.  2017-04-16 14:03:48 +0000    75342 bytes  docs/dropdown.html</tspan>
-<tspan x="10" y="6330">379.  2017-04-16 14:03:48 +0000    34298 bytes  docs/flex.html</tspan>
-<tspan x="10" y="6346">380.  2017-04-16 14:03:48 +0000    17057 bytes  docs/form-advanced.html</tspan>
-<tspan x="10" y="6362">381.  2017-04-16 14:03:48 +0000    16401 bytes  docs/form-file.html</tspan>
-<tspan x="10" y="6378">382.  2017-04-16 14:03:48 +0000    18352 bytes  docs/form-password.html</tspan>
-<tspan x="10" y="6394">383.  2017-04-16 14:03:48 +0000    19270 bytes  docs/form-select.html</tspan>
-<tspan x="10" y="6410">384.  2017-04-16 14:03:48 +0000    46654 bytes  docs/form.html</tspan>
-<tspan x="10" y="6426">385.  2017-04-16 14:03:48 +0000    32414 bytes  docs/grid-js.html</tspan>
-<tspan x="10" y="6442">386.  2017-04-16 14:03:48 +0000    22293 bytes  docs/grid-parallax.html</tspan>
-<tspan x="10" y="6458">387.  2017-04-16 14:03:48 +0000    51148 bytes  docs/grid.html</tspan>
-<tspan x="10" y="6474">388.  2017-04-16 14:03:48 +0000    24911 bytes  docs/htmleditor.html</tspan>
-<tspan x="10" y="6490">389.  2017-04-16 14:03:48 +0000   104573 bytes  docs/icon.html</tspan>
-<tspan x="10" y="6506">390.  2017-04-16 14:03:48 +0000     3703 bytes  docs/images/apple-touch-icon.png</tspan>
-<tspan x="10" y="6522">391.  2017-04-16 14:03:48 +0000   104667 bytes  docs/images/bg_teaser.svg</tspan>
-<tspan x="10" y="6538">392.  2017-04-16 14:03:48 +0000     1150 bytes  docs/images/favicon.ico</tspan>
-<tspan x="10" y="6554">393.  2017-04-16 14:03:48 +0000    16126 bytes  docs/images/icon_components.svg</tspan>
-<tspan x="10" y="6570">394.  2017-04-16 14:03:48 +0000     6087 bytes  docs/images/icon_less.svg</tspan>
-<tspan x="10" y="6586">395.  2017-04-16 14:03:48 +0000    53116 bytes  docs/images/icon_responsive.svg</tspan>
-<tspan x="10" y="6602">396.  2017-04-16 14:03:48 +0000    60009 bytes  docs/images/icon_themes.svg</tspan>
-<tspan x="10" y="6618">397.  2017-04-16 14:03:48 +0000    54352 bytes  docs/images/layouts_blog.png</tspan>
-<tspan x="10" y="6634">398.  2017-04-16 14:03:48 +0000    43891 bytes  docs/images/layouts_contact.png</tspan>
-<tspan x="10" y="6650">399.  2017-04-16 14:03:48 +0000    66861 bytes  docs/images/layouts_documentation.png</tspan>
-<tspan x="10" y="6666">400.  2017-04-16 14:03:48 +0000    64388 bytes  docs/images/layouts_frontpage.png</tspan>
-<tspan x="10" y="6682">401.  2017-04-16 14:03:48 +0000     9154 bytes  docs/images/layouts_login.png</tspan>
-<tspan x="10" y="6698">402.  2017-04-16 14:03:48 +0000    21110 bytes  docs/images/layouts_portfolio.png</tspan>
-<tspan x="10" y="6714">403.  2017-04-16 14:03:48 +0000     1749 bytes  docs/images/logo_uikit.svg</tspan>
-<tspan x="10" y="6730">404.  2017-04-16 14:03:48 +0000     2020 bytes  docs/images/logo_uikit3.svg</tspan>
-<tspan x="10" y="6746">405.  2017-04-16 14:03:48 +0000     3443 bytes  docs/images/logo_uikit_large.svg</tspan>
-<tspan x="10" y="6762">406.  2017-04-16 14:03:48 +0000     1071 bytes  docs/images/placeholder_120x255.svg</tspan>
-<tspan x="10" y="6778">407.  2017-04-16 14:03:48 +0000     1066 bytes  docs/images/placeholder_200x100.svg</tspan>
-<tspan x="10" y="6794">408.  2017-04-16 14:03:48 +0000      838 bytes  docs/images/placeholder_200x150_1.svg</tspan>
-<tspan x="10" y="6810">409.  2017-04-16 14:03:48 +0000     1127 bytes  docs/images/placeholder_200x150_2.svg</tspan>
-<tspan x="10" y="6826">410.  2017-04-16 14:03:48 +0000      838 bytes  docs/images/placeholder_200x150_3.svg</tspan>
-<tspan x="10" y="6842">411.  2017-04-16 14:03:48 +0000      838 bytes  docs/images/placeholder_200x150_4.svg</tspan>
-<tspan x="10" y="6858">412.  2017-04-16 14:03:48 +0000     1066 bytes  docs/images/placeholder_200x200.svg</tspan>
-<tspan x="10" y="6874">413.  2017-04-16 14:03:48 +0000     1068 bytes  docs/images/placeholder_300x455.svg</tspan>
-<tspan x="10" y="6890">414.  2017-04-16 14:03:48 +0000     1026 bytes  docs/images/placeholder_400x200.svg</tspan>
-<tspan x="10" y="6906">415.  2017-04-16 14:03:48 +0000     1031 bytes  docs/images/placeholder_400x250.svg</tspan>
-<tspan x="10" y="6922">416.  2017-04-16 14:03:48 +0000     1023 bytes  docs/images/placeholder_480x260.svg</tspan>
-<tspan x="10" y="6938">417.  2017-04-16 14:03:48 +0000     1059 bytes  docs/images/placeholder_600x400.svg</tspan>
-<tspan x="10" y="6954">418.  2017-04-16 14:03:48 +0000     1059 bytes  docs/images/placeholder_600x400_2.svg</tspan>
-<tspan x="10" y="6970">419.  2017-04-16 14:03:48 +0000     1038 bytes  docs/images/placeholder_800x280.svg</tspan>
-<tspan x="10" y="6986">420.  2017-04-16 14:03:48 +0000    45412 bytes  docs/images/placeholder_800x400_1.jpg</tspan>
-<tspan x="10" y="7002">421.  2017-04-16 14:03:48 +0000    47895 bytes  docs/images/placeholder_800x400_2.jpg</tspan>
-<tspan x="10" y="7018">422.  2017-04-16 14:03:48 +0000    40007 bytes  docs/images/placeholder_800x400_3.jpg</tspan>
-<tspan x="10" y="7034">423.  2017-04-16 14:03:48 +0000   122389 bytes  docs/images/placeholder_800x600_1.jpg</tspan>
-<tspan x="10" y="7050">424.  2017-04-16 14:03:48 +0000   122079 bytes  docs/images/placeholder_800x600_2.jpg</tspan>
-<tspan x="10" y="7066">425.  2017-04-16 14:03:48 +0000   107110 bytes  docs/images/placeholder_800x600_3.jpg</tspan>
-<tspan x="10" y="7082">426.  2017-04-16 14:03:48 +0000   219124 bytes  docs/images/placeholder_800x600_4.jpg</tspan>
-<tspan x="10" y="7098">427.  2017-04-16 14:03:48 +0000     1696 bytes  docs/images/placeholder_avatar.svg</tspan>
-<tspan x="10" y="7114">428.  2017-04-16 14:03:48 +0000     8687 bytes  docs/js/customizer.js</tspan>
-<tspan x="10" y="7130">429.  2017-04-16 14:03:48 +0000     1834 bytes  docs/js/docs.js</tspan>
-<tspan x="10" y="7146">430.  2017-04-16 14:03:48 +0000    56226 bytes  docs/js/uikit.min.js</tspan>
-<tspan x="10" y="7162">431.  2017-04-16 14:03:48 +0000    13424 bytes  docs/layouts_blog.html</tspan>
-<tspan x="10" y="7178">432.  2017-04-16 14:03:48 +0000    31663 bytes  docs/layouts_contact.html</tspan>
-<tspan x="10" y="7194">433.  2017-04-16 14:03:48 +0000    25953 bytes  docs/layouts_documentation.html</tspan>
-<tspan x="10" y="7210">434.  2017-04-16 14:03:48 +0000    24381 bytes  docs/layouts_frontpage.html</tspan>
-<tspan x="10" y="7226">435.  2017-04-16 14:03:48 +0000     2982 bytes  docs/layouts_login.html</tspan>
-<tspan x="10" y="7242">436.  2017-04-16 14:03:48 +0000    85780 bytes  docs/layouts_portfolio.html</tspan>
-<tspan x="10" y="7258">437.  2017-04-16 14:03:48 +0000    22433 bytes  docs/layouts_post.html</tspan>
-<tspan x="10" y="7274">438.  2017-04-16 14:03:48 +0000      280 bytes  docs/less/uikit.less</tspan>
-<tspan x="10" y="7290">439.  2017-04-16 14:03:48 +0000     1662 bytes  docs/less/variables.less</tspan>
-<tspan x="10" y="7306">440.  2017-04-16 14:03:48 +0000    24741 bytes  docs/lightbox.html</tspan>
-<tspan x="10" y="7322">441.  2017-04-16 14:03:48 +0000    19466 bytes  docs/list.html</tspan>
-<tspan x="10" y="7338">442.  2017-04-16 14:03:48 +0000    49351 bytes  docs/modal.html</tspan>
-<tspan x="10" y="7354">443.  2017-04-16 14:03:48 +0000    38061 bytes  docs/nav.html</tspan>
-<tspan x="10" y="7370">444.  2017-04-16 14:03:48 +0000    45234 bytes  docs/navbar.html</tspan>
-<tspan x="10" y="7386">445.  2017-04-16 14:03:48 +0000    39162 bytes  docs/nestable.html</tspan>
-<tspan x="10" y="7402">446.  2017-04-16 14:03:48 +0000    25172 bytes  docs/notify.html</tspan>
-<tspan x="10" y="7418">447.  2017-04-16 14:03:48 +0000    33976 bytes  docs/offcanvas.html</tspan>
-<tspan x="10" y="7434">448.  2017-04-16 14:03:48 +0000    39908 bytes  docs/overlay.html</tspan>
-<tspan x="10" y="7450">449.  2017-04-16 14:03:48 +0000    21326 bytes  docs/pagination-js.html</tspan>
-<tspan x="10" y="7466">450.  2017-04-16 14:03:48 +0000    25317 bytes  docs/pagination.html</tspan>
-<tspan x="10" y="7482">451.  2017-04-16 14:03:48 +0000    39111 bytes  docs/panel.html</tspan>
-<tspan x="10" y="7498">452.  2017-04-16 14:03:48 +0000    32377 bytes  docs/parallax.html</tspan>
-<tspan x="10" y="7514">453.  2017-04-16 14:03:48 +0000    16211 bytes  docs/placeholder.html</tspan>
-<tspan x="10" y="7530">454.  2017-04-16 14:03:48 +0000    16508 bytes  docs/print.html</tspan>
-<tspan x="10" y="7546">455.  2017-04-16 14:03:48 +0000    21657 bytes  docs/progress.html</tspan>
-<tspan x="10" y="7562">456.  2017-04-16 14:03:48 +0000    40212 bytes  docs/scrollspy.html</tspan>
-<tspan x="10" y="7578">457.  2017-04-16 14:03:48 +0000    24729 bytes  docs/search.html</tspan>
-<tspan x="10" y="7594">458.  2017-04-16 14:03:48 +0000    18545 bytes  docs/slidenav.html</tspan>
-<tspan x="10" y="7610">459.  2017-04-16 14:03:48 +0000    39427 bytes  docs/slider.html</tspan>
-<tspan x="10" y="7626">460.  2017-04-16 14:03:48 +0000    45028 bytes  docs/slideset.html</tspan>
-<tspan x="10" y="7642">461.  2017-04-16 14:03:48 +0000    58369 bytes  docs/slideshow.html</tspan>
-<tspan x="10" y="7658">462.  2017-04-16 14:03:48 +0000    21606 bytes  docs/smooth-scroll.html</tspan>
-<tspan x="10" y="7674">463.  2017-04-16 14:03:48 +0000    29671 bytes  docs/sortable.html</tspan>
-<tspan x="10" y="7690">464.  2017-04-16 14:03:48 +0000    27667 bytes  docs/sticky.html</tspan>
-<tspan x="10" y="7706">465.  2017-04-16 14:03:48 +0000    22937 bytes  docs/subnav.html</tspan>
-<tspan x="10" y="7722">466.  2017-04-16 14:03:48 +0000    54812 bytes  docs/switcher.html</tspan>
-<tspan x="10" y="7738">467.  2017-04-16 14:03:48 +0000    30693 bytes  docs/tab.html</tspan>
-<tspan x="10" y="7754">468.  2017-04-16 14:03:48 +0000    33875 bytes  docs/table.html</tspan>
-<tspan x="10" y="7770">469.  2017-04-16 14:03:48 +0000    31320 bytes  docs/text.html</tspan>
-<tspan x="10" y="7786">470.  2017-04-16 14:03:48 +0000    24374 bytes  docs/thumbnail.html</tspan>
-<tspan x="10" y="7802">471.  2017-04-16 14:03:48 +0000    18926 bytes  docs/thumbnav.html</tspan>
-<tspan x="10" y="7818">472.  2017-04-16 14:03:48 +0000    19726 bytes  docs/timepicker.html</tspan>
-<tspan x="10" y="7834">473.  2017-04-16 14:03:48 +0000    22701 bytes  docs/toggle.html</tspan>
-<tspan x="10" y="7850">474.  2017-04-16 14:03:48 +0000    23819 bytes  docs/tooltip.html</tspan>
-<tspan x="10" y="7866">475.  2017-04-16 14:03:48 +0000    17157 bytes  docs/tutorials.html</tspan>
-<tspan x="10" y="7882">476.  2017-04-16 14:03:48 +0000    33044 bytes  docs/uikit3.html</tspan>
-<tspan x="10" y="7898">477.  2017-04-16 14:03:48 +0000    28945 bytes  docs/upload.html</tspan>
-<tspan x="10" y="7914">478.  2017-04-16 14:03:48 +0000    68980 bytes  docs/utility.html</tspan>
-<tspan x="10" y="7930">479.  2017-04-16 14:03:48 +0000    21567 bytes  gulpfile.js</tspan>
-<tspan x="10" y="7946">480.  2017-04-16 14:03:48 +0000    20930 bytes  index.html</tspan>
-<tspan x="10" y="7962">481.  2017-04-16 14:03:48 +0000     2872 bytes  package.json</tspan>
-<tspan x="10" y="7978">482.  2017-04-16 14:03:48 +0000   124988 bytes  src/fonts/FontAwesome.otf</tspan>
-<tspan x="10" y="7994">483.  2017-04-16 14:03:48 +0000   152796 bytes  src/fonts/fontawesome-webfont.ttf</tspan>
-<tspan x="10" y="8010">484.  2017-04-16 14:03:48 +0000    90412 bytes  src/fonts/fontawesome-webfont.woff</tspan>
-<tspan x="10" y="8026">485.  2017-04-16 14:03:48 +0000    71896 bytes  src/fonts/fontawesome-webfont.woff2</tspan>
-<tspan x="10" y="8042">486.  2017-04-16 14:03:48 +0000     5349 bytes  src/js/components/accordion.js</tspan>
-<tspan x="10" y="8058">487.  2017-04-16 14:03:48 +0000     9585 bytes  src/js/components/autocomplete.js</tspan>
-<tspan x="10" y="8074">488.  2017-04-16 14:03:48 +0000   113308 bytes  src/js/components/datepicker.js</tspan>
-<tspan x="10" y="8090">489.  2017-04-16 14:03:48 +0000     1676 bytes  src/js/components/form-password.js</tspan>
-<tspan x="10" y="8106">490.  2017-04-16 14:03:48 +0000     2264 bytes  src/js/components/form-select.js</tspan>
-<tspan x="10" y="8122">491.  2017-04-16 14:03:48 +0000     4753 bytes  src/js/components/grid-parallax.js</tspan>
-<tspan x="10" y="8138">492.  2017-04-16 14:03:48 +0000    17041 bytes  src/js/components/grid.js</tspan>
-<tspan x="10" y="8154">493.  2017-04-16 14:03:48 +0000    25804 bytes  src/js/components/htmleditor.js</tspan>
-<tspan x="10" y="8170">494.  2017-04-16 14:03:48 +0000    19009 bytes  src/js/components/lightbox.js</tspan>
-<tspan x="10" y="8186">495.  2017-04-16 14:03:48 +0000    22426 bytes  src/js/components/nestable.js</tspan>
-<tspan x="10" y="8202">496.  2017-04-16 14:03:48 +0000     5013 bytes  src/js/components/notify.js</tspan>
-<tspan x="10" y="8218">497.  2017-04-16 14:03:48 +0000     4841 bytes  src/js/components/pagination.js</tspan>
-<tspan x="10" y="8234">498.  2017-04-16 14:03:48 +0000    14973 bytes  src/js/components/parallax.js</tspan>
-<tspan x="10" y="8250">499.  2017-04-16 14:03:48 +0000     3648 bytes  src/js/components/search.js</tspan>
-<tspan x="10" y="8266">500.  2017-04-16 14:03:48 +0000    16201 bytes  src/js/components/slider.js</tspan>
-<tspan x="10" y="8282">501.  2017-04-16 14:03:48 +0000    14640 bytes  src/js/components/slideset.js</tspan>
-<tspan x="10" y="8298">502.  2017-04-16 14:03:48 +0000    13795 bytes  src/js/components/slideshow-fx.js</tspan>
-<tspan x="10" y="8314">503.  2017-04-16 14:03:48 +0000    20059 bytes  src/js/components/slideshow.js</tspan>
-<tspan x="10" y="8330">504.  2017-04-16 14:03:48 +0000    24035 bytes  src/js/components/sortable.js</tspan>
-<tspan x="10" y="8346">505.  2017-04-16 14:03:48 +0000    12956 bytes  src/js/components/sticky.js</tspan>
-<tspan x="10" y="8362">506.  2017-04-16 14:03:48 +0000     5478 bytes  src/js/components/timepicker.js</tspan>
-<tspan x="10" y="8378">507.  2017-04-16 14:03:48 +0000     7979 bytes  src/js/components/tooltip.js</tspan>
-<tspan x="10" y="8394">508.  2017-04-16 14:03:48 +0000     7707 bytes  src/js/components/upload.js</tspan>
-<tspan x="10" y="8410">509.  2017-04-16 14:03:48 +0000     1689 bytes  src/js/core/alert.js</tspan>
-<tspan x="10" y="8426">510.  2017-04-16 14:03:48 +0000     4234 bytes  src/js/core/button.js</tspan>
-<tspan x="10" y="8442">511.  2017-04-16 14:03:48 +0000    25083 bytes  src/js/core/core.js</tspan>
-<tspan x="10" y="8458">512.  2017-04-16 14:03:48 +0000     2503 bytes  src/js/core/cover.js</tspan>
-<tspan x="10" y="8474">513.  2017-04-16 14:03:48 +0000    18400 bytes  src/js/core/dropdown.js</tspan>
-<tspan x="10" y="8490">514.  2017-04-16 14:03:48 +0000     3032 bytes  src/js/core/grid.js</tspan>
-<tspan x="10" y="8506">515.  2017-04-16 14:03:48 +0000    11998 bytes  src/js/core/modal.js</tspan>
-<tspan x="10" y="8522">516.  2017-04-16 14:03:48 +0000     4349 bytes  src/js/core/nav.js</tspan>
-<tspan x="10" y="8538">517.  2017-04-16 14:03:48 +0000     6047 bytes  src/js/core/offcanvas.js</tspan>
-<tspan x="10" y="8554">518.  2017-04-16 14:03:48 +0000     6985 bytes  src/js/core/scrollspy.js</tspan>
-<tspan x="10" y="8570">519.  2017-04-16 14:03:48 +0000     1743 bytes  src/js/core/smooth-scroll.js</tspan>
-<tspan x="10" y="8586">520.  2017-04-16 14:03:48 +0000     8842 bytes  src/js/core/switcher.js</tspan>
-<tspan x="10" y="8602">521.  2017-04-16 14:03:48 +0000     5362 bytes  src/js/core/tab.js</tspan>
-<tspan x="10" y="8618">522.  2017-04-16 14:03:48 +0000     3255 bytes  src/js/core/toggle.js</tspan>
-<tspan x="10" y="8634">523.  2017-04-16 14:03:48 +0000     6180 bytes  src/js/core/touch.js</tspan>
-<tspan x="10" y="8650">524.  2017-04-16 14:03:48 +0000     8806 bytes  src/js/core/utility.js</tspan>
-<tspan x="10" y="8666">525.  2017-04-16 14:03:48 +0000     2609 bytes  src/less/components/accordion.less</tspan>
-<tspan x="10" y="8682">526.  2017-04-16 14:03:48 +0000     2509 bytes  src/less/components/autocomplete.less</tspan>
-<tspan x="10" y="8698">527.  2017-04-16 14:03:48 +0000     5042 bytes  src/less/components/datepicker.less</tspan>
-<tspan x="10" y="8714">528.  2017-04-16 14:03:48 +0000     4845 bytes  src/less/components/dotnav.less</tspan>
-<tspan x="10" y="8730">529.  2017-04-16 14:03:48 +0000     3724 bytes  src/less/components/form-advanced.less</tspan>
-<tspan x="10" y="8746">530.  2017-04-16 14:03:48 +0000     1237 bytes  src/less/components/form-file.less</tspan>
-<tspan x="10" y="8762">531.  2017-04-16 14:03:48 +0000     1906 bytes  src/less/components/form-password.less</tspan>
-<tspan x="10" y="8778">532.  2017-04-16 14:03:48 +0000     1311 bytes  src/less/components/form-select.less</tspan>
-<tspan x="10" y="8794">533.  2017-04-16 14:03:48 +0000     7089 bytes  src/less/components/htmleditor.less</tspan>
-<tspan x="10" y="8810">534.  2017-04-16 14:03:48 +0000     5500 bytes  src/less/components/nestable.less</tspan>
-<tspan x="10" y="8826">535.  2017-04-16 14:03:48 +0000     5033 bytes  src/less/components/notify.less</tspan>
-<tspan x="10" y="8842">536.  2017-04-16 14:03:48 +0000     1784 bytes  src/less/components/placeholder.less</tspan>
-<tspan x="10" y="8858">537.  2017-04-16 14:03:48 +0000     4588 bytes  src/less/components/progress.less</tspan>
-<tspan x="10" y="8874">538.  2017-04-16 14:03:48 +0000     8153 bytes  src/less/components/search.less</tspan>
-<tspan x="10" y="8890">539.  2017-04-16 14:03:48 +0000     4512 bytes  src/less/components/slidenav.less</tspan>
-<tspan x="10" y="8906">540.  2017-04-16 14:03:48 +0000     2635 bytes  src/less/components/slider.less</tspan>
-<tspan x="10" y="8922">541.  2017-04-16 14:03:48 +0000     4763 bytes  src/less/components/slideshow.less</tspan>
-<tspan x="10" y="8938">542.  2017-04-16 14:03:48 +0000     2888 bytes  src/less/components/sortable.less</tspan>
-<tspan x="10" y="8954">543.  2017-04-16 14:03:48 +0000     1454 bytes  src/less/components/sticky.less</tspan>
-<tspan x="10" y="8970">544.  2017-04-16 14:03:48 +0000     4114 bytes  src/less/components/tooltip.less</tspan>
-<tspan x="10" y="8986">545.  2017-04-16 14:03:48 +0000      936 bytes  src/less/components/upload.less</tspan>
-<tspan x="10" y="9002">546.  2017-04-16 14:03:48 +0000     3427 bytes  src/less/core/alert.less</tspan>
-<tspan x="10" y="9018">547.  2017-04-16 14:03:48 +0000    12399 bytes  src/less/core/animation.less</tspan>
-<tspan x="10" y="9034">548.  2017-04-16 14:03:48 +0000     3601 bytes  src/less/core/article.less</tspan>
-<tspan x="10" y="9050">549.  2017-04-16 14:03:48 +0000     2818 bytes  src/less/core/badge.less</tspan>
-<tspan x="10" y="9066">550.  2017-04-16 14:03:48 +0000    12507 bytes  src/less/core/base.less</tspan>
-<tspan x="10" y="9082">551.  2017-04-16 14:03:48 +0000     3314 bytes  src/less/core/block.less</tspan>
-<tspan x="10" y="9098">552.  2017-04-16 14:03:48 +0000     1954 bytes  src/less/core/breadcrumb.less</tspan>
-<tspan x="10" y="9114">553.  2017-04-16 14:03:48 +0000    10899 bytes  src/less/core/button.less</tspan>
-<tspan x="10" y="9130">554.  2017-04-16 14:03:48 +0000     2852 bytes  src/less/core/close.less</tspan>
-<tspan x="10" y="9146">555.  2017-04-16 14:03:48 +0000     4270 bytes  src/less/core/column.less</tspan>
-<tspan x="10" y="9162">556.  2017-04-16 14:03:48 +0000     4292 bytes  src/less/core/comment.less</tspan>
-<tspan x="10" y="9178">557.  2017-04-16 14:03:48 +0000    14997 bytes  src/less/core/contrast.less</tspan>
-<tspan x="10" y="9194">558.  2017-04-16 14:03:48 +0000     1553 bytes  src/less/core/cover.less</tspan>
-<tspan x="10" y="9210">559.  2017-04-16 14:03:48 +0000     2242 bytes  src/less/core/description-list.less</tspan>
-<tspan x="10" y="9226">560.  2017-04-16 14:03:48 +0000     7248 bytes  src/less/core/dropdown.less</tspan>
-<tspan x="10" y="9242">561.  2017-04-16 14:03:48 +0000     5907 bytes  src/less/core/flex.less</tspan>
-<tspan x="10" y="9258">562.  2017-04-16 14:03:48 +0000    16711 bytes  src/less/core/form.less</tspan>
-<tspan x="10" y="9274">563.  2017-04-16 14:03:48 +0000    18078 bytes  src/less/core/grid.less</tspan>
-<tspan x="10" y="9290">564.  2017-04-16 14:03:48 +0000    38128 bytes  src/less/core/icon.less</tspan>
-<tspan x="10" y="9306">565.  2017-04-16 14:03:48 +0000     2455 bytes  src/less/core/list.less</tspan>
-<tspan x="10" y="9322">566.  2017-04-16 14:03:48 +0000     7804 bytes  src/less/core/modal.less</tspan>
-<tspan x="10" y="9338">567.  2017-04-16 14:03:48 +0000    11902 bytes  src/less/core/nav.less</tspan>
-<tspan x="10" y="9354">568.  2017-04-16 14:03:48 +0000     8193 bytes  src/less/core/navbar.less</tspan>
-<tspan x="10" y="9370">569.  2017-04-16 14:03:48 +0000     5445 bytes  src/less/core/offcanvas.less</tspan>
-<tspan x="10" y="9386">570.  2017-04-16 14:03:48 +0000    13403 bytes  src/less/core/overlay.less</tspan>
-<tspan x="10" y="9402">571.  2017-04-16 14:03:48 +0000     4914 bytes  src/less/core/pagination.less</tspan>
-<tspan x="10" y="9418">572.  2017-04-16 14:03:48 +0000     9188 bytes  src/less/core/panel.less</tspan>
-<tspan x="10" y="9434">573.  2017-04-16 14:03:48 +0000     1222 bytes  src/less/core/print.less</tspan>
-<tspan x="10" y="9450">574.  2017-04-16 14:03:48 +0000     4926 bytes  src/less/core/subnav.less</tspan>
-<tspan x="10" y="9466">575.  2017-04-16 14:03:48 +0000      817 bytes  src/less/core/switcher.less</tspan>
-<tspan x="10" y="9482">576.  2017-04-16 14:03:48 +0000     9061 bytes  src/less/core/tab.less</tspan>
-<tspan x="10" y="9498">577.  2017-04-16 14:03:48 +0000     3299 bytes  src/less/core/table.less</tspan>
-<tspan x="10" y="9514">578.  2017-04-16 14:03:48 +0000     3934 bytes  src/less/core/text.less</tspan>
-<tspan x="10" y="9530">579.  2017-04-16 14:03:48 +0000     3290 bytes  src/less/core/thumbnail.less</tspan>
-<tspan x="10" y="9546">580.  2017-04-16 14:03:48 +0000     2654 bytes  src/less/core/thumbnav.less</tspan>
-<tspan x="10" y="9562">581.  2017-04-16 14:03:48 +0000    13958 bytes  src/less/core/utility.less</tspan>
-<tspan x="10" y="9578">582.  2017-04-16 14:03:48 +0000      899 bytes  src/less/core/variables.less</tspan>
-<tspan x="10" y="9594">583.  2017-04-16 14:03:48 +0000     1164 bytes  src/less/uikit.less</tspan>
-<tspan x="10" y="9610">584.  2017-04-16 14:03:48 +0000     7985 bytes  tests/_test.js</tspan>
-<tspan x="10" y="9626">585.  2017-04-16 14:03:48 +0000       35 bytes  tests/_test.less</tspan>
-<tspan x="10" y="9642">586.  2017-04-16 14:03:48 +0000       77 bytes  tests/_test.scss</tspan>
-<tspan x="10" y="9658">587.  2017-04-16 14:03:48 +0000      444 bytes  tests/components/_autocomplete.json</tspan>
-<tspan x="10" y="9674">588.  2017-04-16 14:03:48 +0000      420 bytes  tests/components/_searchautocomplete.json</tspan>
-<tspan x="10" y="9690">589.  2017-04-16 14:03:48 +0000     7005 bytes  tests/components/accordion.html</tspan>
-<tspan x="10" y="9706">590.  2017-04-16 14:03:48 +0000     1757 bytes  tests/components/autocomplete.html</tspan>
-<tspan x="10" y="9722">591.  2017-04-16 14:03:48 +0000     4380 bytes  tests/components/datepicker.html</tspan>
-<tspan x="10" y="9738">592.  2017-04-16 14:03:48 +0000     2014 bytes  tests/components/dotnav.html</tspan>
-<tspan x="10" y="9754">593.  2017-04-16 14:03:48 +0000     2375 bytes  tests/components/form-advanced.html</tspan>
-<tspan x="10" y="9770">594.  2017-04-16 14:03:48 +0000      907 bytes  tests/components/form-file.html</tspan>
-<tspan x="10" y="9786">595.  2017-04-16 14:03:48 +0000     1932 bytes  tests/components/form-password.html</tspan>
-<tspan x="10" y="9802">596.  2017-04-16 14:03:48 +0000     2072 bytes  tests/components/form-select.html</tspan>
-<tspan x="10" y="9818">597.  2017-04-16 14:03:48 +0000     7292 bytes  tests/components/grid-js.html</tspan>
-<tspan x="10" y="9834">598.  2017-04-16 14:03:48 +0000     3729 bytes  tests/components/grid-parallax.html</tspan>
-<tspan x="10" y="9850">599.  2017-04-16 14:03:48 +0000     3900 bytes  tests/components/htmleditor.html</tspan>
-<tspan x="10" y="9866">600.  2017-04-16 14:03:48 +0000     4375 bytes  tests/components/lightbox.html</tspan>
-<tspan x="10" y="9882">601.  2017-04-16 14:03:48 +0000     7661 bytes  tests/components/nestable.html</tspan>
-<tspan x="10" y="9898">602.  2017-04-16 14:03:48 +0000     2750 bytes  tests/components/notify.html</tspan>
-<tspan x="10" y="9914">603.  2017-04-16 14:03:48 +0000      555 bytes  tests/components/pagination-js.html</tspan>
-<tspan x="10" y="9930">604.  2017-04-16 14:03:48 +0000     6880 bytes  tests/components/parallax.html</tspan>
-<tspan x="10" y="9946">605.  2017-04-16 14:03:48 +0000     1264 bytes  tests/components/placeholder.html</tspan>
-<tspan x="10" y="9962">606.  2017-04-16 14:03:48 +0000     2791 bytes  tests/components/progress.html</tspan>
-<tspan x="10" y="9978">607.  2017-04-16 14:03:48 +0000     7549 bytes  tests/components/search.html</tspan>
-<tspan x="10" y="9994">608.  2017-04-16 14:03:48 +0000      920 bytes  tests/components/slidenav.html</tspan>
-<tspan x="10" y="10010">609.  2017-04-16 14:03:48 +0000    30822 bytes  tests/components/slider.html</tspan>
-<tspan x="10" y="10026">610.  2017-04-16 14:03:48 +0000    14015 bytes  tests/components/slideset.html</tspan>
-<tspan x="10" y="10042">611.  2017-04-16 14:03:48 +0000    31413 bytes  tests/components/slideshow.html</tspan>
-<tspan x="10" y="10058">612.  2017-04-16 14:03:48 +0000     9691 bytes  tests/components/sortable.html</tspan>
-<tspan x="10" y="10074">613.  2017-04-16 14:03:48 +0000     4580 bytes  tests/components/sticky.html</tspan>
-<tspan x="10" y="10090">614.  2017-04-16 14:03:48 +0000     1668 bytes  tests/components/timepicker.html</tspan>
-<tspan x="10" y="10106">615.  2017-04-16 14:03:48 +0000     3409 bytes  tests/components/tooltip.html</tspan>
-<tspan x="10" y="10122">616.  2017-04-16 14:03:48 +0000     2500 bytes  tests/components/upload.html</tspan>
-<tspan x="10" y="10138">617.  2017-04-16 14:03:48 +0000     3364 bytes  tests/core/alert.html</tspan>
-<tspan x="10" y="10154">618.  2017-04-16 14:03:48 +0000     6475 bytes  tests/core/animation.html</tspan>
-<tspan x="10" y="10170">619.  2017-04-16 14:03:48 +0000     5912 bytes  tests/core/article.html</tspan>
-<tspan x="10" y="10186">620.  2017-04-16 14:03:48 +0000     3159 bytes  tests/core/badge.html</tspan>
-<tspan x="10" y="10202">621.  2017-04-16 14:03:48 +0000    13620 bytes  tests/core/base.html</tspan>
-<tspan x="10" y="10218">622.  2017-04-16 14:03:48 +0000     7127 bytes  tests/core/block.html</tspan>
-<tspan x="10" y="10234">623.  2017-04-16 14:03:48 +0000      666 bytes  tests/core/breadcrumb.html</tspan>
-<tspan x="10" y="10250">624.  2017-04-16 14:03:48 +0000    15627 bytes  tests/core/button.html</tspan>
-<tspan x="10" y="10266">625.  2017-04-16 14:03:48 +0000     1536 bytes  tests/core/close.html</tspan>
-<tspan x="10" y="10282">626.  2017-04-16 14:03:48 +0000     1317 bytes  tests/core/column.html</tspan>
-<tspan x="10" y="10298">627.  2017-04-16 14:03:48 +0000     9203 bytes  tests/core/comment.html</tspan>
-<tspan x="10" y="10314">628.  2017-04-16 14:03:48 +0000     6035 bytes  tests/core/contrast.html</tspan>
-<tspan x="10" y="10330">629.  2017-04-16 14:03:48 +0000     6405 bytes  tests/core/cover.html</tspan>
-<tspan x="10" y="10346">630.  2017-04-16 14:03:48 +0000     1919 bytes  tests/core/description-list.html</tspan>
-<tspan x="10" y="10362">631.  2017-04-16 14:03:48 +0000    52909 bytes  tests/core/dropdown.html</tspan>
-<tspan x="10" y="10378">632.  2017-04-16 14:03:48 +0000     8371 bytes  tests/core/flex.html</tspan>
-<tspan x="10" y="10394">633.  2017-04-16 14:03:48 +0000    27894 bytes  tests/core/form.html</tspan>
-<tspan x="10" y="10410">634.  2017-04-16 14:03:48 +0000    25258 bytes  tests/core/grid.html</tspan>
-<tspan x="10" y="10426">635.  2017-04-16 14:03:48 +0000     8269 bytes  tests/core/icon.html</tspan>
-<tspan x="10" y="10442">636.  2017-04-16 14:03:48 +0000     4174 bytes  tests/core/list.html</tspan>
-<tspan x="10" y="10458">637.  2017-04-16 14:03:48 +0000    23327 bytes  tests/core/modal.html</tspan>
-<tspan x="10" y="10474">638.  2017-04-16 14:03:48 +0000    19362 bytes  tests/core/nav.html</tspan>
-<tspan x="10" y="10490">639.  2017-04-16 14:03:48 +0000    13672 bytes  tests/core/navbar.html</tspan>
-<tspan x="10" y="10506">640.  2017-04-16 14:03:48 +0000    11335 bytes  tests/core/offcanvas.html</tspan>
-<tspan x="10" y="10522">641.  2017-04-16 14:03:48 +0000    25481 bytes  tests/core/overlay.html</tspan>
-<tspan x="10" y="10538">642.  2017-04-16 14:03:48 +0000     4382 bytes  tests/core/pagination.html</tspan>
-<tspan x="10" y="10554">643.  2017-04-16 14:03:48 +0000    18510 bytes  tests/core/panel.html</tspan>
-<tspan x="10" y="10570">644.  2017-04-16 14:03:48 +0000    24673 bytes  tests/core/scrollspy.html</tspan>
-<tspan x="10" y="10586">645.  2017-04-16 14:03:48 +0000     1135 bytes  tests/core/smooth-scroll.html</tspan>
-<tspan x="10" y="10602">646.  2017-04-16 14:03:48 +0000     1620 bytes  tests/core/subnav.html</tspan>
-<tspan x="10" y="10618">647.  2017-04-16 14:03:48 +0000    16662 bytes  tests/core/switcher.html</tspan>
-<tspan x="10" y="10634">648.  2017-04-16 14:03:48 +0000     7624 bytes  tests/core/tab.html</tspan>
-<tspan x="10" y="10650">649.  2017-04-16 14:03:48 +0000     5547 bytes  tests/core/table.html</tspan>
-<tspan x="10" y="10666">650.  2017-04-16 14:03:48 +0000     1829 bytes  tests/core/templating.html</tspan>
-<tspan x="10" y="10682">651.  2017-04-16 14:03:48 +0000     3879 bytes  tests/core/text.html</tspan>
-<tspan x="10" y="10698">652.  2017-04-16 14:03:48 +0000     3862 bytes  tests/core/thumbnail.html</tspan>
-<tspan x="10" y="10714">653.  2017-04-16 14:03:48 +0000     1174 bytes  tests/core/thumbnav.html</tspan>
-<tspan x="10" y="10730">654.  2017-04-16 14:03:48 +0000     2754 bytes  tests/core/toggle.html</tspan>
-<tspan x="10" y="10746">655.  2017-04-16 14:03:48 +0000     1311 bytes  tests/core/touch.html</tspan>
-<tspan x="10" y="10762">656.  2017-04-16 14:03:48 +0000    13310 bytes  tests/core/utility.html</tspan>
-<tspan x="10" y="10778">657.  2017-04-16 14:03:48 +0000      378 bytes  tests/index.html</tspan>
-<tspan x="10" y="10794">658.  2017-04-16 14:03:48 +0000    33839 bytes  tests/overview.html</tspan>
-<tspan x="10" y="10810">659.  2017-04-16 14:03:48 +0000     1290 bytes  themes/almost-flat/accordion.less</tspan>
-<tspan x="10" y="10826">660.  2017-04-16 14:03:48 +0000     1528 bytes  themes/almost-flat/alert.less</tspan>
-<tspan x="10" y="10842">661.  2017-04-16 14:03:48 +0000     2019 bytes  themes/almost-flat/article.less</tspan>
-<tspan x="10" y="10858">662.  2017-04-16 14:03:48 +0000     1137 bytes  themes/almost-flat/autocomplete.less</tspan>
-<tspan x="10" y="10874">663.  2017-04-16 14:03:48 +0000     1818 bytes  themes/almost-flat/badge.less</tspan>
-<tspan x="10" y="10890">664.  2017-04-16 14:03:48 +0000     4295 bytes  themes/almost-flat/base.less</tspan>
-<tspan x="10" y="10906">665.  2017-04-16 14:03:48 +0000      950 bytes  themes/almost-flat/block.less</tspan>
-<tspan x="10" y="10922">666.  2017-04-16 14:03:48 +0000      622 bytes  themes/almost-flat/breadcrumb.less</tspan>
-<tspan x="10" y="10938">667.  2017-04-16 14:03:48 +0000     6694 bytes  themes/almost-flat/button.less</tspan>
-<tspan x="10" y="10954">668.  2017-04-16 14:03:48 +0000      701 bytes  themes/almost-flat/close.less</tspan>
-<tspan x="10" y="10970">669.  2017-04-16 14:03:48 +0000      492 bytes  themes/almost-flat/column.less</tspan>
-<tspan x="10" y="10986">670.  2017-04-16 14:03:48 +0000     2864 bytes  themes/almost-flat/comment.less</tspan>
-<tspan x="10" y="11002">671.  2017-04-16 14:03:48 +0000     2563 bytes  themes/almost-flat/contrast.less</tspan>
-<tspan x="10" y="11018">672.  2017-04-16 14:03:48 +0000     9217 bytes  themes/almost-flat/customizer.json</tspan>
-<tspan x="10" y="11034">673.  2017-04-16 14:03:48 +0000     1851 bytes  themes/almost-flat/datepicker.less</tspan>
-<tspan x="10" y="11050">674.  2017-04-16 14:03:48 +0000      466 bytes  themes/almost-flat/description-list.less</tspan>
-<tspan x="10" y="11066">675.  2017-04-16 14:03:48 +0000      821 bytes  themes/almost-flat/dotnav.less</tspan>
-<tspan x="10" y="11082">676.  2017-04-16 14:03:48 +0000     1370 bytes  themes/almost-flat/dropdown.less</tspan>
-<tspan x="10" y="11098">677.  2017-04-16 14:03:48 +0000      488 bytes  themes/almost-flat/form-advanced.less</tspan>
-<tspan x="10" y="11114">678.  2017-04-16 14:03:48 +0000      612 bytes  themes/almost-flat/form-password.less</tspan>
-<tspan x="10" y="11130">679.  2017-04-16 14:03:48 +0000     2543 bytes  themes/almost-flat/form.less</tspan>
-<tspan x="10" y="11146">680.  2017-04-16 14:03:48 +0000      816 bytes  themes/almost-flat/grid.less</tspan>
-<tspan x="10" y="11162">681.  2017-04-16 14:03:48 +0000     4170 bytes  themes/almost-flat/htmleditor.less</tspan>
-<tspan x="10" y="11178">682.  2017-04-16 14:03:48 +0000     1731 bytes  themes/almost-flat/icon.less</tspan>
-<tspan x="10" y="11194">683.  2017-04-16 14:03:48 +0000      903 bytes  themes/almost-flat/list.less</tspan>
-<tspan x="10" y="11210">684.  2017-04-16 14:03:48 +0000     2278 bytes  themes/almost-flat/modal.less</tspan>
-<tspan x="10" y="11226">685.  2017-04-16 14:03:48 +0000     7224 bytes  themes/almost-flat/nav.less</tspan>
-<tspan x="10" y="11242">686.  2017-04-16 14:03:48 +0000     4818 bytes  themes/almost-flat/navbar.less</tspan>
-<tspan x="10" y="11258">687.  2017-04-16 14:03:48 +0000     1117 bytes  themes/almost-flat/nestable.less</tspan>
-<tspan x="10" y="11274">688.  2017-04-16 14:03:48 +0000     1588 bytes  themes/almost-flat/notify.less</tspan>
-<tspan x="10" y="11290">689.  2017-04-16 14:03:48 +0000     1356 bytes  themes/almost-flat/offcanvas.less</tspan>
-<tspan x="10" y="11306">690.  2017-04-16 14:03:48 +0000     1016 bytes  themes/almost-flat/overlay.less</tspan>
-<tspan x="10" y="11322">691.  2017-04-16 14:03:48 +0000     2141 bytes  themes/almost-flat/pagination.less</tspan>
-<tspan x="10" y="11338">692.  2017-04-16 14:03:48 +0000     3327 bytes  themes/almost-flat/panel.less</tspan>
-<tspan x="10" y="11354">693.  2017-04-16 14:03:48 +0000      723 bytes  themes/almost-flat/placeholder.less</tspan>
-<tspan x="10" y="11370">694.  2017-04-16 14:03:48 +0000     1822 bytes  themes/almost-flat/progress.less</tspan>
-<tspan x="10" y="11386">695.  2017-04-16 14:03:48 +0000     2334 bytes  themes/almost-flat/search.less</tspan>
-<tspan x="10" y="11402">696.  2017-04-16 14:03:48 +0000      586 bytes  themes/almost-flat/slidenav.less</tspan>
-<tspan x="10" y="11418">697.  2017-04-16 14:03:48 +0000      587 bytes  themes/almost-flat/sortable.less</tspan>
-<tspan x="10" y="11434">698.  2017-04-16 14:03:48 +0000      383 bytes  themes/almost-flat/sticky.less</tspan>
-<tspan x="10" y="11450">699.  2017-04-16 14:03:48 +0000     1678 bytes  themes/almost-flat/subnav.less</tspan>
-<tspan x="10" y="11466">700.  2017-04-16 14:03:48 +0000     2066 bytes  themes/almost-flat/tab.less</tspan>
-<tspan x="10" y="11482">701.  2017-04-16 14:03:48 +0000     1021 bytes  themes/almost-flat/table.less</tspan>
-<tspan x="10" y="11498">702.  2017-04-16 14:03:48 +0000      851 bytes  themes/almost-flat/text.less</tspan>
-<tspan x="10" y="11514">703.  2017-04-16 14:03:48 +0000      963 bytes  themes/almost-flat/thumbnail.less</tspan>
-<tspan x="10" y="11530">704.  2017-04-16 14:03:48 +0000      337 bytes  themes/almost-flat/thumbnav.less</tspan>
-<tspan x="10" y="11546">705.  2017-04-16 14:03:48 +0000      846 bytes  themes/almost-flat/tooltip.less</tspan>
-<tspan x="10" y="11562">706.  2017-04-16 14:03:48 +0000     1763 bytes  themes/almost-flat/uikit-customizer.less</tspan>
-<tspan x="10" y="11578">707.  2017-04-16 14:03:48 +0000     1074 bytes  themes/almost-flat/uikit.less</tspan>
-<tspan x="10" y="11594">708.  2017-04-16 14:03:48 +0000     1527 bytes  themes/almost-flat/utility.less</tspan>
-<tspan x="10" y="11610">709.  2017-04-16 14:03:48 +0000     1911 bytes  themes/almost-flat/variables.less</tspan>
-<tspan x="10" y="11626">710.  2017-04-16 14:03:48 +0000     1049 bytes  themes/default/accordion.less</tspan>
-<tspan x="10" y="11642">711.  2017-04-16 14:03:48 +0000      890 bytes  themes/default/alert.less</tspan>
-<tspan x="10" y="11658">712.  2017-04-16 14:03:48 +0000     1810 bytes  themes/default/article.less</tspan>
-<tspan x="10" y="11674">713.  2017-04-16 14:03:48 +0000      928 bytes  themes/default/autocomplete.less</tspan>
-<tspan x="10" y="11690">714.  2017-04-16 14:03:48 +0000     1553 bytes  themes/default/badge.less</tspan>
-<tspan x="10" y="11706">715.  2017-04-16 14:03:48 +0000     3849 bytes  themes/default/base.less</tspan>
-<tspan x="10" y="11722">716.  2017-04-16 14:03:48 +0000      950 bytes  themes/default/block.less</tspan>
-<tspan x="10" y="11738">717.  2017-04-16 14:03:48 +0000      622 bytes  themes/default/breadcrumb.less</tspan>
-<tspan x="10" y="11754">718.  2017-04-16 14:03:48 +0000     3534 bytes  themes/default/button.less</tspan>
-<tspan x="10" y="11770">719.  2017-04-16 14:03:48 +0000      456 bytes  themes/default/close.less</tspan>
-<tspan x="10" y="11786">720.  2017-04-16 14:03:48 +0000      492 bytes  themes/default/column.less</tspan>
-<tspan x="10" y="11802">721.  2017-04-16 14:03:48 +0000     1922 bytes  themes/default/comment.less</tspan>
-<tspan x="10" y="11818">722.  2017-04-16 14:03:48 +0000     2300 bytes  themes/default/contrast.less</tspan>
-<tspan x="10" y="11834">723.  2017-04-16 14:03:48 +0000     8936 bytes  themes/default/customizer.json</tspan>
-<tspan x="10" y="11850">724.  2017-04-16 14:03:48 +0000     1228 bytes  themes/default/datepicker.less</tspan>
-<tspan x="10" y="11866">725.  2017-04-16 14:03:48 +0000      466 bytes  themes/default/description-list.less</tspan>
-<tspan x="10" y="11882">726.  2017-04-16 14:03:48 +0000      673 bytes  themes/default/dotnav.less</tspan>
-<tspan x="10" y="11898">727.  2017-04-16 14:03:48 +0000      974 bytes  themes/default/dropdown.less</tspan>
-<tspan x="10" y="11914">728.  2017-04-16 14:03:48 +0000      488 bytes  themes/default/form-advanced.less</tspan>
-<tspan x="10" y="11930">729.  2017-04-16 14:03:48 +0000      612 bytes  themes/default/form-password.less</tspan>
-<tspan x="10" y="11946">730.  2017-04-16 14:03:48 +0000     2447 bytes  themes/default/form.less</tspan>
-<tspan x="10" y="11962">731.  2017-04-16 14:03:48 +0000      816 bytes  themes/default/grid.less</tspan>
-<tspan x="10" y="11978">732.  2017-04-16 14:03:48 +0000     1097 bytes  themes/default/htmleditor.less</tspan>
-<tspan x="10" y="11994">733.  2017-04-16 14:03:48 +0000     1155 bytes  themes/default/icon.less</tspan>
-<tspan x="10" y="12010">734.  2017-04-16 14:03:48 +0000      629 bytes  themes/default/list.less</tspan>
-<tspan x="10" y="12026">735.  2017-04-16 14:03:48 +0000     1598 bytes  themes/default/modal.less</tspan>
-<tspan x="10" y="12042">736.  2017-04-16 14:03:48 +0000     5272 bytes  themes/default/nav.less</tspan>
-<tspan x="10" y="12058">737.  2017-04-16 14:03:48 +0000     1858 bytes  themes/default/navbar.less</tspan>
-<tspan x="10" y="12074">738.  2017-04-16 14:03:48 +0000      762 bytes  themes/default/nestable.less</tspan>
-<tspan x="10" y="12090">739.  2017-04-16 14:03:48 +0000      864 bytes  themes/default/notify.less</tspan>
-<tspan x="10" y="12106">740.  2017-04-16 14:03:48 +0000      763 bytes  themes/default/offcanvas.less</tspan>
-<tspan x="10" y="12122">741.  2017-04-16 14:03:48 +0000     1016 bytes  themes/default/overlay.less</tspan>
-<tspan x="10" y="12138">742.  2017-04-16 14:03:48 +0000     1122 bytes  themes/default/pagination.less</tspan>
-<tspan x="10" y="12154">743.  2017-04-16 14:03:48 +0000     2310 bytes  themes/default/panel.less</tspan>
-<tspan x="10" y="12170">744.  2017-04-16 14:03:48 +0000      723 bytes  themes/default/placeholder.less</tspan>
-<tspan x="10" y="12186">745.  2017-04-16 14:03:48 +0000     1296 bytes  themes/default/progress.less</tspan>
-<tspan x="10" y="12202">746.  2017-04-16 14:03:48 +0000     2080 bytes  themes/default/search.less</tspan>
-<tspan x="10" y="12218">747.  2017-04-16 14:03:48 +0000      586 bytes  themes/default/slidenav.less</tspan>
-<tspan x="10" y="12234">748.  2017-04-16 14:03:48 +0000      587 bytes  themes/default/sortable.less</tspan>
-<tspan x="10" y="12250">749.  2017-04-16 14:03:48 +0000      383 bytes  themes/default/sticky.less</tspan>
-<tspan x="10" y="12266">750.  2017-04-16 14:03:48 +0000     1477 bytes  themes/default/subnav.less</tspan>
-<tspan x="10" y="12282">751.  2017-04-16 14:03:48 +0000     1001 bytes  themes/default/tab.less</tspan>
-<tspan x="10" y="12298">752.  2017-04-16 14:03:48 +0000      755 bytes  themes/default/table.less</tspan>
-<tspan x="10" y="12314">753.  2017-04-16 14:03:48 +0000      851 bytes  themes/default/text.less</tspan>
-<tspan x="10" y="12330">754.  2017-04-16 14:03:48 +0000      920 bytes  themes/default/thumbnail.less</tspan>
-<tspan x="10" y="12346">755.  2017-04-16 14:03:48 +0000      337 bytes  themes/default/thumbnav.less</tspan>
-<tspan x="10" y="12362">756.  2017-04-16 14:03:48 +0000      694 bytes  themes/default/tooltip.less</tspan>
-<tspan x="10" y="12378">757.  2017-04-16 14:03:48 +0000     1763 bytes  themes/default/uikit-customizer.less</tspan>
-<tspan x="10" y="12394">758.  2017-04-16 14:03:48 +0000     1074 bytes  themes/default/uikit.less</tspan>
-<tspan x="10" y="12410">759.  2017-04-16 14:03:48 +0000     1506 bytes  themes/default/utility.less</tspan>
-<tspan x="10" y="12426">760.  2017-04-16 14:03:48 +0000     1569 bytes  themes/default/variables.less</tspan>
-<tspan x="10" y="12442">761.  2017-04-16 14:03:48 +0000     1290 bytes  themes/gradient/accordion.less</tspan>
-<tspan x="10" y="12458">762.  2017-04-16 14:03:48 +0000     1528 bytes  themes/gradient/alert.less</tspan>
-<tspan x="10" y="12474">763.  2017-04-16 14:03:48 +0000     2019 bytes  themes/gradient/article.less</tspan>
-<tspan x="10" y="12490">764.  2017-04-16 14:03:48 +0000     1229 bytes  themes/gradient/autocomplete.less</tspan>
-<tspan x="10" y="12506">765.  2017-04-16 14:03:48 +0000     3577 bytes  themes/gradient/badge.less</tspan>
-<tspan x="10" y="12522">766.  2017-04-16 14:03:48 +0000     4667 bytes  themes/gradient/base.less</tspan>
-<tspan x="10" y="12538">767.  2017-04-16 14:03:48 +0000      950 bytes  themes/gradient/block.less</tspan>
-<tspan x="10" y="12554">768.  2017-04-16 14:03:48 +0000      622 bytes  themes/gradient/breadcrumb.less</tspan>
-<tspan x="10" y="12570">769.  2017-04-16 14:03:48 +0000     9685 bytes  themes/gradient/button.less</tspan>
-<tspan x="10" y="12586">770.  2017-04-16 14:03:48 +0000      701 bytes  themes/gradient/close.less</tspan>
-<tspan x="10" y="12602">771.  2017-04-16 14:03:48 +0000      492 bytes  themes/gradient/column.less</tspan>
-<tspan x="10" y="12618">772.  2017-04-16 14:03:48 +0000     2864 bytes  themes/gradient/comment.less</tspan>
-<tspan x="10" y="12634">773.  2017-04-16 14:03:48 +0000     2601 bytes  themes/gradient/contrast.less</tspan>
-<tspan x="10" y="12650">774.  2017-04-16 14:03:48 +0000     9713 bytes  themes/gradient/customizer.json</tspan>
-<tspan x="10" y="12666">775.  2017-04-16 14:03:48 +0000     2843 bytes  themes/gradient/datepicker.less</tspan>
-<tspan x="10" y="12682">776.  2017-04-16 14:03:48 +0000      466 bytes  themes/gradient/description-list.less</tspan>
-<tspan x="10" y="12698">777.  2017-04-16 14:03:48 +0000      821 bytes  themes/gradient/dotnav.less</tspan>
-<tspan x="10" y="12714">778.  2017-04-16 14:03:48 +0000     1547 bytes  themes/gradient/dropdown.less</tspan>
-<tspan x="10" y="12730">779.  2017-04-16 14:03:48 +0000      488 bytes  themes/gradient/form-advanced.less</tspan>
-<tspan x="10" y="12746">780.  2017-04-16 14:03:48 +0000      612 bytes  themes/gradient/form-password.less</tspan>
-<tspan x="10" y="12762">781.  2017-04-16 14:03:48 +0000     2543 bytes  themes/gradient/form.less</tspan>
-<tspan x="10" y="12778">782.  2017-04-16 14:03:48 +0000      816 bytes  themes/gradient/grid.less</tspan>
-<tspan x="10" y="12794">783.  2017-04-16 14:03:48 +0000     5322 bytes  themes/gradient/htmleditor.less</tspan>
-<tspan x="10" y="12810">784.  2017-04-16 14:03:48 +0000     2339 bytes  themes/gradient/icon.less</tspan>
-<tspan x="10" y="12826">785.  2017-04-16 14:03:48 +0000      903 bytes  themes/gradient/list.less</tspan>
-<tspan x="10" y="12842">786.  2017-04-16 14:03:48 +0000     2278 bytes  themes/gradient/modal.less</tspan>
-<tspan x="10" y="12858">787.  2017-04-16 14:03:48 +0000     7461 bytes  themes/gradient/nav.less</tspan>
-<tspan x="10" y="12874">788.  2017-04-16 14:03:48 +0000     5719 bytes  themes/gradient/navbar.less</tspan>
-<tspan x="10" y="12890">789.  2017-04-16 14:03:48 +0000     1638 bytes  themes/gradient/nestable.less</tspan>
-<tspan x="10" y="12906">790.  2017-04-16 14:03:48 +0000     1588 bytes  themes/gradient/notify.less</tspan>
-<tspan x="10" y="12922">791.  2017-04-16 14:03:48 +0000     1360 bytes  themes/gradient/offcanvas.less</tspan>
-<tspan x="10" y="12938">792.  2017-04-16 14:03:48 +0000     1016 bytes  themes/gradient/overlay.less</tspan>
-<tspan x="10" y="12954">793.  2017-04-16 14:03:48 +0000     3569 bytes  themes/gradient/pagination.less</tspan>
-<tspan x="10" y="12970">794.  2017-04-16 14:03:48 +0000     3327 bytes  themes/gradient/panel.less</tspan>
-<tspan x="10" y="12986">795.  2017-04-16 14:03:48 +0000      723 bytes  themes/gradient/placeholder.less</tspan>
-<tspan x="10" y="13002">796.  2017-04-16 14:03:48 +0000     3566 bytes  themes/gradient/progress.less</tspan>
-<tspan x="10" y="13018">797.  2017-04-16 14:03:48 +0000     2415 bytes  themes/gradient/search.less</tspan>
-<tspan x="10" y="13034">798.  2017-04-16 14:03:48 +0000      586 bytes  themes/gradient/slidenav.less</tspan>
-<tspan x="10" y="13050">799.  2017-04-16 14:03:48 +0000      587 bytes  themes/gradient/sortable.less</tspan>
-<tspan x="10" y="13066">800.  2017-04-16 14:03:48 +0000      383 bytes  themes/gradient/sticky.less</tspan>
-<tspan x="10" y="13082">801.  2017-04-16 14:03:48 +0000     1678 bytes  themes/gradient/subnav.less</tspan>
-<tspan x="10" y="13098">802.  2017-04-16 14:03:48 +0000     2064 bytes  themes/gradient/tab.less</tspan>
-<tspan x="10" y="13114">803.  2017-04-16 14:03:48 +0000     1021 bytes  themes/gradient/table.less</tspan>
-<tspan x="10" y="13130">804.  2017-04-16 14:03:48 +0000      851 bytes  themes/gradient/text.less</tspan>
-<tspan x="10" y="13146">805.  2017-04-16 14:03:48 +0000     1139 bytes  themes/gradient/thumbnail.less</tspan>
-<tspan x="10" y="13162">806.  2017-04-16 14:03:48 +0000      337 bytes  themes/gradient/thumbnav.less</tspan>
-<tspan x="10" y="13178">807.  2017-04-16 14:03:48 +0000      846 bytes  themes/gradient/tooltip.less</tspan>
-<tspan x="10" y="13194">808.  2017-04-16 14:03:48 +0000     1763 bytes  themes/gradient/uikit-customizer.less</tspan>
-<tspan x="10" y="13210">809.  2017-04-16 14:03:48 +0000     1074 bytes  themes/gradient/uikit.less</tspan>
-<tspan x="10" y="13226">810.  2017-04-16 14:03:48 +0000     1527 bytes  themes/gradient/utility.less</tspan>
-<tspan x="10" y="13242">811.  2017-04-16 14:03:48 +0000     2799 bytes  themes/gradient/variables.less</tspan>
-<tspan x="10" y="13258">812.  2017-04-16 14:03:48 +0000     8137 bytes  vendor/codemirror/codemirror.css</tspan>
-<tspan x="10" y="13274">813.  2017-04-16 14:03:48 +0000   315108 bytes  vendor/codemirror/codemirror.js</tspan>
-<tspan x="10" y="13290">814.  2017-04-16 14:03:48 +0000      662 bytes  vendor/codemirror/show-hint.css</tspan>
-<tspan x="10" y="13306">815.  2017-04-16 14:03:48 +0000   140980 bytes  vendor/commonmark.js</tspan>
-<tspan x="10" y="13322">816.  2017-04-16 14:03:48 +0000    11931 bytes  vendor/customizer.js</tspan>
-<tspan x="10" y="13338">817.  2017-04-16 14:03:48 +0000     1611 bytes  vendor/highlight/highlight.css</tspan>
-<tspan x="10" y="13354">818.  2017-04-16 14:03:48 +0000    15963 bytes  vendor/highlight/highlight.js</tspan>
-<tspan x="10" y="13370">819.  2017-04-16 14:03:48 +0000     1187 bytes  vendor/highlight/test.html</tspan>
-<tspan x="10" y="13386">820.  2017-04-16 14:03:48 +0000    69844 bytes  vendor/holder.js</tspan>
-<tspan x="10" y="13402">821.  2017-04-16 14:03:48 +0000    84344 bytes  vendor/jquery.js</tspan>
-<tspan x="10" y="13418">822.  2017-04-16 14:03:48 +0000     7925 bytes  vendor/jquery.less.js</tspan>
-<tspan x="10" y="13434">823.  2017-04-16 14:03:48 +0000     5235 bytes  vendor/jquery.mustache.js</tspan>
-<tspan x="10" y="13450">824.  2017-04-16 14:03:48 +0000    12418 bytes  vendor/jquery.rtl.js</tspan>
-<tspan x="10" y="13466">825.  2017-04-16 14:03:48 +0000   102798 bytes  vendor/less.js</tspan>
-<tspan x="10" y="13482">826.  2017-04-16 14:03:48 +0000    14921 bytes  vendor/spectrum/spectrum.css</tspan>
-<tspan x="10" y="13498">827.  2017-04-16 14:03:48 +0000    79270 bytes  vendor/spectrum/spectrum.js</tspan>
-<tspan x="10" y="13514">828.  2017-04-16 14:03:48 +0000    17977 bytes  vendor/spectrum/test.html</tspan>
+<tspan x="10" y="1962">106.  2017-04-16 14:04:54 +0000     3573 bytes  dist/css/components/slideshow.css</tspan>
+<tspan x="10" y="1978">107.  2017-04-16 14:04:54 +0000     3573 bytes  dist/css/components/slideshow.gradient.css</tspan>
+<tspan x="10" y="1994">108.  2017-04-16 14:04:54 +0000     2103 bytes  dist/css/components/slideshow.gradient.min.css</tspan>
+<tspan x="10" y="2010">109.  2017-04-16 14:04:54 +0000     2103 bytes  dist/css/components/slideshow.min.css</tspan>
+<tspan x="10" y="2026">110.  2017-04-16 14:04:54 +0000     1718 bytes  dist/css/components/sortable.almost-flat.css</tspan>
+<tspan x="10" y="2042">111.  2017-04-16 14:04:54 +0000      563 bytes  dist/css/components/sortable.almost-flat.min.css</tspan>
+<tspan x="10" y="2058">112.  2017-04-16 14:04:54 +0000     1718 bytes  dist/css/components/sortable.css</tspan>
+<tspan x="10" y="2074">113.  2017-04-16 14:04:54 +0000     1718 bytes  dist/css/components/sortable.gradient.css</tspan>
+<tspan x="10" y="2090">114.  2017-04-16 14:04:54 +0000      563 bytes  dist/css/components/sortable.gradient.min.css</tspan>
+<tspan x="10" y="2106">115.  2017-04-16 14:04:54 +0000      563 bytes  dist/css/components/sortable.min.css</tspan>
+<tspan x="10" y="2122">116.  2017-04-16 14:04:54 +0000      765 bytes  dist/css/components/sticky.almost-flat.css</tspan>
+<tspan x="10" y="2138">117.  2017-04-16 14:04:54 +0000      361 bytes  dist/css/components/sticky.almost-flat.min.css</tspan>
+<tspan x="10" y="2154">118.  2017-04-16 14:04:54 +0000      765 bytes  dist/css/components/sticky.css</tspan>
+<tspan x="10" y="2170">119.  2017-04-16 14:04:54 +0000      765 bytes  dist/css/components/sticky.gradient.css</tspan>
+<tspan x="10" y="2186">120.  2017-04-16 14:04:54 +0000      361 bytes  dist/css/components/sticky.gradient.min.css</tspan>
+<tspan x="10" y="2202">121.  2017-04-16 14:04:54 +0000      361 bytes  dist/css/components/sticky.min.css</tspan>
+<tspan x="10" y="2218">122.  2017-04-16 14:04:54 +0000     2415 bytes  dist/css/components/tooltip.almost-flat.css</tspan>
+<tspan x="10" y="2234">123.  2017-04-16 14:04:54 +0000     1456 bytes  dist/css/components/tooltip.almost-flat.min.css</tspan>
+<tspan x="10" y="2250">124.  2017-04-16 14:04:54 +0000     2350 bytes  dist/css/components/tooltip.css</tspan>
+<tspan x="10" y="2266">125.  2017-04-16 14:04:54 +0000     2415 bytes  dist/css/components/tooltip.gradient.css</tspan>
+<tspan x="10" y="2282">126.  2017-04-16 14:04:54 +0000     1456 bytes  dist/css/components/tooltip.gradient.min.css</tspan>
+<tspan x="10" y="2298">127.  2017-04-16 14:04:54 +0000     1403 bytes  dist/css/components/tooltip.min.css</tspan>
+<tspan x="10" y="2314">128.  2017-04-16 14:04:54 +0000      394 bytes  dist/css/components/upload.almost-flat.css</tspan>
+<tspan x="10" y="2330">129.  2017-04-16 14:04:54 +0000      134 bytes  dist/css/components/upload.almost-flat.min.css</tspan>
+<tspan x="10" y="2346">130.  2017-04-16 14:04:54 +0000      394 bytes  dist/css/components/upload.css</tspan>
+<tspan x="10" y="2362">131.  2017-04-16 14:04:54 +0000      394 bytes  dist/css/components/upload.gradient.css</tspan>
+<tspan x="10" y="2378">132.  2017-04-16 14:04:54 +0000      134 bytes  dist/css/components/upload.gradient.min.css</tspan>
+<tspan x="10" y="2394">133.  2017-04-16 14:04:54 +0000      134 bytes  dist/css/components/upload.min.css</tspan>
+<tspan x="10" y="2410">134.  2017-04-16 14:04:54 +0000   187324 bytes  dist/css/uikit.almost-flat.css</tspan>
+<tspan x="10" y="2426">135.  2017-04-16 14:04:54 +0000   109215 bytes  dist/css/uikit.almost-flat.min.css</tspan>
+<tspan x="10" y="2442">136.  2017-04-16 14:04:54 +0000   178620 bytes  dist/css/uikit.css</tspan>
+<tspan x="10" y="2458">137.  2017-04-16 14:04:54 +0000   190518 bytes  dist/css/uikit.gradient.css</tspan>
+<tspan x="10" y="2474">138.  2017-04-16 14:04:54 +0000   112061 bytes  dist/css/uikit.gradient.min.css</tspan>
+<tspan x="10" y="2490">139.  2017-04-16 14:04:54 +0000   103005 bytes  dist/css/uikit.min.css</tspan>
+<tspan x="10" y="2506">140.  2017-04-16 14:04:54 +0000   124988 bytes  dist/fonts/FontAwesome.otf</tspan>
+<tspan x="10" y="2522">141.  2017-04-16 14:04:54 +0000   152796 bytes  dist/fonts/fontawesome-webfont.ttf</tspan>
+<tspan x="10" y="2538">142.  2017-04-16 14:04:54 +0000    90412 bytes  dist/fonts/fontawesome-webfont.woff</tspan>
+<tspan x="10" y="2554">143.  2017-04-16 14:04:54 +0000    71896 bytes  dist/fonts/fontawesome-webfont.woff2</tspan>
+<tspan x="10" y="2570">144.  2017-04-16 14:04:54 +0000     5429 bytes  dist/js/components/accordion.js</tspan>
+<tspan x="10" y="2586">145.  2017-04-16 14:04:54 +0000     2852 bytes  dist/js/components/accordion.min.js</tspan>
+<tspan x="10" y="2602">146.  2017-04-16 14:04:54 +0000     9665 bytes  dist/js/components/autocomplete.js</tspan>
+<tspan x="10" y="2618">147.  2017-04-16 14:04:54 +0000     4262 bytes  dist/js/components/autocomplete.min.js</tspan>
+<tspan x="10" y="2634">148.  2017-04-16 14:04:54 +0000   113388 bytes  dist/js/components/datepicker.js</tspan>
+<tspan x="10" y="2650">149.  2017-04-16 14:04:54 +0000    37648 bytes  dist/js/components/datepicker.min.js</tspan>
+<tspan x="10" y="2666">150.  2017-04-16 14:04:54 +0000     1756 bytes  dist/js/components/form-password.js</tspan>
+<tspan x="10" y="2682">151.  2017-04-16 14:04:54 +0000     1055 bytes  dist/js/components/form-password.min.js</tspan>
+<tspan x="10" y="2698">152.  2017-04-16 14:04:54 +0000     2344 bytes  dist/js/components/form-select.js</tspan>
+<tspan x="10" y="2714">153.  2017-04-16 14:04:54 +0000     1201 bytes  dist/js/components/form-select.min.js</tspan>
+<tspan x="10" y="2730">154.  2017-04-16 14:04:54 +0000     4833 bytes  dist/js/components/grid-parallax.js</tspan>
+<tspan x="10" y="2746">155.  2017-04-16 14:04:54 +0000     2048 bytes  dist/js/components/grid-parallax.min.js</tspan>
+<tspan x="10" y="2762">156.  2017-04-16 14:04:54 +0000    17121 bytes  dist/js/components/grid.js</tspan>
+<tspan x="10" y="2778">157.  2017-04-16 14:04:54 +0000     6458 bytes  dist/js/components/grid.min.js</tspan>
+<tspan x="10" y="2794">158.  2017-04-16 14:04:54 +0000    25884 bytes  dist/js/components/htmleditor.js</tspan>
+<tspan x="10" y="2810">159.  2017-04-16 14:04:54 +0000    13457 bytes  dist/js/components/htmleditor.min.js</tspan>
+<tspan x="10" y="2826">160.  2017-04-16 14:04:54 +0000    19089 bytes  dist/js/components/lightbox.js</tspan>
+<tspan x="10" y="2842">161.  2017-04-16 14:04:54 +0000     8990 bytes  dist/js/components/lightbox.min.js</tspan>
+<tspan x="10" y="2858">162.  2017-04-16 14:04:54 +0000    22506 bytes  dist/js/components/nestable.js</tspan>
+<tspan x="10" y="2874">163.  2017-04-16 14:04:54 +0000     9501 bytes  dist/js/components/nestable.min.js</tspan>
+<tspan x="10" y="2890">164.  2017-04-16 14:04:54 +0000     5093 bytes  dist/js/components/notify.js</tspan>
+<tspan x="10" y="2906">165.  2017-04-16 14:04:54 +0000     2636 bytes  dist/js/components/notify.min.js</tspan>
+<tspan x="10" y="2922">166.  2017-04-16 14:04:54 +0000     4921 bytes  dist/js/components/pagination.js</tspan>
+<tspan x="10" y="2938">167.  2017-04-16 14:04:54 +0000     2565 bytes  dist/js/components/pagination.min.js</tspan>
+<tspan x="10" y="2954">168.  2017-04-16 14:04:54 +0000    15053 bytes  dist/js/components/parallax.js</tspan>
+<tspan x="10" y="2970">169.  2017-04-16 14:04:54 +0000     5974 bytes  dist/js/components/parallax.min.js</tspan>
+<tspan x="10" y="2986">170.  2017-04-16 14:04:54 +0000     3728 bytes  dist/js/components/search.js</tspan>
+<tspan x="10" y="3002">171.  2017-04-16 14:04:54 +0000     2794 bytes  dist/js/components/search.min.js</tspan>
+<tspan x="10" y="3018">172.  2017-04-16 14:04:54 +0000    16281 bytes  dist/js/components/slider.js</tspan>
+<tspan x="10" y="3034">173.  2017-04-16 14:04:54 +0000     7111 bytes  dist/js/components/slider.min.js</tspan>
+<tspan x="10" y="3050">174.  2017-04-16 14:04:54 +0000    14720 bytes  dist/js/components/slideset.js</tspan>
+<tspan x="10" y="3066">175.  2017-04-16 14:04:54 +0000     7120 bytes  dist/js/components/slideset.min.js</tspan>
+<tspan x="10" y="3082">176.  2017-04-16 14:04:54 +0000    13875 bytes  dist/js/components/slideshow-fx.js</tspan>
+<tspan x="10" y="3098">177.  2017-04-16 14:04:54 +0000     5861 bytes  dist/js/components/slideshow-fx.min.js</tspan>
+<tspan x="10" y="3114">178.  2017-04-16 14:04:54 +0000    20139 bytes  dist/js/components/slideshow.js</tspan>
+<tspan x="10" y="3130">179.  2017-04-16 14:04:54 +0000    10038 bytes  dist/js/components/slideshow.min.js</tspan>
+<tspan x="10" y="3146">180.  2017-04-16 14:04:54 +0000    24115 bytes  dist/js/components/sortable.js</tspan>
+<tspan x="10" y="3162">181.  2017-04-16 14:04:54 +0000     9204 bytes  dist/js/components/sortable.min.js</tspan>
+<tspan x="10" y="3178">182.  2017-04-16 14:04:54 +0000    13036 bytes  dist/js/components/sticky.js</tspan>
+<tspan x="10" y="3194">183.  2017-04-16 14:04:54 +0000     5056 bytes  dist/js/components/sticky.min.js</tspan>
+<tspan x="10" y="3210">184.  2017-04-16 14:04:54 +0000     5558 bytes  dist/js/components/timepicker.js</tspan>
+<tspan x="10" y="3226">185.  2017-04-16 14:04:54 +0000     2669 bytes  dist/js/components/timepicker.min.js</tspan>
+<tspan x="10" y="3242">186.  2017-04-16 14:04:54 +0000     8059 bytes  dist/js/components/tooltip.js</tspan>
+<tspan x="10" y="3258">187.  2017-04-16 14:04:54 +0000     3716 bytes  dist/js/components/tooltip.min.js</tspan>
+<tspan x="10" y="3274">188.  2017-04-16 14:04:54 +0000     7787 bytes  dist/js/components/upload.js</tspan>
+<tspan x="10" y="3290">189.  2017-04-16 14:04:54 +0000     3540 bytes  dist/js/components/upload.min.js</tspan>
+<tspan x="10" y="3306">190.  2017-04-16 14:04:54 +0000     1769 bytes  dist/js/core/alert.js</tspan>
+<tspan x="10" y="3322">191.  2017-04-16 14:04:54 +0000      856 bytes  dist/js/core/alert.min.js</tspan>
+<tspan x="10" y="3338">192.  2017-04-16 14:04:54 +0000     4314 bytes  dist/js/core/button.js</tspan>
+<tspan x="10" y="3354">193.  2017-04-16 14:04:54 +0000     2463 bytes  dist/js/core/button.min.js</tspan>
+<tspan x="10" y="3370">194.  2017-04-16 14:04:54 +0000    25163 bytes  dist/js/core/core.js</tspan>
+<tspan x="10" y="3386">195.  2017-04-16 14:04:54 +0000    11372 bytes  dist/js/core/core.min.js</tspan>
+<tspan x="10" y="3402">196.  2017-04-16 14:04:54 +0000     2583 bytes  dist/js/core/cover.js</tspan>
+<tspan x="10" y="3418">197.  2017-04-16 14:04:54 +0000     1466 bytes  dist/js/core/cover.min.js</tspan>
+<tspan x="10" y="3434">198.  2017-04-16 14:04:54 +0000    18480 bytes  dist/js/core/dropdown.js</tspan>
+<tspan x="10" y="3450">199.  2017-04-16 14:04:54 +0000     8903 bytes  dist/js/core/dropdown.min.js</tspan>
+<tspan x="10" y="3466">200.  2017-04-16 14:04:54 +0000     3112 bytes  dist/js/core/grid.js</tspan>
+<tspan x="10" y="3482">201.  2017-04-16 14:04:54 +0000     1620 bytes  dist/js/core/grid.min.js</tspan>
+<tspan x="10" y="3498">202.  2017-04-16 14:04:54 +0000    12078 bytes  dist/js/core/modal.js</tspan>
+<tspan x="10" y="3514">203.  2017-04-16 14:04:54 +0000     6741 bytes  dist/js/core/modal.min.js</tspan>
+<tspan x="10" y="3530">204.  2017-04-16 14:04:54 +0000     4429 bytes  dist/js/core/nav.js</tspan>
+<tspan x="10" y="3546">205.  2017-04-16 14:04:54 +0000     2112 bytes  dist/js/core/nav.min.js</tspan>
+<tspan x="10" y="3562">206.  2017-04-16 14:04:54 +0000     6127 bytes  dist/js/core/offcanvas.js</tspan>
+<tspan x="10" y="3578">207.  2017-04-16 14:04:54 +0000     2953 bytes  dist/js/core/offcanvas.min.js</tspan>
+<tspan x="10" y="3594">208.  2017-04-16 14:04:54 +0000     7065 bytes  dist/js/core/scrollspy.js</tspan>
+<tspan x="10" y="3610">209.  2017-04-16 14:04:54 +0000     2989 bytes  dist/js/core/scrollspy.min.js</tspan>
+<tspan x="10" y="3626">210.  2017-04-16 14:04:54 +0000     1823 bytes  dist/js/core/smooth-scroll.js</tspan>
+<tspan x="10" y="3642">211.  2017-04-16 14:04:54 +0000      944 bytes  dist/js/core/smooth-scroll.min.js</tspan>
+<tspan x="10" y="3658">212.  2017-04-16 14:04:54 +0000     8922 bytes  dist/js/core/switcher.js</tspan>
+<tspan x="10" y="3674">213.  2017-04-16 14:04:54 +0000     4145 bytes  dist/js/core/switcher.min.js</tspan>
+<tspan x="10" y="3690">214.  2017-04-16 14:04:54 +0000     5442 bytes  dist/js/core/tab.js</tspan>
+<tspan x="10" y="3706">215.  2017-04-16 14:04:54 +0000     2995 bytes  dist/js/core/tab.min.js</tspan>
+<tspan x="10" y="3722">216.  2017-04-16 14:04:54 +0000     3335 bytes  dist/js/core/toggle.js</tspan>
+<tspan x="10" y="3738">217.  2017-04-16 14:04:54 +0000     1648 bytes  dist/js/core/toggle.min.js</tspan>
+<tspan x="10" y="3754">218.  2017-04-16 14:04:54 +0000     6260 bytes  dist/js/core/touch.js</tspan>
+<tspan x="10" y="3770">219.  2017-04-16 14:04:54 +0000     2497 bytes  dist/js/core/touch.min.js</tspan>
+<tspan x="10" y="3786">220.  2017-04-16 14:04:54 +0000     8886 bytes  dist/js/core/utility.js</tspan>
+<tspan x="10" y="3802">221.  2017-04-16 14:04:54 +0000     3816 bytes  dist/js/core/utility.min.js</tspan>
+<tspan x="10" y="3818">222.  2017-04-16 14:04:54 +0000   118603 bytes  dist/js/uikit.js</tspan>
+<tspan x="10" y="3834">223.  2017-04-16 14:04:54 +0000    56306 bytes  dist/js/uikit.min.js</tspan>
+<tspan x="10" y="3850">224.  2017-04-16 14:04:54 +0000     2609 bytes  dist/less/components/accordion.less</tspan>
+<tspan x="10" y="3866">225.  2017-04-16 14:04:54 +0000     2509 bytes  dist/less/components/autocomplete.less</tspan>
+<tspan x="10" y="3882">226.  2017-04-16 14:04:54 +0000     5042 bytes  dist/less/components/datepicker.less</tspan>
+<tspan x="10" y="3898">227.  2017-04-16 14:04:54 +0000     4845 bytes  dist/less/components/dotnav.less</tspan>
+<tspan x="10" y="3914">228.  2017-04-16 14:04:54 +0000     3724 bytes  dist/less/components/form-advanced.less</tspan>
+<tspan x="10" y="3930">229.  2017-04-16 14:04:54 +0000     1237 bytes  dist/less/components/form-file.less</tspan>
+<tspan x="10" y="3946">230.  2017-04-16 14:04:54 +0000     1906 bytes  dist/less/components/form-password.less</tspan>
+<tspan x="10" y="3962">231.  2017-04-16 14:04:54 +0000     1311 bytes  dist/less/components/form-select.less</tspan>
+<tspan x="10" y="3978">232.  2017-04-16 14:04:54 +0000     7089 bytes  dist/less/components/htmleditor.less</tspan>
+<tspan x="10" y="3994">233.  2017-04-16 14:04:54 +0000     5500 bytes  dist/less/components/nestable.less</tspan>
+<tspan x="10" y="4010">234.  2017-04-16 14:04:54 +0000     5033 bytes  dist/less/components/notify.less</tspan>
+<tspan x="10" y="4026">235.  2017-04-16 14:04:54 +0000     1784 bytes  dist/less/components/placeholder.less</tspan>
+<tspan x="10" y="4042">236.  2017-04-16 14:04:54 +0000     4588 bytes  dist/less/components/progress.less</tspan>
+<tspan x="10" y="4058">237.  2017-04-16 14:04:54 +0000     8153 bytes  dist/less/components/search.less</tspan>
+<tspan x="10" y="4074">238.  2017-04-16 14:04:54 +0000     4512 bytes  dist/less/components/slidenav.less</tspan>
+<tspan x="10" y="4090">239.  2017-04-16 14:04:54 +0000     2635 bytes  dist/less/components/slider.less</tspan>
+<tspan x="10" y="4106">240.  2017-04-16 14:04:54 +0000     4763 bytes  dist/less/components/slideshow.less</tspan>
+<tspan x="10" y="4122">241.  2017-04-16 14:04:54 +0000     2888 bytes  dist/less/components/sortable.less</tspan>
+<tspan x="10" y="4138">242.  2017-04-16 14:04:54 +0000     1454 bytes  dist/less/components/sticky.less</tspan>
+<tspan x="10" y="4154">243.  2017-04-16 14:04:54 +0000     4114 bytes  dist/less/components/tooltip.less</tspan>
+<tspan x="10" y="4170">244.  2017-04-16 14:04:54 +0000      936 bytes  dist/less/components/upload.less</tspan>
+<tspan x="10" y="4186">245.  2017-04-16 14:04:54 +0000     3427 bytes  dist/less/core/alert.less</tspan>
+<tspan x="10" y="4202">246.  2017-04-16 14:04:54 +0000    12399 bytes  dist/less/core/animation.less</tspan>
+<tspan x="10" y="4218">247.  2017-04-16 14:04:54 +0000     3601 bytes  dist/less/core/article.less</tspan>
+<tspan x="10" y="4234">248.  2017-04-16 14:04:54 +0000     2818 bytes  dist/less/core/badge.less</tspan>
+<tspan x="10" y="4250">249.  2017-04-16 14:04:54 +0000    12507 bytes  dist/less/core/base.less</tspan>
+<tspan x="10" y="4266">250.  2017-04-16 14:04:54 +0000     3314 bytes  dist/less/core/block.less</tspan>
+<tspan x="10" y="4282">251.  2017-04-16 14:04:54 +0000     1954 bytes  dist/less/core/breadcrumb.less</tspan>
+<tspan x="10" y="4298">252.  2017-04-16 14:04:54 +0000    10899 bytes  dist/less/core/button.less</tspan>
+<tspan x="10" y="4314">253.  2017-04-16 14:04:54 +0000     2852 bytes  dist/less/core/close.less</tspan>
+<tspan x="10" y="4330">254.  2017-04-16 14:04:54 +0000     4270 bytes  dist/less/core/column.less</tspan>
+<tspan x="10" y="4346">255.  2017-04-16 14:04:54 +0000     4292 bytes  dist/less/core/comment.less</tspan>
+<tspan x="10" y="4362">256.  2017-04-16 14:04:54 +0000    14997 bytes  dist/less/core/contrast.less</tspan>
+<tspan x="10" y="4378">257.  2017-04-16 14:04:54 +0000     1553 bytes  dist/less/core/cover.less</tspan>
+<tspan x="10" y="4394">258.  2017-04-16 14:04:54 +0000     2242 bytes  dist/less/core/description-list.less</tspan>
+<tspan x="10" y="4410">259.  2017-04-16 14:04:54 +0000     7248 bytes  dist/less/core/dropdown.less</tspan>
+<tspan x="10" y="4426">260.  2017-04-16 14:04:54 +0000     5907 bytes  dist/less/core/flex.less</tspan>
+<tspan x="10" y="4442">261.  2017-04-16 14:04:54 +0000    16711 bytes  dist/less/core/form.less</tspan>
+<tspan x="10" y="4458">262.  2017-04-16 14:04:54 +0000    18078 bytes  dist/less/core/grid.less</tspan>
+<tspan x="10" y="4474">263.  2017-04-16 14:04:54 +0000    38128 bytes  dist/less/core/icon.less</tspan>
+<tspan x="10" y="4490">264.  2017-04-16 14:04:54 +0000     2455 bytes  dist/less/core/list.less</tspan>
+<tspan x="10" y="4506">265.  2017-04-16 14:04:54 +0000     7804 bytes  dist/less/core/modal.less</tspan>
+<tspan x="10" y="4522">266.  2017-04-16 14:04:54 +0000    11902 bytes  dist/less/core/nav.less</tspan>
+<tspan x="10" y="4538">267.  2017-04-16 14:04:54 +0000     8193 bytes  dist/less/core/navbar.less</tspan>
+<tspan x="10" y="4554">268.  2017-04-16 14:04:54 +0000     5445 bytes  dist/less/core/offcanvas.less</tspan>
+<tspan x="10" y="4570">269.  2017-04-16 14:04:54 +0000    13403 bytes  dist/less/core/overlay.less</tspan>
+<tspan x="10" y="4586">270.  2017-04-16 14:04:54 +0000     4914 bytes  dist/less/core/pagination.less</tspan>
+<tspan x="10" y="4602">271.  2017-04-16 14:04:54 +0000     9188 bytes  dist/less/core/panel.less</tspan>
+<tspan x="10" y="4618">272.  2017-04-16 14:04:54 +0000     1222 bytes  dist/less/core/print.less</tspan>
+<tspan x="10" y="4634">273.  2017-04-16 14:04:54 +0000     4926 bytes  dist/less/core/subnav.less</tspan>
+<tspan x="10" y="4650">274.  2017-04-16 14:04:54 +0000      817 bytes  dist/less/core/switcher.less</tspan>
+<tspan x="10" y="4666">275.  2017-04-16 14:04:54 +0000     9061 bytes  dist/less/core/tab.less</tspan>
+<tspan x="10" y="4682">276.  2017-04-16 14:04:54 +0000     3299 bytes  dist/less/core/table.less</tspan>
+<tspan x="10" y="4698">277.  2017-04-16 14:04:54 +0000     3934 bytes  dist/less/core/text.less</tspan>
+<tspan x="10" y="4714">278.  2017-04-16 14:04:54 +0000     3290 bytes  dist/less/core/thumbnail.less</tspan>
+<tspan x="10" y="4730">279.  2017-04-16 14:04:54 +0000     2654 bytes  dist/less/core/thumbnav.less</tspan>
+<tspan x="10" y="4746">280.  2017-04-16 14:04:54 +0000    13958 bytes  dist/less/core/utility.less</tspan>
+<tspan x="10" y="4762">281.  2017-04-16 14:04:54 +0000      899 bytes  dist/less/core/variables.less</tspan>
+<tspan x="10" y="4778">282.  2017-04-16 14:04:54 +0000    46881 bytes  dist/less/uikit-variables.less</tspan>
+<tspan x="10" y="4794">283.  2017-04-16 14:04:54 +0000     1164 bytes  dist/less/uikit.less</tspan>
+<tspan x="10" y="4810">284.  2017-04-16 14:04:54 +0000     2761 bytes  dist/scss/components/accordion.scss</tspan>
+<tspan x="10" y="4826">285.  2017-04-16 14:04:54 +0000     2659 bytes  dist/scss/components/autocomplete.scss</tspan>
+<tspan x="10" y="4842">286.  2017-04-16 14:04:54 +0000     5348 bytes  dist/scss/components/datepicker.scss</tspan>
+<tspan x="10" y="4858">287.  2017-04-16 14:04:54 +0000     5127 bytes  dist/scss/components/dotnav.scss</tspan>
+<tspan x="10" y="4874">288.  2017-04-16 14:04:54 +0000     3952 bytes  dist/scss/components/form-advanced.scss</tspan>
+<tspan x="10" y="4890">289.  2017-04-16 14:04:54 +0000     1255 bytes  dist/scss/components/form-file.scss</tspan>
+<tspan x="10" y="4906">290.  2017-04-16 14:04:54 +0000     1974 bytes  dist/scss/components/form-password.scss</tspan>
+<tspan x="10" y="4922">291.  2017-04-16 14:04:54 +0000     1329 bytes  dist/scss/components/form-select.scss</tspan>
+<tspan x="10" y="4938">292.  2017-04-16 14:04:54 +0000     7413 bytes  dist/scss/components/htmleditor.scss</tspan>
+<tspan x="10" y="4954">293.  2017-04-16 14:04:54 +0000     5742 bytes  dist/scss/components/nestable.scss</tspan>
+<tspan x="10" y="4970">294.  2017-04-16 14:04:54 +0000     5329 bytes  dist/scss/components/notify.scss</tspan>
+<tspan x="10" y="4986">295.  2017-04-16 14:04:54 +0000     1898 bytes  dist/scss/components/placeholder.scss</tspan>
+<tspan x="10" y="5002">296.  2017-04-16 14:04:54 +0000     4842 bytes  dist/scss/components/progress.scss</tspan>
+<tspan x="10" y="5018">297.  2017-04-16 14:04:54 +0000     8681 bytes  dist/scss/components/search.scss</tspan>
+<tspan x="10" y="5034">298.  2017-04-16 14:04:54 +0000     4778 bytes  dist/scss/components/slidenav.scss</tspan>
+<tspan x="10" y="5050">299.  2017-04-16 14:04:54 +0000     2653 bytes  dist/scss/components/slider.scss</tspan>
+<tspan x="10" y="5066">300.  2017-04-16 14:04:54 +0000     4781 bytes  dist/scss/components/slideshow.scss</tspan>
+<tspan x="10" y="5082">301.  2017-04-16 14:04:54 +0000     3008 bytes  dist/scss/components/sortable.scss</tspan>
+<tspan x="10" y="5098">302.  2017-04-16 14:04:54 +0000     1502 bytes  dist/scss/components/sticky.scss</tspan>
+<tspan x="10" y="5114">303.  2017-04-16 14:04:54 +0000     4250 bytes  dist/scss/components/tooltip.scss</tspan>
+<tspan x="10" y="5130">304.  2017-04-16 14:04:54 +0000      974 bytes  dist/scss/components/upload.scss</tspan>
+<tspan x="10" y="5146">305.  2017-04-16 14:04:54 +0000     3627 bytes  dist/scss/core/alert.scss</tspan>
+<tspan x="10" y="5162">306.  2017-04-16 14:04:54 +0000    12417 bytes  dist/scss/core/animation.scss</tspan>
+<tspan x="10" y="5178">307.  2017-04-16 14:04:54 +0000     3831 bytes  dist/scss/core/article.scss</tspan>
+<tspan x="10" y="5194">308.  2017-04-16 14:04:54 +0000     3038 bytes  dist/scss/core/badge.scss</tspan>
+<tspan x="10" y="5210">309.  2017-04-16 14:04:54 +0000    13339 bytes  dist/scss/core/base.scss</tspan>
+<tspan x="10" y="5226">310.  2017-04-16 14:04:54 +0000     3512 bytes  dist/scss/core/block.scss</tspan>
+<tspan x="10" y="5242">311.  2017-04-16 14:04:54 +0000     2048 bytes  dist/scss/core/breadcrumb.scss</tspan>
+<tspan x="10" y="5258">312.  2017-04-16 14:04:54 +0000    11647 bytes  dist/scss/core/button.scss</tspan>
+<tspan x="10" y="5274">313.  2017-04-16 14:04:54 +0000     2936 bytes  dist/scss/core/close.scss</tspan>
+<tspan x="10" y="5290">314.  2017-04-16 14:04:54 +0000     4316 bytes  dist/scss/core/column.scss</tspan>
+<tspan x="10" y="5306">315.  2017-04-16 14:04:54 +0000     4546 bytes  dist/scss/core/comment.scss</tspan>
+<tspan x="10" y="5322">316.  2017-04-16 14:04:54 +0000    16207 bytes  dist/scss/core/contrast.scss</tspan>
+<tspan x="10" y="5338">317.  2017-04-16 14:04:54 +0000     1571 bytes  dist/scss/core/cover.scss</tspan>
+<tspan x="10" y="5354">318.  2017-04-16 14:04:54 +0000     2330 bytes  dist/scss/core/description-list.scss</tspan>
+<tspan x="10" y="5370">319.  2017-04-16 14:04:54 +0000     7480 bytes  dist/scss/core/dropdown.scss</tspan>
+<tspan x="10" y="5386">320.  2017-04-16 14:04:54 +0000     5925 bytes  dist/scss/core/flex.scss</tspan>
+<tspan x="10" y="5402">321.  2017-04-16 14:04:54 +0000    17399 bytes  dist/scss/core/form.scss</tspan>
+<tspan x="10" y="5418">322.  2017-04-16 14:04:54 +0000    18196 bytes  dist/scss/core/grid.scss</tspan>
+<tspan x="10" y="5434">323.  2017-04-16 14:04:54 +0000    38429 bytes  dist/scss/core/icon.scss</tspan>
+<tspan x="10" y="5450">324.  2017-04-16 14:04:54 +0000     2589 bytes  dist/scss/core/list.scss</tspan>
+<tspan x="10" y="5466">325.  2017-04-16 14:04:54 +0000     8084 bytes  dist/scss/core/modal.scss</tspan>
+<tspan x="10" y="5482">326.  2017-04-16 14:04:54 +0000    12906 bytes  dist/scss/core/nav.scss</tspan>
+<tspan x="10" y="5498">327.  2017-04-16 14:04:54 +0000     8589 bytes  dist/scss/core/navbar.scss</tspan>
+<tspan x="10" y="5514">328.  2017-04-16 14:04:54 +0000     5607 bytes  dist/scss/core/offcanvas.scss</tspan>
+<tspan x="10" y="5530">329.  2017-04-16 14:04:54 +0000    13835 bytes  dist/scss/core/overlay.scss</tspan>
+<tspan x="10" y="5546">330.  2017-04-16 14:04:54 +0000     5190 bytes  dist/scss/core/pagination.scss</tspan>
+<tspan x="10" y="5562">331.  2017-04-16 14:04:54 +0000     9804 bytes  dist/scss/core/panel.scss</tspan>
+<tspan x="10" y="5578">332.  2017-04-16 14:04:54 +0000     1240 bytes  dist/scss/core/print.scss</tspan>
+<tspan x="10" y="5594">333.  2017-04-16 14:04:54 +0000     5248 bytes  dist/scss/core/subnav.scss</tspan>
+<tspan x="10" y="5610">334.  2017-04-16 14:04:54 +0000      835 bytes  dist/scss/core/switcher.scss</tspan>
+<tspan x="10" y="5626">335.  2017-04-16 14:04:54 +0000     9311 bytes  dist/scss/core/tab.scss</tspan>
+<tspan x="10" y="5642">336.  2017-04-16 14:04:54 +0000     3507 bytes  dist/scss/core/table.scss</tspan>
+<tspan x="10" y="5658">337.  2017-04-16 14:04:54 +0000     4062 bytes  dist/scss/core/text.scss</tspan>
+<tspan x="10" y="5674">338.  2017-04-16 14:04:54 +0000     3482 bytes  dist/scss/core/thumbnail.scss</tspan>
+<tspan x="10" y="5690">339.  2017-04-16 14:04:54 +0000     2750 bytes  dist/scss/core/thumbnav.scss</tspan>
+<tspan x="10" y="5706">340.  2017-04-16 14:04:54 +0000    14232 bytes  dist/scss/core/utility.scss</tspan>
+<tspan x="10" y="5722">341.  2017-04-16 14:04:54 +0000      979 bytes  dist/scss/core/variables.scss</tspan>
+<tspan x="10" y="5738">342.  2017-04-16 14:04:54 +0000    10368 bytes  dist/scss/uikit-mixins.scss</tspan>
+<tspan x="10" y="5754">343.  2017-04-16 14:04:54 +0000    55061 bytes  dist/scss/uikit-variables.scss</tspan>
+<tspan x="10" y="5770">344.  2017-04-16 14:04:54 +0000     1164 bytes  dist/scss/uikit.scss</tspan>
+<tspan x="10" y="5786">345.  2017-04-16 14:04:54 +0000    25852 bytes  docs/accordion.html</tspan>
+<tspan x="10" y="5802">346.  2017-04-16 14:04:54 +0000    20515 bytes  docs/alert.html</tspan>
+<tspan x="10" y="5818">347.  2017-04-16 14:04:54 +0000    33727 bytes  docs/animation.html</tspan>
+<tspan x="10" y="5834">348.  2017-04-16 14:04:54 +0000    19990 bytes  docs/article.html</tspan>
+<tspan x="10" y="5850">349.  2017-04-16 14:04:54 +0000    23152 bytes  docs/autocomplete.html</tspan>
+<tspan x="10" y="5866">350.  2017-04-16 14:04:54 +0000    19648 bytes  docs/badge.html</tspan>
+<tspan x="10" y="5882">351.  2017-04-16 14:04:54 +0000    30912 bytes  docs/base.html</tspan>
+<tspan x="10" y="5898">352.  2017-04-16 14:04:54 +0000    24590 bytes  docs/block.html</tspan>
+<tspan x="10" y="5914">353.  2017-04-16 14:04:54 +0000    18482 bytes  docs/breadcrumb.html</tspan>
+<tspan x="10" y="5930">354.  2017-04-16 14:04:54 +0000    43500 bytes  docs/button.html</tspan>
+<tspan x="10" y="5946">355.  2017-04-16 14:04:54 +0000    18863 bytes  docs/close.html</tspan>
+<tspan x="10" y="5962">356.  2017-04-16 14:04:54 +0000    21993 bytes  docs/column.html</tspan>
+<tspan x="10" y="5978">357.  2017-04-16 14:04:54 +0000    26067 bytes  docs/comment.html</tspan>
+<tspan x="10" y="5994">358.  2017-04-16 14:04:54 +0000    18304 bytes  docs/components.html</tspan>
+<tspan x="10" y="6010">359.  2017-04-16 14:04:54 +0000    20616 bytes  docs/contrast.html</tspan>
+<tspan x="10" y="6026">360.  2017-04-16 14:04:54 +0000    23833 bytes  docs/core.html</tspan>
+<tspan x="10" y="6042">361.  2017-04-16 14:04:54 +0000    23671 bytes  docs/cover.html</tspan>
+<tspan x="10" y="6058">362.  2017-04-16 14:04:54 +0000    16123 bytes  docs/css/docs.css</tspan>
+<tspan x="10" y="6074">363.  2017-04-16 14:04:54 +0000   134301 bytes  docs/css/uikit.docs.min.css</tspan>
+<tspan x="10" y="6090">364.  2017-04-16 14:04:54 +0000     6016 bytes  docs/customizer.html</tspan>
+<tspan x="10" y="6106">365.  2017-04-16 14:04:54 +0000    22624 bytes  docs/datepicker.html</tspan>
+<tspan x="10" y="6122">366.  2017-04-16 14:04:54 +0000    19035 bytes  docs/description-list.html</tspan>
+<tspan x="10" y="6138">367.  2017-04-16 14:04:54 +0000    15089 bytes  docs/documentation_create-a-style.html</tspan>
+<tspan x="10" y="6154">368.  2017-04-16 14:04:54 +0000    19619 bytes  docs/documentation_create-a-theme.html</tspan>
+<tspan x="10" y="6170">369.  2017-04-16 14:04:54 +0000    15755 bytes  docs/documentation_custom-prefix.html</tspan>
+<tspan x="10" y="6186">370.  2017-04-16 14:04:54 +0000    20905 bytes  docs/documentation_customizer-json.html</tspan>
+<tspan x="10" y="6202">371.  2017-04-16 14:04:54 +0000    19786 bytes  docs/documentation_get-started.html</tspan>
+<tspan x="10" y="6218">372.  2017-04-16 14:04:54 +0000    16446 bytes  docs/documentation_how-to-customize.html</tspan>
+<tspan x="10" y="6234">373.  2017-04-16 14:04:54 +0000    19186 bytes  docs/documentation_javascript.html</tspan>
+<tspan x="10" y="6250">374.  2017-04-16 14:04:54 +0000    17042 bytes  docs/documentation_layouts.html</tspan>
+<tspan x="10" y="6266">375.  2017-04-16 14:04:54 +0000    16464 bytes  docs/documentation_less-sass.html</tspan>
+<tspan x="10" y="6282">376.  2017-04-16 14:04:54 +0000    19810 bytes  docs/documentation_project-structure.html</tspan>
+<tspan x="10" y="6298">377.  2017-04-16 14:04:54 +0000    19575 bytes  docs/dotnav.html</tspan>
+<tspan x="10" y="6314">378.  2017-04-16 14:04:54 +0000    75342 bytes  docs/dropdown.html</tspan>
+<tspan x="10" y="6330">379.  2017-04-16 14:04:54 +0000    34298 bytes  docs/flex.html</tspan>
+<tspan x="10" y="6346">380.  2017-04-16 14:04:54 +0000    17057 bytes  docs/form-advanced.html</tspan>
+<tspan x="10" y="6362">381.  2017-04-16 14:04:54 +0000    16401 bytes  docs/form-file.html</tspan>
+<tspan x="10" y="6378">382.  2017-04-16 14:04:54 +0000    18352 bytes  docs/form-password.html</tspan>
+<tspan x="10" y="6394">383.  2017-04-16 14:04:54 +0000    19270 bytes  docs/form-select.html</tspan>
+<tspan x="10" y="6410">384.  2017-04-16 14:04:54 +0000    46654 bytes  docs/form.html</tspan>
+<tspan x="10" y="6426">385.  2017-04-16 14:04:54 +0000    32414 bytes  docs/grid-js.html</tspan>
+<tspan x="10" y="6442">386.  2017-04-16 14:04:54 +0000    22293 bytes  docs/grid-parallax.html</tspan>
+<tspan x="10" y="6458">387.  2017-04-16 14:04:54 +0000    51148 bytes  docs/grid.html</tspan>
+<tspan x="10" y="6474">388.  2017-04-16 14:04:54 +0000    24911 bytes  docs/htmleditor.html</tspan>
+<tspan x="10" y="6490">389.  2017-04-16 14:04:54 +0000   104573 bytes  docs/icon.html</tspan>
+<tspan x="10" y="6506">390.  2017-04-16 14:04:54 +0000     3703 bytes  docs/images/apple-touch-icon.png</tspan>
+<tspan x="10" y="6522">391.  2017-04-16 14:04:54 +0000   104667 bytes  docs/images/bg_teaser.svg</tspan>
+<tspan x="10" y="6538">392.  2017-04-16 14:04:54 +0000     1150 bytes  docs/images/favicon.ico</tspan>
+<tspan x="10" y="6554">393.  2017-04-16 14:04:54 +0000    16126 bytes  docs/images/icon_components.svg</tspan>
+<tspan x="10" y="6570">394.  2017-04-16 14:04:54 +0000     6087 bytes  docs/images/icon_less.svg</tspan>
+<tspan x="10" y="6586">395.  2017-04-16 14:04:54 +0000    53116 bytes  docs/images/icon_responsive.svg</tspan>
+<tspan x="10" y="6602">396.  2017-04-16 14:04:54 +0000    60009 bytes  docs/images/icon_themes.svg</tspan>
+<tspan x="10" y="6618">397.  2017-04-16 14:04:54 +0000    54352 bytes  docs/images/layouts_blog.png</tspan>
+<tspan x="10" y="6634">398.  2017-04-16 14:04:54 +0000    43891 bytes  docs/images/layouts_contact.png</tspan>
+<tspan x="10" y="6650">399.  2017-04-16 14:04:54 +0000    66861 bytes  docs/images/layouts_documentation.png</tspan>
+<tspan x="10" y="6666">400.  2017-04-16 14:04:54 +0000    64388 bytes  docs/images/layouts_frontpage.png</tspan>
+<tspan x="10" y="6682">401.  2017-04-16 14:04:54 +0000     9154 bytes  docs/images/layouts_login.png</tspan>
+<tspan x="10" y="6698">402.  2017-04-16 14:04:54 +0000    21110 bytes  docs/images/layouts_portfolio.png</tspan>
+<tspan x="10" y="6714">403.  2017-04-16 14:04:54 +0000     1749 bytes  docs/images/logo_uikit.svg</tspan>
+<tspan x="10" y="6730">404.  2017-04-16 14:04:54 +0000     2020 bytes  docs/images/logo_uikit3.svg</tspan>
+<tspan x="10" y="6746">405.  2017-04-16 14:04:54 +0000     3443 bytes  docs/images/logo_uikit_large.svg</tspan>
+<tspan x="10" y="6762">406.  2017-04-16 14:04:54 +0000     1071 bytes  docs/images/placeholder_120x255.svg</tspan>
+<tspan x="10" y="6778">407.  2017-04-16 14:04:54 +0000     1066 bytes  docs/images/placeholder_200x100.svg</tspan>
+<tspan x="10" y="6794">408.  2017-04-16 14:04:54 +0000      838 bytes  docs/images/placeholder_200x150_1.svg</tspan>
+<tspan x="10" y="6810">409.  2017-04-16 14:04:54 +0000     1127 bytes  docs/images/placeholder_200x150_2.svg</tspan>
+<tspan x="10" y="6826">410.  2017-04-16 14:04:54 +0000      838 bytes  docs/images/placeholder_200x150_3.svg</tspan>
+<tspan x="10" y="6842">411.  2017-04-16 14:04:54 +0000      838 bytes  docs/images/placeholder_200x150_4.svg</tspan>
+<tspan x="10" y="6858">412.  2017-04-16 14:04:54 +0000     1066 bytes  docs/images/placeholder_200x200.svg</tspan>
+<tspan x="10" y="6874">413.  2017-04-16 14:04:54 +0000     1068 bytes  docs/images/placeholder_300x455.svg</tspan>
+<tspan x="10" y="6890">414.  2017-04-16 14:04:54 +0000     1026 bytes  docs/images/placeholder_400x200.svg</tspan>
+<tspan x="10" y="6906">415.  2017-04-16 14:04:54 +0000     1031 bytes  docs/images/placeholder_400x250.svg</tspan>
+<tspan x="10" y="6922">416.  2017-04-16 14:04:54 +0000     1023 bytes  docs/images/placeholder_480x260.svg</tspan>
+<tspan x="10" y="6938">417.  2017-04-16 14:04:54 +0000     1059 bytes  docs/images/placeholder_600x400.svg</tspan>
+<tspan x="10" y="6954">418.  2017-04-16 14:04:54 +0000     1059 bytes  docs/images/placeholder_600x400_2.svg</tspan>
+<tspan x="10" y="6970">419.  2017-04-16 14:04:54 +0000     1038 bytes  docs/images/placeholder_800x280.svg</tspan>
+<tspan x="10" y="6986">420.  2017-04-16 14:04:54 +0000    45412 bytes  docs/images/placeholder_800x400_1.jpg</tspan>
+<tspan x="10" y="7002">421.  2017-04-16 14:04:54 +0000    47895 bytes  docs/images/placeholder_800x400_2.jpg</tspan>
+<tspan x="10" y="7018">422.  2017-04-16 14:04:54 +0000    40007 bytes  docs/images/placeholder_800x400_3.jpg</tspan>
+<tspan x="10" y="7034">423.  2017-04-16 14:04:54 +0000   122389 bytes  docs/images/placeholder_800x600_1.jpg</tspan>
+<tspan x="10" y="7050">424.  2017-04-16 14:04:54 +0000   122079 bytes  docs/images/placeholder_800x600_2.jpg</tspan>
+<tspan x="10" y="7066">425.  2017-04-16 14:04:54 +0000   107110 bytes  docs/images/placeholder_800x600_3.jpg</tspan>
+<tspan x="10" y="7082">426.  2017-04-16 14:04:54 +0000   219124 bytes  docs/images/placeholder_800x600_4.jpg</tspan>
+<tspan x="10" y="7098">427.  2017-04-16 14:04:54 +0000     1696 bytes  docs/images/placeholder_avatar.svg</tspan>
+<tspan x="10" y="7114">428.  2017-04-16 14:04:54 +0000     8687 bytes  docs/js/customizer.js</tspan>
+<tspan x="10" y="7130">429.  2017-04-16 14:04:54 +0000     1834 bytes  docs/js/docs.js</tspan>
+<tspan x="10" y="7146">430.  2017-04-16 14:04:54 +0000    56226 bytes  docs/js/uikit.min.js</tspan>
+<tspan x="10" y="7162">431.  2017-04-16 14:04:54 +0000    13424 bytes  docs/layouts_blog.html</tspan>
+<tspan x="10" y="7178">432.  2017-04-16 14:04:54 +0000    31663 bytes  docs/layouts_contact.html</tspan>
+<tspan x="10" y="7194">433.  2017-04-16 14:04:54 +0000    25953 bytes  docs/layouts_documentation.html</tspan>
+<tspan x="10" y="7210">434.  2017-04-16 14:04:54 +0000    24381 bytes  docs/layouts_frontpage.html</tspan>
+<tspan x="10" y="7226">435.  2017-04-16 14:04:54 +0000     2982 bytes  docs/layouts_login.html</tspan>
+<tspan x="10" y="7242">436.  2017-04-16 14:04:54 +0000    85780 bytes  docs/layouts_portfolio.html</tspan>
+<tspan x="10" y="7258">437.  2017-04-16 14:04:54 +0000    22433 bytes  docs/layouts_post.html</tspan>
+<tspan x="10" y="7274">438.  2017-04-16 14:04:54 +0000      280 bytes  docs/less/uikit.less</tspan>
+<tspan x="10" y="7290">439.  2017-04-16 14:04:54 +0000     1662 bytes  docs/less/variables.less</tspan>
+<tspan x="10" y="7306">440.  2017-04-16 14:04:54 +0000    24741 bytes  docs/lightbox.html</tspan>
+<tspan x="10" y="7322">441.  2017-04-16 14:04:54 +0000    19466 bytes  docs/list.html</tspan>
+<tspan x="10" y="7338">442.  2017-04-16 14:04:54 +0000    49351 bytes  docs/modal.html</tspan>
+<tspan x="10" y="7354">443.  2017-04-16 14:04:54 +0000    38061 bytes  docs/nav.html</tspan>
+<tspan x="10" y="7370">444.  2017-04-16 14:04:54 +0000    45234 bytes  docs/navbar.html</tspan>
+<tspan x="10" y="7386">445.  2017-04-16 14:04:54 +0000    39162 bytes  docs/nestable.html</tspan>
+<tspan x="10" y="7402">446.  2017-04-16 14:04:54 +0000    25172 bytes  docs/notify.html</tspan>
+<tspan x="10" y="7418">447.  2017-04-16 14:04:54 +0000    33976 bytes  docs/offcanvas.html</tspan>
+<tspan x="10" y="7434">448.  2017-04-16 14:04:54 +0000    39908 bytes  docs/overlay.html</tspan>
+<tspan x="10" y="7450">449.  2017-04-16 14:04:54 +0000    21326 bytes  docs/pagination-js.html</tspan>
+<tspan x="10" y="7466">450.  2017-04-16 14:04:54 +0000    25317 bytes  docs/pagination.html</tspan>
+<tspan x="10" y="7482">451.  2017-04-16 14:04:54 +0000    39111 bytes  docs/panel.html</tspan>
+<tspan x="10" y="7498">452.  2017-04-16 14:04:54 +0000    32377 bytes  docs/parallax.html</tspan>
+<tspan x="10" y="7514">453.  2017-04-16 14:04:54 +0000    16211 bytes  docs/placeholder.html</tspan>
+<tspan x="10" y="7530">454.  2017-04-16 14:04:54 +0000    16508 bytes  docs/print.html</tspan>
+<tspan x="10" y="7546">455.  2017-04-16 14:04:54 +0000    21657 bytes  docs/progress.html</tspan>
+<tspan x="10" y="7562">456.  2017-04-16 14:04:54 +0000    40212 bytes  docs/scrollspy.html</tspan>
+<tspan x="10" y="7578">457.  2017-04-16 14:04:54 +0000    24729 bytes  docs/search.html</tspan>
+<tspan x="10" y="7594">458.  2017-04-16 14:04:54 +0000    18545 bytes  docs/slidenav.html</tspan>
+<tspan x="10" y="7610">459.  2017-04-16 14:04:54 +0000    39427 bytes  docs/slider.html</tspan>
+<tspan x="10" y="7626">460.  2017-04-16 14:04:54 +0000    45028 bytes  docs/slideset.html</tspan>
+<tspan x="10" y="7642">461.  2017-04-16 14:04:54 +0000    58369 bytes  docs/slideshow.html</tspan>
+<tspan x="10" y="7658">462.  2017-04-16 14:04:54 +0000    21606 bytes  docs/smooth-scroll.html</tspan>
+<tspan x="10" y="7674">463.  2017-04-16 14:04:54 +0000    29671 bytes  docs/sortable.html</tspan>
+<tspan x="10" y="7690">464.  2017-04-16 14:04:54 +0000    27667 bytes  docs/sticky.html</tspan>
+<tspan x="10" y="7706">465.  2017-04-16 14:04:54 +0000    22937 bytes  docs/subnav.html</tspan>
+<tspan x="10" y="7722">466.  2017-04-16 14:04:54 +0000    54812 bytes  docs/switcher.html</tspan>
+<tspan x="10" y="7738">467.  2017-04-16 14:04:54 +0000    30693 bytes  docs/tab.html</tspan>
+<tspan x="10" y="7754">468.  2017-04-16 14:04:54 +0000    33875 bytes  docs/table.html</tspan>
+<tspan x="10" y="7770">469.  2017-04-16 14:04:54 +0000    31320 bytes  docs/text.html</tspan>
+<tspan x="10" y="7786">470.  2017-04-16 14:04:54 +0000    24374 bytes  docs/thumbnail.html</tspan>
+<tspan x="10" y="7802">471.  2017-04-16 14:04:54 +0000    18926 bytes  docs/thumbnav.html</tspan>
+<tspan x="10" y="7818">472.  2017-04-16 14:04:54 +0000    19726 bytes  docs/timepicker.html</tspan>
+<tspan x="10" y="7834">473.  2017-04-16 14:04:54 +0000    22701 bytes  docs/toggle.html</tspan>
+<tspan x="10" y="7850">474.  2017-04-16 14:04:54 +0000    23819 bytes  docs/tooltip.html</tspan>
+<tspan x="10" y="7866">475.  2017-04-16 14:04:54 +0000    17157 bytes  docs/tutorials.html</tspan>
+<tspan x="10" y="7882">476.  2017-04-16 14:04:54 +0000    33044 bytes  docs/uikit3.html</tspan>
+<tspan x="10" y="7898">477.  2017-04-16 14:04:54 +0000    28945 bytes  docs/upload.html</tspan>
+<tspan x="10" y="7914">478.  2017-04-16 14:04:54 +0000    68980 bytes  docs/utility.html</tspan>
+<tspan x="10" y="7930">479.  2017-04-16 14:04:54 +0000    21567 bytes  gulpfile.js</tspan>
+<tspan x="10" y="7946">480.  2017-04-16 14:04:54 +0000    20930 bytes  index.html</tspan>
+<tspan x="10" y="7962">481.  2017-04-16 14:04:54 +0000     2872 bytes  package.json</tspan>
+<tspan x="10" y="7978">482.  2017-04-16 14:04:54 +0000   124988 bytes  src/fonts/FontAwesome.otf</tspan>
+<tspan x="10" y="7994">483.  2017-04-16 14:04:54 +0000   152796 bytes  src/fonts/fontawesome-webfont.ttf</tspan>
+<tspan x="10" y="8010">484.  2017-04-16 14:04:54 +0000    90412 bytes  src/fonts/fontawesome-webfont.woff</tspan>
+<tspan x="10" y="8026">485.  2017-04-16 14:04:54 +0000    71896 bytes  src/fonts/fontawesome-webfont.woff2</tspan>
+<tspan x="10" y="8042">486.  2017-04-16 14:04:54 +0000     5349 bytes  src/js/components/accordion.js</tspan>
+<tspan x="10" y="8058">487.  2017-04-16 14:04:54 +0000     9585 bytes  src/js/components/autocomplete.js</tspan>
+<tspan x="10" y="8074">488.  2017-04-16 14:04:54 +0000   113308 bytes  src/js/components/datepicker.js</tspan>
+<tspan x="10" y="8090">489.  2017-04-16 14:04:54 +0000     1676 bytes  src/js/components/form-password.js</tspan>
+<tspan x="10" y="8106">490.  2017-04-16 14:04:54 +0000     2264 bytes  src/js/components/form-select.js</tspan>
+<tspan x="10" y="8122">491.  2017-04-16 14:04:54 +0000     4753 bytes  src/js/components/grid-parallax.js</tspan>
+<tspan x="10" y="8138">492.  2017-04-16 14:04:54 +0000    17041 bytes  src/js/components/grid.js</tspan>
+<tspan x="10" y="8154">493.  2017-04-16 14:04:54 +0000    25804 bytes  src/js/components/htmleditor.js</tspan>
+<tspan x="10" y="8170">494.  2017-04-16 14:04:54 +0000    19009 bytes  src/js/components/lightbox.js</tspan>
+<tspan x="10" y="8186">495.  2017-04-16 14:04:54 +0000    22426 bytes  src/js/components/nestable.js</tspan>
+<tspan x="10" y="8202">496.  2017-04-16 14:04:54 +0000     5013 bytes  src/js/components/notify.js</tspan>
+<tspan x="10" y="8218">497.  2017-04-16 14:04:54 +0000     4841 bytes  src/js/components/pagination.js</tspan>
+<tspan x="10" y="8234">498.  2017-04-16 14:04:54 +0000    14973 bytes  src/js/components/parallax.js</tspan>
+<tspan x="10" y="8250">499.  2017-04-16 14:04:54 +0000     3648 bytes  src/js/components/search.js</tspan>
+<tspan x="10" y="8266">500.  2017-04-16 14:04:54 +0000    16201 bytes  src/js/components/slider.js</tspan>
+<tspan x="10" y="8282">501.  2017-04-16 14:04:54 +0000    14640 bytes  src/js/components/slideset.js</tspan>
+<tspan x="10" y="8298">502.  2017-04-16 14:04:54 +0000    13795 bytes  src/js/components/slideshow-fx.js</tspan>
+<tspan x="10" y="8314">503.  2017-04-16 14:04:54 +0000    20059 bytes  src/js/components/slideshow.js</tspan>
+<tspan x="10" y="8330">504.  2017-04-16 14:04:54 +0000    24035 bytes  src/js/components/sortable.js</tspan>
+<tspan x="10" y="8346">505.  2017-04-16 14:04:54 +0000    12956 bytes  src/js/components/sticky.js</tspan>
+<tspan x="10" y="8362">506.  2017-04-16 14:04:54 +0000     5478 bytes  src/js/components/timepicker.js</tspan>
+<tspan x="10" y="8378">507.  2017-04-16 14:04:54 +0000     7979 bytes  src/js/components/tooltip.js</tspan>
+<tspan x="10" y="8394">508.  2017-04-16 14:04:54 +0000     7707 bytes  src/js/components/upload.js</tspan>
+<tspan x="10" y="8410">509.  2017-04-16 14:04:54 +0000     1689 bytes  src/js/core/alert.js</tspan>
+<tspan x="10" y="8426">510.  2017-04-16 14:04:54 +0000     4234 bytes  src/js/core/button.js</tspan>
+<tspan x="10" y="8442">511.  2017-04-16 14:04:54 +0000    25083 bytes  src/js/core/core.js</tspan>
+<tspan x="10" y="8458">512.  2017-04-16 14:04:54 +0000     2503 bytes  src/js/core/cover.js</tspan>
+<tspan x="10" y="8474">513.  2017-04-16 14:04:54 +0000    18400 bytes  src/js/core/dropdown.js</tspan>
+<tspan x="10" y="8490">514.  2017-04-16 14:04:54 +0000     3032 bytes  src/js/core/grid.js</tspan>
+<tspan x="10" y="8506">515.  2017-04-16 14:04:54 +0000    11998 bytes  src/js/core/modal.js</tspan>
+<tspan x="10" y="8522">516.  2017-04-16 14:04:54 +0000     4349 bytes  src/js/core/nav.js</tspan>
+<tspan x="10" y="8538">517.  2017-04-16 14:04:54 +0000     6047 bytes  src/js/core/offcanvas.js</tspan>
+<tspan x="10" y="8554">518.  2017-04-16 14:04:54 +0000     6985 bytes  src/js/core/scrollspy.js</tspan>
+<tspan x="10" y="8570">519.  2017-04-16 14:04:54 +0000     1743 bytes  src/js/core/smooth-scroll.js</tspan>
+<tspan x="10" y="8586">520.  2017-04-16 14:04:54 +0000     8842 bytes  src/js/core/switcher.js</tspan>
+<tspan x="10" y="8602">521.  2017-04-16 14:04:54 +0000     5362 bytes  src/js/core/tab.js</tspan>
+<tspan x="10" y="8618">522.  2017-04-16 14:04:54 +0000     3255 bytes  src/js/core/toggle.js</tspan>
+<tspan x="10" y="8634">523.  2017-04-16 14:04:54 +0000     6180 bytes  src/js/core/touch.js</tspan>
+<tspan x="10" y="8650">524.  2017-04-16 14:04:54 +0000     8806 bytes  src/js/core/utility.js</tspan>
+<tspan x="10" y="8666">525.  2017-04-16 14:04:54 +0000     2609 bytes  src/less/components/accordion.less</tspan>
+<tspan x="10" y="8682">526.  2017-04-16 14:04:54 +0000     2509 bytes  src/less/components/autocomplete.less</tspan>
+<tspan x="10" y="8698">527.  2017-04-16 14:04:54 +0000     5042 bytes  src/less/components/datepicker.less</tspan>
+<tspan x="10" y="8714">528.  2017-04-16 14:04:54 +0000     4845 bytes  src/less/components/dotnav.less</tspan>
+<tspan x="10" y="8730">529.  2017-04-16 14:04:54 +0000     3724 bytes  src/less/components/form-advanced.less</tspan>
+<tspan x="10" y="8746">530.  2017-04-16 14:04:54 +0000     1237 bytes  src/less/components/form-file.less</tspan>
+<tspan x="10" y="8762">531.  2017-04-16 14:04:54 +0000     1906 bytes  src/less/components/form-password.less</tspan>
+<tspan x="10" y="8778">532.  2017-04-16 14:04:54 +0000     1311 bytes  src/less/components/form-select.less</tspan>
+<tspan x="10" y="8794">533.  2017-04-16 14:04:54 +0000     7089 bytes  src/less/components/htmleditor.less</tspan>
+<tspan x="10" y="8810">534.  2017-04-16 14:04:54 +0000     5500 bytes  src/less/components/nestable.less</tspan>
+<tspan x="10" y="8826">535.  2017-04-16 14:04:54 +0000     5033 bytes  src/less/components/notify.less</tspan>
+<tspan x="10" y="8842">536.  2017-04-16 14:04:54 +0000     1784 bytes  src/less/components/placeholder.less</tspan>
+<tspan x="10" y="8858">537.  2017-04-16 14:04:54 +0000     4588 bytes  src/less/components/progress.less</tspan>
+<tspan x="10" y="8874">538.  2017-04-16 14:04:54 +0000     8153 bytes  src/less/components/search.less</tspan>
+<tspan x="10" y="8890">539.  2017-04-16 14:04:54 +0000     4512 bytes  src/less/components/slidenav.less</tspan>
+<tspan x="10" y="8906">540.  2017-04-16 14:04:54 +0000     2635 bytes  src/less/components/slider.less</tspan>
+<tspan x="10" y="8922">541.  2017-04-16 14:04:54 +0000     4763 bytes  src/less/components/slideshow.less</tspan>
+<tspan x="10" y="8938">542.  2017-04-16 14:04:54 +0000     2888 bytes  src/less/components/sortable.less</tspan>
+<tspan x="10" y="8954">543.  2017-04-16 14:04:54 +0000     1454 bytes  src/less/components/sticky.less</tspan>
+<tspan x="10" y="8970">544.  2017-04-16 14:04:54 +0000     4114 bytes  src/less/components/tooltip.less</tspan>
+<tspan x="10" y="8986">545.  2017-04-16 14:04:54 +0000      936 bytes  src/less/components/upload.less</tspan>
+<tspan x="10" y="9002">546.  2017-04-16 14:04:54 +0000     3427 bytes  src/less/core/alert.less</tspan>
+<tspan x="10" y="9018">547.  2017-04-16 14:04:54 +0000    12399 bytes  src/less/core/animation.less</tspan>
+<tspan x="10" y="9034">548.  2017-04-16 14:04:54 +0000     3601 bytes  src/less/core/article.less</tspan>
+<tspan x="10" y="9050">549.  2017-04-16 14:04:54 +0000     2818 bytes  src/less/core/badge.less</tspan>
+<tspan x="10" y="9066">550.  2017-04-16 14:04:54 +0000    12507 bytes  src/less/core/base.less</tspan>
+<tspan x="10" y="9082">551.  2017-04-16 14:04:54 +0000     3314 bytes  src/less/core/block.less</tspan>
+<tspan x="10" y="9098">552.  2017-04-16 14:04:54 +0000     1954 bytes  src/less/core/breadcrumb.less</tspan>
+<tspan x="10" y="9114">553.  2017-04-16 14:04:54 +0000    10899 bytes  src/less/core/button.less</tspan>
+<tspan x="10" y="9130">554.  2017-04-16 14:04:54 +0000     2852 bytes  src/less/core/close.less</tspan>
+<tspan x="10" y="9146">555.  2017-04-16 14:04:54 +0000     4270 bytes  src/less/core/column.less</tspan>
+<tspan x="10" y="9162">556.  2017-04-16 14:04:54 +0000     4292 bytes  src/less/core/comment.less</tspan>
+<tspan x="10" y="9178">557.  2017-04-16 14:04:54 +0000    14997 bytes  src/less/core/contrast.less</tspan>
+<tspan x="10" y="9194">558.  2017-04-16 14:04:54 +0000     1553 bytes  src/less/core/cover.less</tspan>
+<tspan x="10" y="9210">559.  2017-04-16 14:04:54 +0000     2242 bytes  src/less/core/description-list.less</tspan>
+<tspan x="10" y="9226">560.  2017-04-16 14:04:54 +0000     7248 bytes  src/less/core/dropdown.less</tspan>
+<tspan x="10" y="9242">561.  2017-04-16 14:04:54 +0000     5907 bytes  src/less/core/flex.less</tspan>
+<tspan x="10" y="9258">562.  2017-04-16 14:04:54 +0000    16711 bytes  src/less/core/form.less</tspan>
+<tspan x="10" y="9274">563.  2017-04-16 14:04:54 +0000    18078 bytes  src/less/core/grid.less</tspan>
+<tspan x="10" y="9290">564.  2017-04-16 14:04:54 +0000    38128 bytes  src/less/core/icon.less</tspan>
+<tspan x="10" y="9306">565.  2017-04-16 14:04:54 +0000     2455 bytes  src/less/core/list.less</tspan>
+<tspan x="10" y="9322">566.  2017-04-16 14:04:54 +0000     7804 bytes  src/less/core/modal.less</tspan>
+<tspan x="10" y="9338">567.  2017-04-16 14:04:54 +0000    11902 bytes  src/less/core/nav.less</tspan>
+<tspan x="10" y="9354">568.  2017-04-16 14:04:54 +0000     8193 bytes  src/less/core/navbar.less</tspan>
+<tspan x="10" y="9370">569.  2017-04-16 14:04:54 +0000     5445 bytes  src/less/core/offcanvas.less</tspan>
+<tspan x="10" y="9386">570.  2017-04-16 14:04:54 +0000    13403 bytes  src/less/core/overlay.less</tspan>
+<tspan x="10" y="9402">571.  2017-04-16 14:04:54 +0000     4914 bytes  src/less/core/pagination.less</tspan>
+<tspan x="10" y="9418">572.  2017-04-16 14:04:54 +0000     9188 bytes  src/less/core/panel.less</tspan>
+<tspan x="10" y="9434">573.  2017-04-16 14:04:54 +0000     1222 bytes  src/less/core/print.less</tspan>
+<tspan x="10" y="9450">574.  2017-04-16 14:04:54 +0000     4926 bytes  src/less/core/subnav.less</tspan>
+<tspan x="10" y="9466">575.  2017-04-16 14:04:54 +0000      817 bytes  src/less/core/switcher.less</tspan>
+<tspan x="10" y="9482">576.  2017-04-16 14:04:54 +0000     9061 bytes  src/less/core/tab.less</tspan>
+<tspan x="10" y="9498">577.  2017-04-16 14:04:54 +0000     3299 bytes  src/less/core/table.less</tspan>
+<tspan x="10" y="9514">578.  2017-04-16 14:04:54 +0000     3934 bytes  src/less/core/text.less</tspan>
+<tspan x="10" y="9530">579.  2017-04-16 14:04:54 +0000     3290 bytes  src/less/core/thumbnail.less</tspan>
+<tspan x="10" y="9546">580.  2017-04-16 14:04:54 +0000     2654 bytes  src/less/core/thumbnav.less</tspan>
+<tspan x="10" y="9562">581.  2017-04-16 14:04:54 +0000    13958 bytes  src/less/core/utility.less</tspan>
+<tspan x="10" y="9578">582.  2017-04-16 14:04:54 +0000      899 bytes  src/less/core/variables.less</tspan>
+<tspan x="10" y="9594">583.  2017-04-16 14:04:54 +0000     1164 bytes  src/less/uikit.less</tspan>
+<tspan x="10" y="9610">584.  2017-04-16 14:04:54 +0000     7985 bytes  tests/_test.js</tspan>
+<tspan x="10" y="9626">585.  2017-04-16 14:04:54 +0000       35 bytes  tests/_test.less</tspan>
+<tspan x="10" y="9642">586.  2017-04-16 14:04:54 +0000       77 bytes  tests/_test.scss</tspan>
+<tspan x="10" y="9658">587.  2017-04-16 14:04:54 +0000      444 bytes  tests/components/_autocomplete.json</tspan>
+<tspan x="10" y="9674">588.  2017-04-16 14:04:54 +0000      420 bytes  tests/components/_searchautocomplete.json</tspan>
+<tspan x="10" y="9690">589.  2017-04-16 14:04:54 +0000     7005 bytes  tests/components/accordion.html</tspan>
+<tspan x="10" y="9706">590.  2017-04-16 14:04:54 +0000     1757 bytes  tests/components/autocomplete.html</tspan>
+<tspan x="10" y="9722">591.  2017-04-16 14:04:54 +0000     4380 bytes  tests/components/datepicker.html</tspan>
+<tspan x="10" y="9738">592.  2017-04-16 14:04:54 +0000     2014 bytes  tests/components/dotnav.html</tspan>
+<tspan x="10" y="9754">593.  2017-04-16 14:04:54 +0000     2375 bytes  tests/components/form-advanced.html</tspan>
+<tspan x="10" y="9770">594.  2017-04-16 14:04:54 +0000      907 bytes  tests/components/form-file.html</tspan>
+<tspan x="10" y="9786">595.  2017-04-16 14:04:54 +0000     1932 bytes  tests/components/form-password.html</tspan>
+<tspan x="10" y="9802">596.  2017-04-16 14:04:54 +0000     2072 bytes  tests/components/form-select.html</tspan>
+<tspan x="10" y="9818">597.  2017-04-16 14:04:54 +0000     7292 bytes  tests/components/grid-js.html</tspan>
+<tspan x="10" y="9834">598.  2017-04-16 14:04:54 +0000     3729 bytes  tests/components/grid-parallax.html</tspan>
+<tspan x="10" y="9850">599.  2017-04-16 14:04:54 +0000     3900 bytes  tests/components/htmleditor.html</tspan>
+<tspan x="10" y="9866">600.  2017-04-16 14:04:54 +0000     4375 bytes  tests/components/lightbox.html</tspan>
+<tspan x="10" y="9882">601.  2017-04-16 14:04:54 +0000     7661 bytes  tests/components/nestable.html</tspan>
+<tspan x="10" y="9898">602.  2017-04-16 14:04:54 +0000     2750 bytes  tests/components/notify.html</tspan>
+<tspan x="10" y="9914">603.  2017-04-16 14:04:54 +0000      555 bytes  tests/components/pagination-js.html</tspan>
+<tspan x="10" y="9930">604.  2017-04-16 14:04:54 +0000     6880 bytes  tests/components/parallax.html</tspan>
+<tspan x="10" y="9946">605.  2017-04-16 14:04:54 +0000     1264 bytes  tests/components/placeholder.html</tspan>
+<tspan x="10" y="9962">606.  2017-04-16 14:04:54 +0000     2791 bytes  tests/components/progress.html</tspan>
+<tspan x="10" y="9978">607.  2017-04-16 14:04:54 +0000     7549 bytes  tests/components/search.html</tspan>
+<tspan x="10" y="9994">608.  2017-04-16 14:04:54 +0000      920 bytes  tests/components/slidenav.html</tspan>
+<tspan x="10" y="10010">609.  2017-04-16 14:04:54 +0000    30822 bytes  tests/components/slider.html</tspan>
+<tspan x="10" y="10026">610.  2017-04-16 14:04:54 +0000    14015 bytes  tests/components/slideset.html</tspan>
+<tspan x="10" y="10042">611.  2017-04-16 14:04:54 +0000    31413 bytes  tests/components/slideshow.html</tspan>
+<tspan x="10" y="10058">612.  2017-04-16 14:04:54 +0000     9691 bytes  tests/components/sortable.html</tspan>
+<tspan x="10" y="10074">613.  2017-04-16 14:04:54 +0000     4580 bytes  tests/components/sticky.html</tspan>
+<tspan x="10" y="10090">614.  2017-04-16 14:04:54 +0000     1668 bytes  tests/components/timepicker.html</tspan>
+<tspan x="10" y="10106">615.  2017-04-16 14:04:54 +0000     3409 bytes  tests/components/tooltip.html</tspan>
+<tspan x="10" y="10122">616.  2017-04-16 14:04:54 +0000     2500 bytes  tests/components/upload.html</tspan>
+<tspan x="10" y="10138">617.  2017-04-16 14:04:54 +0000     3364 bytes  tests/core/alert.html</tspan>
+<tspan x="10" y="10154">618.  2017-04-16 14:04:54 +0000     6475 bytes  tests/core/animation.html</tspan>
+<tspan x="10" y="10170">619.  2017-04-16 14:04:54 +0000     5912 bytes  tests/core/article.html</tspan>
+<tspan x="10" y="10186">620.  2017-04-16 14:04:54 +0000     3159 bytes  tests/core/badge.html</tspan>
+<tspan x="10" y="10202">621.  2017-04-16 14:04:54 +0000    13620 bytes  tests/core/base.html</tspan>
+<tspan x="10" y="10218">622.  2017-04-16 14:04:54 +0000     7127 bytes  tests/core/block.html</tspan>
+<tspan x="10" y="10234">623.  2017-04-16 14:04:54 +0000      666 bytes  tests/core/breadcrumb.html</tspan>
+<tspan x="10" y="10250">624.  2017-04-16 14:04:54 +0000    15627 bytes  tests/core/button.html</tspan>
+<tspan x="10" y="10266">625.  2017-04-16 14:04:54 +0000     1536 bytes  tests/core/close.html</tspan>
+<tspan x="10" y="10282">626.  2017-04-16 14:04:54 +0000     1317 bytes  tests/core/column.html</tspan>
+<tspan x="10" y="10298">627.  2017-04-16 14:04:54 +0000     9203 bytes  tests/core/comment.html</tspan>
+<tspan x="10" y="10314">628.  2017-04-16 14:04:54 +0000     6035 bytes  tests/core/contrast.html</tspan>
+<tspan x="10" y="10330">629.  2017-04-16 14:04:54 +0000     6405 bytes  tests/core/cover.html</tspan>
+<tspan x="10" y="10346">630.  2017-04-16 14:04:54 +0000     1919 bytes  tests/core/description-list.html</tspan>
+<tspan x="10" y="10362">631.  2017-04-16 14:04:54 +0000    52909 bytes  tests/core/dropdown.html</tspan>
+<tspan x="10" y="10378">632.  2017-04-16 14:04:54 +0000     8371 bytes  tests/core/flex.html</tspan>
+<tspan x="10" y="10394">633.  2017-04-16 14:04:54 +0000    27894 bytes  tests/core/form.html</tspan>
+<tspan x="10" y="10410">634.  2017-04-16 14:04:54 +0000    25258 bytes  tests/core/grid.html</tspan>
+<tspan x="10" y="10426">635.  2017-04-16 14:04:54 +0000     8269 bytes  tests/core/icon.html</tspan>
+<tspan x="10" y="10442">636.  2017-04-16 14:04:54 +0000     4174 bytes  tests/core/list.html</tspan>
+<tspan x="10" y="10458">637.  2017-04-16 14:04:54 +0000    23327 bytes  tests/core/modal.html</tspan>
+<tspan x="10" y="10474">638.  2017-04-16 14:04:54 +0000    19362 bytes  tests/core/nav.html</tspan>
+<tspan x="10" y="10490">639.  2017-04-16 14:04:54 +0000    13672 bytes  tests/core/navbar.html</tspan>
+<tspan x="10" y="10506">640.  2017-04-16 14:04:54 +0000    11335 bytes  tests/core/offcanvas.html</tspan>
+<tspan x="10" y="10522">641.  2017-04-16 14:04:54 +0000    25481 bytes  tests/core/overlay.html</tspan>
+<tspan x="10" y="10538">642.  2017-04-16 14:04:54 +0000     4382 bytes  tests/core/pagination.html</tspan>
+<tspan x="10" y="10554">643.  2017-04-16 14:04:54 +0000    18510 bytes  tests/core/panel.html</tspan>
+<tspan x="10" y="10570">644.  2017-04-16 14:04:54 +0000    24673 bytes  tests/core/scrollspy.html</tspan>
+<tspan x="10" y="10586">645.  2017-04-16 14:04:54 +0000     1135 bytes  tests/core/smooth-scroll.html</tspan>
+<tspan x="10" y="10602">646.  2017-04-16 14:04:54 +0000     1620 bytes  tests/core/subnav.html</tspan>
+<tspan x="10" y="10618">647.  2017-04-16 14:04:54 +0000    16662 bytes  tests/core/switcher.html</tspan>
+<tspan x="10" y="10634">648.  2017-04-16 14:04:54 +0000     7624 bytes  tests/core/tab.html</tspan>
+<tspan x="10" y="10650">649.  2017-04-16 14:04:54 +0000     5547 bytes  tests/core/table.html</tspan>
+<tspan x="10" y="10666">650.  2017-04-16 14:04:54 +0000     1829 bytes  tests/core/templating.html</tspan>
+<tspan x="10" y="10682">651.  2017-04-16 14:04:54 +0000     3879 bytes  tests/core/text.html</tspan>
+<tspan x="10" y="10698">652.  2017-04-16 14:04:54 +0000     3862 bytes  tests/core/thumbnail.html</tspan>
+<tspan x="10" y="10714">653.  2017-04-16 14:04:54 +0000     1174 bytes  tests/core/thumbnav.html</tspan>
+<tspan x="10" y="10730">654.  2017-04-16 14:04:54 +0000     2754 bytes  tests/core/toggle.html</tspan>
+<tspan x="10" y="10746">655.  2017-04-16 14:04:54 +0000     1311 bytes  tests/core/touch.html</tspan>
+<tspan x="10" y="10762">656.  2017-04-16 14:04:54 +0000    13310 bytes  tests/core/utility.html</tspan>
+<tspan x="10" y="10778">657.  2017-04-16 14:04:54 +0000      378 bytes  tests/index.html</tspan>
+<tspan x="10" y="10794">658.  2017-04-16 14:04:54 +0000    33839 bytes  tests/overview.html</tspan>
+<tspan x="10" y="10810">659.  2017-04-16 14:04:54 +0000     1290 bytes  themes/almost-flat/accordion.less</tspan>
+<tspan x="10" y="10826">660.  2017-04-16 14:04:54 +0000     1528 bytes  themes/almost-flat/alert.less</tspan>
+<tspan x="10" y="10842">661.  2017-04-16 14:04:54 +0000     2019 bytes  themes/almost-flat/article.less</tspan>
+<tspan x="10" y="10858">662.  2017-04-16 14:04:54 +0000     1137 bytes  themes/almost-flat/autocomplete.less</tspan>
+<tspan x="10" y="10874">663.  2017-04-16 14:04:54 +0000     1818 bytes  themes/almost-flat/badge.less</tspan>
+<tspan x="10" y="10890">664.  2017-04-16 14:04:54 +0000     4295 bytes  themes/almost-flat/base.less</tspan>
+<tspan x="10" y="10906">665.  2017-04-16 14:04:54 +0000      950 bytes  themes/almost-flat/block.less</tspan>
+<tspan x="10" y="10922">666.  2017-04-16 14:04:54 +0000      622 bytes  themes/almost-flat/breadcrumb.less</tspan>
+<tspan x="10" y="10938">667.  2017-04-16 14:04:54 +0000     6694 bytes  themes/almost-flat/button.less</tspan>
+<tspan x="10" y="10954">668.  2017-04-16 14:04:54 +0000      701 bytes  themes/almost-flat/close.less</tspan>
+<tspan x="10" y="10970">669.  2017-04-16 14:04:54 +0000      492 bytes  themes/almost-flat/column.less</tspan>
+<tspan x="10" y="10986">670.  2017-04-16 14:04:54 +0000     2864 bytes  themes/almost-flat/comment.less</tspan>
+<tspan x="10" y="11002">671.  2017-04-16 14:04:54 +0000     2563 bytes  themes/almost-flat/contrast.less</tspan>
+<tspan x="10" y="11018">672.  2017-04-16 14:04:54 +0000     9217 bytes  themes/almost-flat/customizer.json</tspan>
+<tspan x="10" y="11034">673.  2017-04-16 14:04:54 +0000     1851 bytes  themes/almost-flat/datepicker.less</tspan>
+<tspan x="10" y="11050">674.  2017-04-16 14:04:54 +0000      466 bytes  themes/almost-flat/description-list.less</tspan>
+<tspan x="10" y="11066">675.  2017-04-16 14:04:54 +0000      821 bytes  themes/almost-flat/dotnav.less</tspan>
+<tspan x="10" y="11082">676.  2017-04-16 14:04:54 +0000     1370 bytes  themes/almost-flat/dropdown.less</tspan>
+<tspan x="10" y="11098">677.  2017-04-16 14:04:54 +0000      488 bytes  themes/almost-flat/form-advanced.less</tspan>
+<tspan x="10" y="11114">678.  2017-04-16 14:04:54 +0000      612 bytes  themes/almost-flat/form-password.less</tspan>
+<tspan x="10" y="11130">679.  2017-04-16 14:04:54 +0000     2543 bytes  themes/almost-flat/form.less</tspan>
+<tspan x="10" y="11146">680.  2017-04-16 14:04:54 +0000      816 bytes  themes/almost-flat/grid.less</tspan>
+<tspan x="10" y="11162">681.  2017-04-16 14:04:54 +0000     4170 bytes  themes/almost-flat/htmleditor.less</tspan>
+<tspan x="10" y="11178">682.  2017-04-16 14:04:54 +0000     1731 bytes  themes/almost-flat/icon.less</tspan>
+<tspan x="10" y="11194">683.  2017-04-16 14:04:54 +0000      903 bytes  themes/almost-flat/list.less</tspan>
+<tspan x="10" y="11210">684.  2017-04-16 14:04:54 +0000     2278 bytes  themes/almost-flat/modal.less</tspan>
+<tspan x="10" y="11226">685.  2017-04-16 14:04:54 +0000     7224 bytes  themes/almost-flat/nav.less</tspan>
+<tspan x="10" y="11242">686.  2017-04-16 14:04:54 +0000     4818 bytes  themes/almost-flat/navbar.less</tspan>
+<tspan x="10" y="11258">687.  2017-04-16 14:04:54 +0000     1117 bytes  themes/almost-flat/nestable.less</tspan>
+<tspan x="10" y="11274">688.  2017-04-16 14:04:54 +0000     1588 bytes  themes/almost-flat/notify.less</tspan>
+<tspan x="10" y="11290">689.  2017-04-16 14:04:54 +0000     1356 bytes  themes/almost-flat/offcanvas.less</tspan>
+<tspan x="10" y="11306">690.  2017-04-16 14:04:54 +0000     1016 bytes  themes/almost-flat/overlay.less</tspan>
+<tspan x="10" y="11322">691.  2017-04-16 14:04:54 +0000     2141 bytes  themes/almost-flat/pagination.less</tspan>
+<tspan x="10" y="11338">692.  2017-04-16 14:04:54 +0000     3327 bytes  themes/almost-flat/panel.less</tspan>
+<tspan x="10" y="11354">693.  2017-04-16 14:04:54 +0000      723 bytes  themes/almost-flat/placeholder.less</tspan>
+<tspan x="10" y="11370">694.  2017-04-16 14:04:54 +0000     1822 bytes  themes/almost-flat/progress.less</tspan>
+<tspan x="10" y="11386">695.  2017-04-16 14:04:54 +0000     2334 bytes  themes/almost-flat/search.less</tspan>
+<tspan x="10" y="11402">696.  2017-04-16 14:04:54 +0000      586 bytes  themes/almost-flat/slidenav.less</tspan>
+<tspan x="10" y="11418">697.  2017-04-16 14:04:54 +0000      587 bytes  themes/almost-flat/sortable.less</tspan>
+<tspan x="10" y="11434">698.  2017-04-16 14:04:54 +0000      383 bytes  themes/almost-flat/sticky.less</tspan>
+<tspan x="10" y="11450">699.  2017-04-16 14:04:54 +0000     1678 bytes  themes/almost-flat/subnav.less</tspan>
+<tspan x="10" y="11466">700.  2017-04-16 14:04:54 +0000     2066 bytes  themes/almost-flat/tab.less</tspan>
+<tspan x="10" y="11482">701.  2017-04-16 14:04:54 +0000     1021 bytes  themes/almost-flat/table.less</tspan>
+<tspan x="10" y="11498">702.  2017-04-16 14:04:54 +0000      851 bytes  themes/almost-flat/text.less</tspan>
+<tspan x="10" y="11514">703.  2017-04-16 14:04:54 +0000      963 bytes  themes/almost-flat/thumbnail.less</tspan>
+<tspan x="10" y="11530">704.  2017-04-16 14:04:54 +0000      337 bytes  themes/almost-flat/thumbnav.less</tspan>
+<tspan x="10" y="11546">705.  2017-04-16 14:04:54 +0000      846 bytes  themes/almost-flat/tooltip.less</tspan>
+<tspan x="10" y="11562">706.  2017-04-16 14:04:54 +0000     1763 bytes  themes/almost-flat/uikit-customizer.less</tspan>
+<tspan x="10" y="11578">707.  2017-04-16 14:04:54 +0000     1074 bytes  themes/almost-flat/uikit.less</tspan>
+<tspan x="10" y="11594">708.  2017-04-16 14:04:54 +0000     1527 bytes  themes/almost-flat/utility.less</tspan>
+<tspan x="10" y="11610">709.  2017-04-16 14:04:54 +0000     1911 bytes  themes/almost-flat/variables.less</tspan>
+<tspan x="10" y="11626">710.  2017-04-16 14:04:54 +0000     1049 bytes  themes/default/accordion.less</tspan>
+<tspan x="10" y="11642">711.  2017-04-16 14:04:54 +0000      890 bytes  themes/default/alert.less</tspan>
+<tspan x="10" y="11658">712.  2017-04-16 14:04:54 +0000     1810 bytes  themes/default/article.less</tspan>
+<tspan x="10" y="11674">713.  2017-04-16 14:04:54 +0000      928 bytes  themes/default/autocomplete.less</tspan>
+<tspan x="10" y="11690">714.  2017-04-16 14:04:54 +0000     1553 bytes  themes/default/badge.less</tspan>
+<tspan x="10" y="11706">715.  2017-04-16 14:04:54 +0000     3849 bytes  themes/default/base.less</tspan>
+<tspan x="10" y="11722">716.  2017-04-16 14:04:54 +0000      950 bytes  themes/default/block.less</tspan>
+<tspan x="10" y="11738">717.  2017-04-16 14:04:54 +0000      622 bytes  themes/default/breadcrumb.less</tspan>
+<tspan x="10" y="11754">718.  2017-04-16 14:04:54 +0000     3534 bytes  themes/default/button.less</tspan>
+<tspan x="10" y="11770">719.  2017-04-16 14:04:54 +0000      456 bytes  themes/default/close.less</tspan>
+<tspan x="10" y="11786">720.  2017-04-16 14:04:54 +0000      492 bytes  themes/default/column.less</tspan>
+<tspan x="10" y="11802">721.  2017-04-16 14:04:54 +0000     1922 bytes  themes/default/comment.less</tspan>
+<tspan x="10" y="11818">722.  2017-04-16 14:04:54 +0000     2300 bytes  themes/default/contrast.less</tspan>
+<tspan x="10" y="11834">723.  2017-04-16 14:04:54 +0000     8936 bytes  themes/default/customizer.json</tspan>
+<tspan x="10" y="11850">724.  2017-04-16 14:04:54 +0000     1228 bytes  themes/default/datepicker.less</tspan>
+<tspan x="10" y="11866">725.  2017-04-16 14:04:54 +0000      466 bytes  themes/default/description-list.less</tspan>
+<tspan x="10" y="11882">726.  2017-04-16 14:04:54 +0000      673 bytes  themes/default/dotnav.less</tspan>
+<tspan x="10" y="11898">727.  2017-04-16 14:04:54 +0000      974 bytes  themes/default/dropdown.less</tspan>
+<tspan x="10" y="11914">728.  2017-04-16 14:04:54 +0000      488 bytes  themes/default/form-advanced.less</tspan>
+<tspan x="10" y="11930">729.  2017-04-16 14:04:54 +0000      612 bytes  themes/default/form-password.less</tspan>
+<tspan x="10" y="11946">730.  2017-04-16 14:04:54 +0000     2447 bytes  themes/default/form.less</tspan>
+<tspan x="10" y="11962">731.  2017-04-16 14:04:54 +0000      816 bytes  themes/default/grid.less</tspan>
+<tspan x="10" y="11978">732.  2017-04-16 14:04:54 +0000     1097 bytes  themes/default/htmleditor.less</tspan>
+<tspan x="10" y="11994">733.  2017-04-16 14:04:54 +0000     1155 bytes  themes/default/icon.less</tspan>
+<tspan x="10" y="12010">734.  2017-04-16 14:04:54 +0000      629 bytes  themes/default/list.less</tspan>
+<tspan x="10" y="12026">735.  2017-04-16 14:04:54 +0000     1598 bytes  themes/default/modal.less</tspan>
+<tspan x="10" y="12042">736.  2017-04-16 14:04:54 +0000     5272 bytes  themes/default/nav.less</tspan>
+<tspan x="10" y="12058">737.  2017-04-16 14:04:54 +0000     1858 bytes  themes/default/navbar.less</tspan>
+<tspan x="10" y="12074">738.  2017-04-16 14:04:54 +0000      762 bytes  themes/default/nestable.less</tspan>
+<tspan x="10" y="12090">739.  2017-04-16 14:04:54 +0000      864 bytes  themes/default/notify.less</tspan>
+<tspan x="10" y="12106">740.  2017-04-16 14:04:54 +0000      763 bytes  themes/default/offcanvas.less</tspan>
+<tspan x="10" y="12122">741.  2017-04-16 14:04:54 +0000     1016 bytes  themes/default/overlay.less</tspan>
+<tspan x="10" y="12138">742.  2017-04-16 14:04:54 +0000     1122 bytes  themes/default/pagination.less</tspan>
+<tspan x="10" y="12154">743.  2017-04-16 14:04:54 +0000     2310 bytes  themes/default/panel.less</tspan>
+<tspan x="10" y="12170">744.  2017-04-16 14:04:54 +0000      723 bytes  themes/default/placeholder.less</tspan>
+<tspan x="10" y="12186">745.  2017-04-16 14:04:54 +0000     1296 bytes  themes/default/progress.less</tspan>
+<tspan x="10" y="12202">746.  2017-04-16 14:04:54 +0000     2080 bytes  themes/default/search.less</tspan>
+<tspan x="10" y="12218">747.  2017-04-16 14:04:54 +0000      586 bytes  themes/default/slidenav.less</tspan>
+<tspan x="10" y="12234">748.  2017-04-16 14:04:54 +0000      587 bytes  themes/default/sortable.less</tspan>
+<tspan x="10" y="12250">749.  2017-04-16 14:04:54 +0000      383 bytes  themes/default/sticky.less</tspan>
+<tspan x="10" y="12266">750.  2017-04-16 14:04:54 +0000     1477 bytes  themes/default/subnav.less</tspan>
+<tspan x="10" y="12282">751.  2017-04-16 14:04:54 +0000     1001 bytes  themes/default/tab.less</tspan>
+<tspan x="10" y="12298">752.  2017-04-16 14:04:54 +0000      755 bytes  themes/default/table.less</tspan>
+<tspan x="10" y="12314">753.  2017-04-16 14:04:54 +0000      851 bytes  themes/default/text.less</tspan>
+<tspan x="10" y="12330">754.  2017-04-16 14:04:54 +0000      920 bytes  themes/default/thumbnail.less</tspan>
+<tspan x="10" y="12346">755.  2017-04-16 14:04:54 +0000      337 bytes  themes/default/thumbnav.less</tspan>
+<tspan x="10" y="12362">756.  2017-04-16 14:04:54 +0000      694 bytes  themes/default/tooltip.less</tspan>
+<tspan x="10" y="12378">757.  2017-04-16 14:04:54 +0000     1763 bytes  themes/default/uikit-customizer.less</tspan>
+<tspan x="10" y="12394">758.  2017-04-16 14:04:54 +0000     1074 bytes  themes/default/uikit.less</tspan>
+<tspan x="10" y="12410">759.  2017-04-16 14:04:54 +0000     1506 bytes  themes/default/utility.less</tspan>
+<tspan x="10" y="12426">760.  2017-04-16 14:04:54 +0000     1569 bytes  themes/default/variables.less</tspan>
+<tspan x="10" y="12442">761.  2017-04-16 14:04:54 +0000     1290 bytes  themes/gradient/accordion.less</tspan>
+<tspan x="10" y="12458">762.  2017-04-16 14:04:54 +0000     1528 bytes  themes/gradient/alert.less</tspan>
+<tspan x="10" y="12474">763.  2017-04-16 14:04:54 +0000     2019 bytes  themes/gradient/article.less</tspan>
+<tspan x="10" y="12490">764.  2017-04-16 14:04:54 +0000     1229 bytes  themes/gradient/autocomplete.less</tspan>
+<tspan x="10" y="12506">765.  2017-04-16 14:04:54 +0000     3577 bytes  themes/gradient/badge.less</tspan>
+<tspan x="10" y="12522">766.  2017-04-16 14:04:54 +0000     4667 bytes  themes/gradient/base.less</tspan>
+<tspan x="10" y="12538">767.  2017-04-16 14:04:54 +0000      950 bytes  themes/gradient/block.less</tspan>
+<tspan x="10" y="12554">768.  2017-04-16 14:04:54 +0000      622 bytes  themes/gradient/breadcrumb.less</tspan>
+<tspan x="10" y="12570">769.  2017-04-16 14:04:54 +0000     9685 bytes  themes/gradient/button.less</tspan>
+<tspan x="10" y="12586">770.  2017-04-16 14:04:54 +0000      701 bytes  themes/gradient/close.less</tspan>
+<tspan x="10" y="12602">771.  2017-04-16 14:04:54 +0000      492 bytes  themes/gradient/column.less</tspan>
+<tspan x="10" y="12618">772.  2017-04-16 14:04:54 +0000     2864 bytes  themes/gradient/comment.less</tspan>
+<tspan x="10" y="12634">773.  2017-04-16 14:04:54 +0000     2601 bytes  themes/gradient/contrast.less</tspan>
+<tspan x="10" y="12650">774.  2017-04-16 14:04:54 +0000     9713 bytes  themes/gradient/customizer.json</tspan>
+<tspan x="10" y="12666">775.  2017-04-16 14:04:54 +0000     2843 bytes  themes/gradient/datepicker.less</tspan>
+<tspan x="10" y="12682">776.  2017-04-16 14:04:54 +0000      466 bytes  themes/gradient/description-list.less</tspan>
+<tspan x="10" y="12698">777.  2017-04-16 14:04:54 +0000      821 bytes  themes/gradient/dotnav.less</tspan>
+<tspan x="10" y="12714">778.  2017-04-16 14:04:54 +0000     1547 bytes  themes/gradient/dropdown.less</tspan>
+<tspan x="10" y="12730">779.  2017-04-16 14:04:54 +0000      488 bytes  themes/gradient/form-advanced.less</tspan>
+<tspan x="10" y="12746">780.  2017-04-16 14:04:54 +0000      612 bytes  themes/gradient/form-password.less</tspan>
+<tspan x="10" y="12762">781.  2017-04-16 14:04:54 +0000     2543 bytes  themes/gradient/form.less</tspan>
+<tspan x="10" y="12778">782.  2017-04-16 14:04:54 +0000      816 bytes  themes/gradient/grid.less</tspan>
+<tspan x="10" y="12794">783.  2017-04-16 14:04:54 +0000     5322 bytes  themes/gradient/htmleditor.less</tspan>
+<tspan x="10" y="12810">784.  2017-04-16 14:04:54 +0000     2339 bytes  themes/gradient/icon.less</tspan>
+<tspan x="10" y="12826">785.  2017-04-16 14:04:54 +0000      903 bytes  themes/gradient/list.less</tspan>
+<tspan x="10" y="12842">786.  2017-04-16 14:04:54 +0000     2278 bytes  themes/gradient/modal.less</tspan>
+<tspan x="10" y="12858">787.  2017-04-16 14:04:54 +0000     7461 bytes  themes/gradient/nav.less</tspan>
+<tspan x="10" y="12874">788.  2017-04-16 14:04:54 +0000     5719 bytes  themes/gradient/navbar.less</tspan>
+<tspan x="10" y="12890">789.  2017-04-16 14:04:54 +0000     1638 bytes  themes/gradient/nestable.less</tspan>
+<tspan x="10" y="12906">790.  2017-04-16 14:04:54 +0000     1588 bytes  themes/gradient/notify.less</tspan>
+<tspan x="10" y="12922">791.  2017-04-16 14:04:54 +0000     1360 bytes  themes/gradient/offcanvas.less</tspan>
+<tspan x="10" y="12938">792.  2017-04-16 14:04:54 +0000     1016 bytes  themes/gradient/overlay.less</tspan>
+<tspan x="10" y="12954">793.  2017-04-16 14:04:54 +0000     3569 bytes  themes/gradient/pagination.less</tspan>
+<tspan x="10" y="12970">794.  2017-04-16 14:04:54 +0000     3327 bytes  themes/gradient/panel.less</tspan>
+<tspan x="10" y="12986">795.  2017-04-16 14:04:54 +0000      723 bytes  themes/gradient/placeholder.less</tspan>
+<tspan x="10" y="13002">796.  2017-04-16 14:04:54 +0000     3566 bytes  themes/gradient/progress.less</tspan>
+<tspan x="10" y="13018">797.  2017-04-16 14:04:54 +0000     2415 bytes  themes/gradient/search.less</tspan>
+<tspan x="10" y="13034">798.  2017-04-16 14:04:54 +0000      586 bytes  themes/gradient/slidenav.less</tspan>
+<tspan x="10" y="13050">799.  2017-04-16 14:04:54 +0000      587 bytes  themes/gradient/sortable.less</tspan>
+<tspan x="10" y="13066">800.  2017-04-16 14:04:54 +0000      383 bytes  themes/gradient/sticky.less</tspan>
+<tspan x="10" y="13082">801.  2017-04-16 14:04:54 +0000     1678 bytes  themes/gradient/subnav.less</tspan>
+<tspan x="10" y="13098">802.  2017-04-16 14:04:54 +0000     2064 bytes  themes/gradient/tab.less</tspan>
+<tspan x="10" y="13114">803.  2017-04-16 14:04:54 +0000     1021 bytes  themes/gradient/table.less</tspan>
+<tspan x="10" y="13130">804.  2017-04-16 14:04:54 +0000      851 bytes  themes/gradient/text.less</tspan>
+<tspan x="10" y="13146">805.  2017-04-16 14:04:54 +0000     1139 bytes  themes/gradient/thumbnail.less</tspan>
+<tspan x="10" y="13162">806.  2017-04-16 14:04:54 +0000      337 bytes  themes/gradient/thumbnav.less</tspan>
+<tspan x="10" y="13178">807.  2017-04-16 14:04:54 +0000      846 bytes  themes/gradient/tooltip.less</tspan>
+<tspan x="10" y="13194">808.  2017-04-16 14:04:54 +0000     1763 bytes  themes/gradient/uikit-customizer.less</tspan>
+<tspan x="10" y="13210">809.  2017-04-16 14:04:54 +0000     1074 bytes  themes/gradient/uikit.less</tspan>
+<tspan x="10" y="13226">810.  2017-04-16 14:04:54 +0000     1527 bytes  themes/gradient/utility.less</tspan>
+<tspan x="10" y="13242">811.  2017-04-16 14:04:54 +0000     2799 bytes  themes/gradient/variables.less</tspan>
+<tspan x="10" y="13258">812.  2017-04-16 14:04:54 +0000     8137 bytes  vendor/codemirror/codemirror.css</tspan>
+<tspan x="10" y="13274">813.  2017-04-16 14:04:54 +0000   315108 bytes  vendor/codemirror/codemirror.js</tspan>
+<tspan x="10" y="13290">814.  2017-04-16 14:04:54 +0000      662 bytes  vendor/codemirror/show-hint.css</tspan>
+<tspan x="10" y="13306">815.  2017-04-16 14:04:54 +0000   140980 bytes  vendor/commonmark.js</tspan>
+<tspan x="10" y="13322">816.  2017-04-16 14:04:54 +0000    11931 bytes  vendor/customizer.js</tspan>
+<tspan x="10" y="13338">817.  2017-04-16 14:04:54 +0000     1611 bytes  vendor/highlight/highlight.css</tspan>
+<tspan x="10" y="13354">818.  2017-04-16 14:04:54 +0000    15963 bytes  vendor/highlight/highlight.js</tspan>
+<tspan x="10" y="13370">819.  2017-04-16 14:04:54 +0000     1187 bytes  vendor/highlight/test.html</tspan>
+<tspan x="10" y="13386">820.  2017-04-16 14:04:54 +0000    69844 bytes  vendor/holder.js</tspan>
+<tspan x="10" y="13402">821.  2017-04-16 14:04:54 +0000    84344 bytes  vendor/jquery.js</tspan>
+<tspan x="10" y="13418">822.  2017-04-16 14:04:54 +0000     7925 bytes  vendor/jquery.less.js</tspan>
+<tspan x="10" y="13434">823.  2017-04-16 14:04:54 +0000     5235 bytes  vendor/jquery.mustache.js</tspan>
+<tspan x="10" y="13450">824.  2017-04-16 14:04:54 +0000    12418 bytes  vendor/jquery.rtl.js</tspan>
+<tspan x="10" y="13466">825.  2017-04-16 14:04:54 +0000   102798 bytes  vendor/less.js</tspan>
+<tspan x="10" y="13482">826.  2017-04-16 14:04:54 +0000    14921 bytes  vendor/spectrum/spectrum.css</tspan>
+<tspan x="10" y="13498">827.  2017-04-16 14:04:54 +0000    79270 bytes  vendor/spectrum/spectrum.js</tspan>
+<tspan x="10" y="13514">828.  2017-04-16 14:04:54 +0000    17977 bytes  vendor/spectrum/test.html</tspan>
 </text>
 </svg>
