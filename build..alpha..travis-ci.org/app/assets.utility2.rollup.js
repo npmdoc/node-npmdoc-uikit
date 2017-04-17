@@ -581,7 +581,7 @@ local.templateApidocHtml = '\
                 .filter(function (element) {
                     return element.trim();
                 })
-                .slice(0, 128);
+                .slice(0, 64);
             // init moduleMain
             try {
                 console.error('apidocCreate - requiring ' + options.dir + ' ...');
@@ -671,8 +671,8 @@ local.templateApidocHtml = '\
                         tmp.skip = local.path.extname(file) !== '.js' ||
                             file.indexOf(options.packageJson.main) >= 0 ||
                             new RegExp('(?:\\b|_)(?:archive|artifact|asset|' +
-                                'bin|bower_components|build|' +
-                                'cli|coverage' +
+                                'bower_components|build|' +
+                                'coverage|' +
                                 'doc|dist|' +
                                 'example|external|' +
                                 'fixture|' +
@@ -699,7 +699,7 @@ local.templateApidocHtml = '\
                 } catch (errorCaught) {
                     console.error(errorCaught);
                 }
-                return options.exampleList.length < 256;
+                return options.exampleList.length < 128;
             });
             local.apidocModuleDictAdd(options, options.moduleExtraDict);
             Object.keys(options.moduleDict).forEach(function (key) {
@@ -788,12 +788,13 @@ local.templateApidocHtml = '\
                                 tmp.module,
                                 tmp.module.prototype
                             ].some(function (dict) {
-                                return Object.keys(dict || {}).some(function (key) {
-                                    try {
-                                        return typeof dict[key] === 'function';
-                                    } catch (ignore) {
-                                    }
-                                });
+                                return typeof dict === 'function' ||
+                                    Object.keys(dict || {}).some(function (key) {
+                                        try {
+                                            return typeof dict[key] === 'function';
+                                        } catch (ignore) {
+                                        }
+                                    });
                             });
                             if (!isModule) {
                                 return;
