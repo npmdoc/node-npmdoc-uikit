@@ -581,7 +581,7 @@ local.templateApidocHtml = '\
                 .filter(function (element) {
                     return element.trim();
                 })
-                .slice(0, 64);
+                .slice(0, 128);
             // init moduleMain
             try {
                 console.error('apidocCreate - requiring ' + options.dir + ' ...');
@@ -696,10 +696,12 @@ local.templateApidocHtml = '\
                     module[tmp.name] = tmp.module;
                     // update exampleList
                     options.exampleList.push(readExample(file));
+                    console.error('apidocCreate - ' + options.exampleList.length +
+                        '. added libFile ' + tmp.name);
                 } catch (errorCaught) {
                     console.error(errorCaught);
                 }
-                return options.exampleList.length < 128;
+                return options.exampleList.length >= 256;
             });
             local.apidocModuleDictAdd(options, options.moduleExtraDict);
             Object.keys(options.moduleDict).forEach(function (key) {
