@@ -1,6 +1,6 @@
 # npmdoc-uikit
 
-#### api documentation for  [uikit (v2.27.2)](http://www.getuikit.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-uikit.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-uikit) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-uikit.svg)](https://travis-ci.org/npmdoc/node-npmdoc-uikit)
+#### api documentation for  [uikit (v3.0.0-beta.21)](https://getuikit.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-uikit.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-uikit) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-uikit.svg)](https://travis-ci.org/npmdoc/node-npmdoc-uikit)
 
 #### UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
@@ -21,70 +21,67 @@
 ```json
 
 {
-    "author": {
-        "name": "UIkit",
-        "url": "http://www.getuikit.com"
+    "name": "uikit",
+    "title": "UIkit",
+    "description": "UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+    "version": "3.0.0-beta.21",
+    "main": "dist/js/uikit.js",
+    "style": "dist/css/uikit.css",
+    "scripts": {
+        "build-scss": "mkdir -p src/scss/theme & mkdir -p src/scss/components & node build/scss",
+        "compile": "npm run compile-less && npm run compile-js",
+        "compile-js": "node build/build",
+        "compile-less": "npm run icons && node build/less",
+        "compile-rtl": "npm run compile-less -- rtl",
+        "icons": "node build/icons",
+        "prefix": "node build/prefix",
+        "scope": "node build/scope",
+        "release": "npm run compile && npm run compile-rtl && npm run build-scss && node build/release",
+        "watch": "npm-watch",
+        "test": "webpack-dev-server --inline --hot && open http://localhost:8080/tests/"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/uikit/uikit.git"
+    },
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/uikit/uikit/issues"
     },
-    "dependencies": {
-        "node-promise": "^0.5.10"
-    },
-    "description": "UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+    "homepage": "https://getuikit.com",
     "devDependencies": {
-        "browser-sync": "^2.6.5",
-        "del": "^0.1.2",
-        "glob": "^4.0.5",
-        "gulp": "^3.8.8",
-        "gulp-concat": "^2.3.4",
-        "gulp-header": "1.0.5",
-        "gulp-ignore": "^1.2.0",
-        "gulp-less": "latest",
-        "gulp-minify-css": "^1.1.1",
-        "gulp-rename": "^1.2.0",
-        "gulp-replace": "^0.4.0",
-        "gulp-rimraf": "latest",
-        "gulp-tap": "latest",
-        "gulp-uglify": "^0.3.1",
-        "gulp-util": "latest",
-        "gulp-watch": "^0.6.9",
-        "gulp-zip": "^2.0.2",
-        "mkdirp": "latest",
-        "promise": "latest",
-        "run-sequence": "^0.3.6"
+        "archiver": "^1.3.0",
+        "buble": "^0.15.1",
+        "buble-loader": "^0.4.0",
+        "clean-css": "^4.0.8",
+        "concat": "^3.0.0",
+        "glob": "^7.0.3",
+        "html-loader": "^0.4.5",
+        "jquery": "^3.1.1",
+        "less": "^2.7.1",
+        "minimist": "^1.2.0",
+        "mkdirp": "^0.5.1",
+        "npm-watch": "^0.1.7",
+        "postcss": "^5.2.15",
+        "rollup": "^0.34.13",
+        "rollup-plugin-buble": "^0.15.0",
+        "rollup-plugin-html": "^0.2.1",
+        "rollup-plugin-import-alias": "^1.0.3",
+        "rollup-plugin-json": "^2.1.0",
+        "rollup-plugin-replace": "^1.1.1",
+        "rtlcss": "^2.1.2",
+        "uglify-js": "^2.7.5",
+        "webpack": "^2.2.1",
+        "webpack-dev-server": "^2.3.0"
     },
-    "directories": {},
-    "dist": {
-        "shasum": "4936be0a041b3e030292d401e5344bb1c2c48f08",
-        "tarball": "https://registry.npmjs.org/uikit/-/uikit-2.27.2.tgz"
-    },
-    "gitHead": "c43bd2fe9fe59c1b0df92a830fac7a3e9e011db5",
-    "homepage": "http://www.getuikit.com",
-    "keywords": [],
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "https://github.com/uikit/uikit/blob/master/LICENSE.md"
+    "watch": {
+        "compile-js": "src/js/**/*.js",
+        "compile-less": {
+            "patterns": "**/*.less",
+            "extensions": "less"
         }
-    ],
-    "main": "dist/js/uikit.js",
-    "maintainers": [
-        {
-            "name": "saschadube"
-        }
-    ],
-    "name": "uikit",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/uikit/uikit.git"
     },
-    "scripts": {
-        "prepublish": "gulp"
-    },
-    "title": "UIkit",
-    "version": "2.27.2"
+    "bin": {}
 }
 ```
 
